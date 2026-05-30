@@ -1,0 +1,724 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="https://10minai.github.io/news/feed.xml" rel="self" type="application/atom+xml" /><link href="https://10minai.github.io/news/" rel="alternate" type="text/html" /><updated>2026-05-30T09:25:41+00:00</updated><id>https://10minai.github.io/news/feed.xml</id><title type="html">10 Minutes AI News</title><entry><title type="html">30 May 2026</title><link href="https://10minai.github.io/news/2026/05/30/daily.html" rel="alternate" type="text/html" title="30 May 2026" /><published>2026-05-30T00:00:00+00:00</published><updated>2026-05-30T00:00:00+00:00</updated><id>https://10minai.github.io/news/2026/05/30/daily</id><content type="html" xml:base="https://10minai.github.io/news/2026/05/30/daily.html"><![CDATA[<p><strong>3 min read · 2 stories</strong> — Wearables race · Biohacking biz</p>
+
+<h2 id="tldr">TL;DR</h2>
+
+<ul>
+  <li>Meta’s leaked memo teases AI pendant and supersensing glasses</li>
+  <li>Silicon Valley eyes Enhanced Games as new biohacking business model</li>
+</ul>
+
+<hr />
+
+<h3 id="-metas-leaked-memo-reveals-ai-pendant-supersensing-glasses-and-enterprise-wearables-push">🥇 Meta’s leaked memo reveals AI pendant, supersensing glasses, and enterprise wearables push</h3>
+
+<p><strong><a href="https://the-decoder.com/metas-leaked-memo-reveals-ai-pendant-supersensing-glasses-and-enterprise-wearables-strategy/">Meta’s internal memo outlines a three-pronged wearable strategy</a></strong> — including a voice-first AI pendant, glasses with advanced sensors, and a separate line for business users.</p>
+
+<blockquote>
+  <p><em>Why it matters:</em> If Meta ships these, it could redefine on-the-go AI interaction before Apple’s rumored AI glasses land.</p>
+</blockquote>
+
+<p>🏷️ <code class="language-plaintext highlighter-rouge">Wearables</code> <code class="language-plaintext highlighter-rouge">Meta</code> <code class="language-plaintext highlighter-rouge">Enterprise</code> <code class="language-plaintext highlighter-rouge">Hardware</code></p>
+
+<hr />
+
+<h3 id="silicon-valleys-obsession-with-peptides-and-the-enhanced-games">Silicon Valley’s obsession with peptides and the Enhanced Games</h3>
+
+<p><strong><a href="https://techcrunch.com/2026/05/29/i-went-to-the-so-called-steroid-olympics-to-understand-why-silicon-valley-is-obsessed-with-peptides/">Tech elites are backing the Enhanced Games, a competition where athletes use performance-enhancing drugs</a></strong> — framing it as a testbed for biohacking startups and a potential new industry.</p>
+
+<blockquote>
+  <p><em>Why it matters:</em> The event signals how far tech’s “move fast” ethos is stretching into human biology—and who might profit.</p>
+</blockquote>
+
+<p>🏷️ <code class="language-plaintext highlighter-rouge">Biohacking</code> <code class="language-plaintext highlighter-rouge">Startups</code> <code class="language-plaintext highlighter-rouge">Ethics</code> <code class="language-plaintext highlighter-rouge">Silicon Valley</code></p>
+
+<hr />
+
+<h2 id="what-to-watch-next">What to Watch Next</h2>
+
+<ul>
+  <li>Meta’s enterprise wearables: Will businesses bite, or is this another consumer play?</li>
+  <li>Regulatory pushback on biohacking events—expect scrutiny if the Enhanced Games scales.</li>
+  <li>Apple’s next move: How its AI glasses roadmap could clash (or align) with Meta’s.</li>
+</ul>]]></content><author><name></name></author><summary type="html"><![CDATA[3 min read · 2 stories — Wearables race · Biohacking biz]]></summary></entry><entry><title type="html">29 May 2026</title><link href="https://10minai.github.io/news/2026/05/29/daily.html" rel="alternate" type="text/html" title="29 May 2026" /><published>2026-05-29T00:00:00+00:00</published><updated>2026-05-29T00:00:00+00:00</updated><id>https://10minai.github.io/news/2026/05/29/daily</id><content type="html" xml:base="https://10minai.github.io/news/2026/05/29/daily.html"><![CDATA[<p><strong>3 min read · 7 stories</strong> — Biodefense push · Memory chips · AI ethics playbook</p>
+
+<h2 id="tldr">TL;DR</h2>
+
+<ul>
+  <li>OpenAI launches <strong>Rosalind Biodefense</strong> for vetted developers</li>
+  <li>Anthropic overtakes OpenAI in key benchmarks</li>
+  <li>Pope’s AI encyclical calls tech “never neutral”</li>
+  <li>Memory chip startup <strong>Xcena</strong> raises $135M</li>
+  <li><strong>Glean</strong> hits $300M revenue amid AI budget cuts</li>
+</ul>
+
+<hr />
+
+<h3 id="-openai-launches-rosalind-biodefense-for-pandemic-preparedness">🥇 OpenAI launches Rosalind Biodefense for pandemic preparedness</h3>
+
+<p><strong><a href="https://openai.com/index/strengthening-societal-resilience-with-rosalind-biodefense">OpenAI expands trusted access to GPT-Rosalind</a></strong> — The new program gives vetted developers and U.S. government partners tools for biodefense, public health, and pandemic response.</p>
+
+<blockquote>
+  <p><em>Why it matters:</em> This shifts AI from general-purpose to mission-critical safety infrastructure, with guardrails that could set a precedent for high-stakes domains.</p>
+</blockquote>
+
+<p>🏷️ <code class="language-plaintext highlighter-rouge">Biodefense</code> <code class="language-plaintext highlighter-rouge">Government</code> <code class="language-plaintext highlighter-rouge">Safety</code> <code class="language-plaintext highlighter-rouge">Models</code></p>
+
+<hr />
+
+<h3 id="anthropic-just-eclipsed-openai">Anthropic just eclipsed OpenAI</h3>
+
+<p><strong><a href="https://www.therundown.ai/p/anthropic-just-eclipsed-openai">Anthropic claims benchmark lead over OpenAI</a></strong> — The company’s latest models outperform OpenAI’s in key evaluations, while its <strong>Codex</strong> tool now lets users build functional games in a single prompt.</p>
+
+<blockquote>
+  <p><em>Why it matters:</em> Benchmark wins don’t always translate to market share, but they force OpenAI to accelerate its next release cycle.</p>
+</blockquote>
+
+<p>🏷️ <code class="language-plaintext highlighter-rouge">Benchmarks</code> <code class="language-plaintext highlighter-rouge">Open-weight</code> <code class="language-plaintext highlighter-rouge">Agents</code> <code class="language-plaintext highlighter-rouge">Tools</code></p>
+
+<hr />
+
+<h3 id="popes-magnifica-humanitas-offers-ai-ethics-template">Pope’s <em>Magnifica Humanitas</em> offers AI ethics template</h3>
+
+<p><strong><a href="https://www.technologyreview.com/2026/05/29/1138107/how-the-popes-magnifica-humanitas-offers-a-template-for-individuals-to-meet-the-ai-moment/">Pope Leo XIV’s encyclical declares “technology is never neutral”</a></strong> — The document urges technologists and policymakers to embed human dignity into AI systems, framing ethics as a design constraint, not an afterthought.</p>
+
+<blockquote>
+  <p><em>Why it matters:</em> Religious frameworks rarely shape tech policy, but this one gives regulators a moral vocabulary for enforcement.</p>
+</blockquote>
+
+<p>🏷️ <code class="language-plaintext highlighter-rouge">Ethics</code> <code class="language-plaintext highlighter-rouge">Policy</code> <code class="language-plaintext highlighter-rouge">Governance</code> <code class="language-plaintext highlighter-rouge">Religion</code></p>
+
+<hr />
+
+<h3 id="memory-not-compute-is-ais-real-bottleneck">Memory, not compute, is AI’s real bottleneck</h3>
+
+<p><strong><a href="https://techcrunch.com/2026/05/29/xcena-secures-135m-at-570m-valuation-betting-on-memory-as-ais-real-bottleneck/">Xcena raises $135M betting on memory chips</a></strong> — The South Korean startup argues that AI’s scaling limits stem from memory bandwidth, not raw compute power, and its new architecture aims to fix that.</p>
+
+<blockquote>
+  <p><em>Why it matters:</em> If memory is the bottleneck, Nvidia’s dominance could face its first real hardware challenge.</p>
+</blockquote>
+
+<p>🏷️ <code class="language-plaintext highlighter-rouge">Hardware</code> <code class="language-plaintext highlighter-rouge">Chips</code> <code class="language-plaintext highlighter-rouge">Infrastructure</code> <code class="language-plaintext highlighter-rouge">Funding</code></p>
+
+<hr />
+
+<h3 id="glean-hits-300m-revenue-as-ai-budget-cuts-become-a-selling-point">Glean hits $300M revenue as AI budget cuts become a selling point</h3>
+
+<p><strong><a href="https://techcrunch.com/2026/05/28/gleans-top-line-crosses-300m-as-ai-budget-cutting-becomes-its-major-selling-point/">Enterprise AI search startup Glean triples revenue</a></strong> — While tech giants pour cash into AI, Glean’s pitch flips the script: its tools help companies <em>reduce</em> AI spending by making existing data more accessible.</p>
+
+<blockquote>
+  <p><em>Why it matters:</em> The “AI efficiency” narrative could outlast the hype cycle.</p>
+</blockquote>
+
+<p>🏷️ <code class="language-plaintext highlighter-rouge">Enterprise</code> <code class="language-plaintext highlighter-rouge">Revenue</code> <code class="language-plaintext highlighter-rouge">Cost-cutting</code> <code class="language-plaintext highlighter-rouge">Search</code></p>
+
+<hr />
+
+<h2 id="quick-hits">Quick Hits</h2>
+
+<ul>
+  <li><strong>TechCrunch</strong> — <strong>Waymo</strong> leads Texas autonomous vehicle registrations, with <strong>Tesla</strong> lagging behind. <a href="https://techcrunch.com/2026/05/28/waymo-dominates-texas-autonomous-vehicle-registrations-as-tesla-trails-behind/">link</a></li>
+  <li><strong>The Decoder</strong> — Amazon shuts down internal AI leaderboard after employees gamed it with pointless tasks. <a href="https://the-decoder.com/amazon-kills-internal-ai-leaderboard-after-employees-gamed-it-with-pointless-tasks/">link</a></li>
+</ul>
+
+<h2 id="what-to-watch-next">What to Watch Next</h2>
+
+<ul>
+  <li>Whether <strong>Rosalind Biodefense</strong> becomes a template for other high-risk AI domains like nuclear or cybersecurity.</li>
+  <li>If <strong>Xcena’s</strong> memory chips gain traction with cloud providers, or remain a niche play.</li>
+  <li>How <strong>Anthropic’s</strong> benchmark lead translates into enterprise contracts—and whether OpenAI responds with a surprise model drop.</li>
+</ul>]]></content><author><name></name></author><summary type="html"><![CDATA[3 min read · 7 stories — Biodefense push · Memory chips · AI ethics playbook]]></summary></entry><entry><title type="html">28 May 2026</title><link href="https://10minai.github.io/news/2026/05/28/daily.html" rel="alternate" type="text/html" title="28 May 2026" /><published>2026-05-28T00:00:00+00:00</published><updated>2026-05-28T00:00:00+00:00</updated><id>https://10minai.github.io/news/2026/05/28/daily</id><content type="html" xml:base="https://10minai.github.io/news/2026/05/28/daily.html"><![CDATA[<p><strong>3 min read · 7 stories</strong> — AI safety laws · Agents everywhere · Hype backlash</p>
+
+<h2 id="tldr">TL;DR</h2>
+
+<ul>
+  <li>Illinois passes strictest US AI safety law</li>
+  <li>Mistral rebrands chatbot as full work agent</li>
+  <li>New moms return to AI-reshaped coding jobs</li>
+  <li>AI booed at graduation speeches</li>
+  <li>Protein world model debuts</li>
+</ul>
+
+<hr />
+
+<h3 id="-illinois-passes-americas-strongest-ai-safety-bill">🥇 Illinois passes America’s strongest AI safety bill</h3>
+
+<p><strong><a href="https://www.wired.com/story/illinois-pass-major-ai-safety-law-pritzker/">Illinois lawmakers approved a sweeping AI safety law</a></strong> — requiring third-party audits for companies like OpenAI, Anthropic, and Google. Governor JB Pritzker plans to sign it.</p>
+
+<blockquote>
+  <p><em>Why it matters:</em> The first US state to mandate independent safety checks could set a precedent for federal rules.</p>
+</blockquote>
+
+<p>🏷️ <code class="language-plaintext highlighter-rouge">Policy</code> <code class="language-plaintext highlighter-rouge">Safety</code> <code class="language-plaintext highlighter-rouge">Regulation</code> <code class="language-plaintext highlighter-rouge">US</code></p>
+
+<hr />
+
+<h3 id="mistral-rebrands-lechat-as-vibe-pivots-to-work-agent">Mistral rebrands LeChat as Vibe, pivots to work agent</h3>
+
+<p><strong><a href="https://the-decoder.com/mistral-rebrands-lechat-as-vibe-betting-its-chatbots-future-is-as-a-full-blown-work-agent/">Mistral relaunched its chatbot as “Vibe,” betting on agentic workflows</a></strong> — positioning it as a full-blown work assistant rather than a conversational tool.</p>
+
+<blockquote>
+  <p><em>Why it matters:</em> The rebrand signals a shift from chat to automation, mirroring industry trends toward AI agents.</p>
+</blockquote>
+
+<p>🏷️ <code class="language-plaintext highlighter-rouge">Models</code> <code class="language-plaintext highlighter-rouge">Agents</code> <code class="language-plaintext highlighter-rouge">Rebrand</code> <code class="language-plaintext highlighter-rouge">Europe</code></p>
+
+<hr />
+
+<h3 id="new-moms-return-to-ai-disrupted-coding-jobs">New moms return to AI-disrupted coding jobs</h3>
+
+<p><strong><a href="https://www.wired.com/story/women-parental-leave-return-office-ai/">Software developers returning from parental leave find workplaces transformed by AI</a></strong> — with tools reshaping workflows, expectations, and job security.</p>
+
+<blockquote>
+  <p><em>Why it matters:</em> AI’s impact on labor is hitting caregivers hardest, exposing gaps in retraining and support.</p>
+</blockquote>
+
+<p>🏷️ <code class="language-plaintext highlighter-rouge">Workforce</code> <code class="language-plaintext highlighter-rouge">AI-adoption</code> <code class="language-plaintext highlighter-rouge">Gender</code> <code class="language-plaintext highlighter-rouge">Tech</code></p>
+
+<hr />
+
+<h3 id="ai-gets-booed-at-graduation-ceremonies">AI gets booed at graduation ceremonies</h3>
+
+<p><strong><a href="https://www.technologyreview.com/2026/05/28/1138053/the-ai-hype-index-ai-gets-booed-in-graduation-season/">Eric Schmidt faced backlash at a University of Arizona commencement speech</a></strong> — as students and audiences push back against AI hype in milestone moments.</p>
+
+<blockquote>
+  <p><em>Why it matters:</em> The backlash reflects growing skepticism about AI’s role in society, not just its capabilities.</p>
+</blockquote>
+
+<p>🏷️ <code class="language-plaintext highlighter-rouge">Culture</code> <code class="language-plaintext highlighter-rouge">Hype</code> <code class="language-plaintext highlighter-rouge">Public-perception</code></p>
+
+<hr />
+
+<h3 id="protein-world-model-debuts">Protein world model debuts</h3>
+
+<p><strong><a href="https://www.therundown.ai/p/a-world-model-for-proteins-is-here">A new AI model aims to predict protein behavior at scale</a></strong> — offering tools to simulate and design proteins with higher accuracy.</p>
+
+<blockquote>
+  <p><em>Why it matters:</em> Could accelerate drug discovery and synthetic biology, but real-world validation is still pending.</p>
+</blockquote>
+
+<p>🏷️ <code class="language-plaintext highlighter-rouge">Research</code> <code class="language-plaintext highlighter-rouge">Biology</code> <code class="language-plaintext highlighter-rouge">Tools</code></p>
+
+<hr />
+
+<h2 id="quick-hits">Quick Hits</h2>
+
+<ul>
+  <li><strong>TechCrunch</strong> — Vertu unveils a $6,880 AI foldable for CEOs, blending luxury with agentic workflows. <a href="https://techcrunch.com/2026/05/28/vertu-wants-ceos-to-run-companies-from-an-ai-foldable-starting-at-6880/">link</a></li>
+  <li><strong>TechCrunch</strong> — Google’s AI keeps misspelling its own name, sparking fresh ridicule. <a href="https://techcrunch.com/2026/05/27/why-googles-ai-cant-spell-google-or-anything-else/">link</a></li>
+  <li><strong>Wired</strong> — Amazon claims a breakthrough in data-center networking, speeding up cloud infrastructure. <a href="https://www.wired.com/story/amazon-thinks-the-future-of-data-centers-depends-on-a-technical-problem-it-just-solved/">link</a></li>
+  <li><strong>The Decoder</strong> — Meta finally quantifies its AI spending, revealing costs behind its push. <a href="https://the-decoder.com/meta-one-zuckerberg-finally-puts-a-price-tag-on-all-that-ai-spending/">link</a></li>
+  <li><strong>The Decoder</strong> — Amazon builds an in-house AI production platform and greenlights three AI-generated animated series. <a href="https://the-decoder.com/amazon-builds-its-own-ai-production-platform-and-greenlights-three-ai-animated-series-for-prime-video/">link</a></li>
+</ul>
+
+<h2 id="what-to-watch-next">What to Watch Next</h2>
+
+<ul>
+  <li><strong>Agent wars heat up:</strong> Mistral’s pivot to Vibe and Vertu’s CEO foldable signal a race to dominate agentic workflows—expect more rebrands and niche hardware.</li>
+  <li><strong>Regulatory ripple effects:</strong> Illinois’ law could pressure other states (or Congress) to act, especially if audits reveal safety gaps in major models.</li>
+  <li><strong>Hype fatigue spreads:</strong> From graduations to Google’s spelling gaffes, public skepticism is rising—watch for brands to dial back AI-first messaging.</li>
+</ul>]]></content><author><name></name></author><summary type="html"><![CDATA[3 min read · 7 stories — AI safety laws · Agents everywhere · Hype backlash]]></summary></entry><entry><title type="html">25 May 2026</title><link href="https://10minai.github.io/news/2026/05/25/daily.html" rel="alternate" type="text/html" title="25 May 2026" /><published>2026-05-25T00:00:00+00:00</published><updated>2026-05-25T00:00:00+00:00</updated><id>https://10minai.github.io/news/2026/05/25/daily</id><content type="html" xml:base="https://10minai.github.io/news/2026/05/25/daily.html"><![CDATA[<p><strong>3 min read · 4 stories</strong> — Math breakthroughs · Trust gaps</p>
+
+<h2 id="tldr">TL;DR</h2>
+
+<ul>
+  <li>Google DeepMind’s AlphaProof Nexus cracks decades-old math problems cheaply</li>
+  <li>Google outscores OpenAI nine-to-one in latest math benchmark</li>
+  <li>AI models often cite wrong sources despite correct answers</li>
+  <li>Coding agents could become a costly mistake, warns George Hotz</li>
+</ul>
+
+<hr />
+
+<h3 id="-google-deepminds-alphaproof-nexus-solves-decades-old-math-problems-for-a-few-hundred-dollars">🥇 Google DeepMind’s AlphaProof Nexus solves decades-old math problems for a few hundred dollars</h3>
+
+<p><strong><a href="https://the-decoder.com/google-deepminds-alphaproof-nexus-solves-decades-old-math-problems-for-a-few-hundred-dollars/">Google DeepMind’s AlphaProof Nexus just solved long-standing math problems at a fraction of the expected cost</a></strong> — running on hardware that cost less than $500 in total.</p>
+
+<blockquote>
+  <p><em>Why it matters:</em> If AI can tackle unsolved math problems this efficiently, research bottlenecks may shift from computational limits to human framing of questions.</p>
+</blockquote>
+
+<p>🏷️ <code class="language-plaintext highlighter-rouge">Research</code> <code class="language-plaintext highlighter-rouge">Math</code> <code class="language-plaintext highlighter-rouge">DeepMind</code> <code class="language-plaintext highlighter-rouge">Scaling</code></p>
+
+<hr />
+
+<h3 id="google-tops-openais-math-breakthrough--9-to-1">Google tops OpenAI’s math breakthrough — 9 to 1</h3>
+
+<p><strong><a href="https://www.therundown.ai/p/google-tops-openai-math-breakthrough-9-to-1">Google’s latest model outperforms OpenAI’s math breakthrough by a nine-to-one margin</a></strong> — while also introducing an AI secretary feature for daily planning.</p>
+
+<blockquote>
+  <p><em>Why it matters:</em> The gap suggests Google’s approach to reasoning may be pulling ahead, at least in structured domains.</p>
+</blockquote>
+
+<p>🏷️ <code class="language-plaintext highlighter-rouge">Models</code> <code class="language-plaintext highlighter-rouge">Benchmark</code> <code class="language-plaintext highlighter-rouge">Agents</code> <code class="language-plaintext highlighter-rouge">Productivity</code></p>
+
+<hr />
+
+<h3 id="ai-models-often-give-the-right-answers-but-point-to-the-wrong-sources">AI models often give the right answers but point to the wrong sources</h3>
+
+<p><strong><a href="https://the-decoder.com/ai-models-often-give-the-right-answers-but-point-to-the-wrong-sources/">AI systems frequently cite incorrect or nonexistent sources, even when their answers are factually correct</a></strong> — undermining trust in their reliability.</p>
+
+<blockquote>
+  <p><em>Why it matters:</em> Accuracy alone isn’t enough; verifiability will decide whether AI can be trusted in high-stakes fields.</p>
+</blockquote>
+
+<p>🏷️ <code class="language-plaintext highlighter-rouge">Hallucinations</code> <code class="language-plaintext highlighter-rouge">Trust</code> <code class="language-plaintext highlighter-rouge">Policy</code> <code class="language-plaintext highlighter-rouge">Research</code></p>
+
+<hr />
+
+<h3 id="george-hotz-says-coding-agents-will-be-one-of-the-most-costly-mistakes-in-software-development">George Hotz says coding agents will be “one of the most costly mistakes” in software development</h3>
+
+<p><strong><a href="https://the-decoder.com/george-hotz-says-coding-agents-will-be-one-of-the-most-costly-mistakes-in-software-development/">Comma.ai founder George Hotz argues that coding agents could lead to massive technical debt</a></strong> — prioritizing speed over maintainability.</p>
+
+<blockquote>
+  <p><em>Why it matters:</em> If true, the rush to automate coding could backfire, leaving teams with brittle, unmanageable codebases.</p>
+</blockquote>
+
+<p>🏷️ <code class="language-plaintext highlighter-rouge">Agents</code> <code class="language-plaintext highlighter-rouge">Software</code> <code class="language-plaintext highlighter-rouge">Debate</code> <code class="language-plaintext highlighter-rouge">Future-of-work</code></p>
+
+<hr />
+
+<h2 id="what-to-watch-next">What to Watch Next</h2>
+
+<ul>
+  <li>Will Google’s math dominance extend to other reasoning tasks, or is this a narrow win?</li>
+  <li>How quickly can citation accuracy improve before AI is trusted in legal, medical, or academic settings?</li>
+  <li>Are coding agents a short-term productivity boost or a long-term liability?</li>
+</ul>]]></content><author><name></name></author><summary type="html"><![CDATA[3 min read · 4 stories — Math breakthroughs · Trust gaps]]></summary></entry><entry><title type="html">24 May 2026</title><link href="https://10minai.github.io/news/2026/05/24/daily.html" rel="alternate" type="text/html" title="24 May 2026" /><published>2026-05-24T00:00:00+00:00</published><updated>2026-05-24T00:00:00+00:00</updated><id>https://10minai.github.io/news/2026/05/24/daily</id><content type="html" xml:base="https://10minai.github.io/news/2026/05/24/daily.html"><![CDATA[<p><strong>3 min read · 2 stories</strong> — Pentagon flags · AI designs scaling</p>
+
+<h2 id="tldr">TL;DR</h2>
+
+<ul>
+  <li>Anthropic may keep supplying Claude to NSA despite Pentagon risk warning</li>
+  <li>Claude autonomously discovers novel AI scaling algorithms</li>
+</ul>
+
+<hr />
+
+<h3 id="-anthropic-may-keep-supplying-claude-to-the-nsa-despite-being-flagged-as-a-supply-chain-risk-by-the-pentagon">🥇 Anthropic may keep supplying Claude to the NSA despite being flagged as a supply chain risk by the Pentagon</h3>
+
+<p><strong><a href="https://the-decoder.com/anthropic-may-keep-supplying-claude-to-the-nsa-despite-being-flagged-as-a-supply-chain-risk-by-the-pentagon/">Anthropic is reportedly continuing Claude deployments to the NSA</a></strong> — even after the Pentagon labeled the company a supply-chain risk.</p>
+
+<blockquote>
+  <p><em>Why it matters:</em> The split between defense and intelligence agencies signals how AI procurement priorities diverge on national security vs. vendor trust.</p>
+</blockquote>
+
+<p>🏷️ <code class="language-plaintext highlighter-rouge">Models</code> <code class="language-plaintext highlighter-rouge">Policy</code> <code class="language-plaintext highlighter-rouge">National-security</code> <code class="language-plaintext highlighter-rouge">Anthropic</code></p>
+
+<hr />
+
+<h3 id="researchers-let-claude-code-discover-ai-scaling-algorithms-that-humans-probably-wouldnt-have-designed">Researchers let Claude Code discover AI scaling algorithms that humans probably wouldn’t have designed</h3>
+
+<p><strong><a href="https://the-decoder.com/researchers-let-claude-code-discover-ai-scaling-algorithms-that-humans-probably-wouldnt-have-designed/">Claude autonomously generated novel scaling algorithms</a></strong> — ones researchers say likely wouldn’t have emerged from human-led R&amp;D.</p>
+
+<blockquote>
+  <p><em>Why it matters:</em> If AI can self-improve its own training recipes, scaling laws may soon outpace human intuition.</p>
+</blockquote>
+
+<p>🏷️ <code class="language-plaintext highlighter-rouge">Research</code> <code class="language-plaintext highlighter-rouge">Scaling</code> <code class="language-plaintext highlighter-rouge">Automation</code> <code class="language-plaintext highlighter-rouge">Claude</code></p>
+
+<hr />
+
+<h2 id="what-to-watch-next">What to Watch Next</h2>
+
+<ul>
+  <li>Whether the Pentagon’s risk assessment triggers broader federal procurement reviews for AI vendors</li>
+  <li>If Claude’s self-generated scaling methods transfer to other model families or remain proprietary</li>
+  <li>How quickly human oversight fades as AI systems propose—and validate—their own training innovations</li>
+</ul>]]></content><author><name></name></author><summary type="html"><![CDATA[3 min read · 2 stories — Pentagon flags · AI designs scaling]]></summary></entry><entry><title type="html">23 May 2026</title><link href="https://10minai.github.io/news/2026/05/23/daily.html" rel="alternate" type="text/html" title="23 May 2026" /><published>2026-05-23T00:00:00+00:00</published><updated>2026-05-23T00:00:00+00:00</updated><id>https://10minai.github.io/news/2026/05/23/daily</id><content type="html" xml:base="https://10minai.github.io/news/2026/05/23/daily.html"><![CDATA[<p><strong>3 min read · 3 stories</strong> — Bug-hunting bots · Speed-of-light text · Berlin’s AI boom</p>
+
+<h2 id="tldr">TL;DR</h2>
+
+<ul>
+  <li><strong>Claude Mythos Preview</strong> outpaces devs in finding bugs</li>
+  <li><strong>Nemotron-Labs</strong> claims near speed-of-light text generation</li>
+  <li><strong>Peec</strong> hits $10M revenue, tracks AI search presence</li>
+</ul>
+
+<hr />
+
+<h3 id="-anthropic-warns-claude-mythos-preview-finds-bugs-faster-than-developers-can-patch-them">🥇 Anthropic warns Claude Mythos Preview finds bugs faster than developers can patch them</h3>
+
+<p><strong><a href="https://the-decoder.com/anthropic-warns-claude-mythos-preview-finds-bugs-faster-than-developers-can-patch-them/">Anthropic’s Claude Mythos Preview is uncovering software vulnerabilities at a rate that outstrips developer patching</a></strong> — raising concerns about AI-driven security testing overwhelming human teams.</p>
+
+<blockquote>
+  <p><em>Why it matters:</em> If AI can find flaws faster than they can be fixed, the bottleneck shifts from detection to remediation—and could force a rethink of how security teams operate.</p>
+</blockquote>
+
+<p>🏷️ <code class="language-plaintext highlighter-rouge">Models</code> <code class="language-plaintext highlighter-rouge">Security</code> <code class="language-plaintext highlighter-rouge">Automation</code> <code class="language-plaintext highlighter-rouge">Anthropic</code></p>
+
+<hr />
+
+<h3 id="towards-speed-of-light-text-generation-with-nemotron-labs-diffusion-language-models">Towards Speed-of-Light Text Generation with Nemotron-Labs Diffusion Language Models</h3>
+
+<p><strong><a href="https://huggingface.co/blog/nvidia/nemotron-labs-diffusion">Nvidia-backed Nemotron-Labs claims its diffusion-based language models approach near speed-of-light text generation</a></strong> — though details on benchmarks and real-world latency remain scarce.</p>
+
+<blockquote>
+  <p><em>Why it matters:</em> If validated, this could redefine latency expectations for LLM inference, making real-time applications like live translation or coding assistants far more responsive.</p>
+</blockquote>
+
+<p>🏷️ <code class="language-plaintext highlighter-rouge">Research</code> <code class="language-plaintext highlighter-rouge">Nvidia</code> <code class="language-plaintext highlighter-rouge">Inference</code> <code class="language-plaintext highlighter-rouge">Speed</code></p>
+
+<hr />
+
+<h3 id="peec-one-of-berlins-rising-startups-more-than-doubled-annualized-revenue-in-months-to-10m">Peec, one of Berlin’s rising startups, more than doubled annualized revenue in months to $10M</h3>
+
+<p><strong><a href="https://techcrunch.com/2026/05/23/peec-one-of-berlins-rising-startups-more-than-doubled-annualized-revenue-in-months-to-10m-sources-say/">Berlin-based Peec, which tracks brand visibility in AI search results, has surged to $10M annualized revenue</a></strong> — signaling growing demand for AI-driven search optimization tools.</p>
+
+<blockquote>
+  <p><em>Why it matters:</em> As AI search engines replace traditional queries, startups like Peec are becoming the new SEO gatekeepers.</p>
+</blockquote>
+
+<p>🏷️ <code class="language-plaintext highlighter-rouge">Startups</code> <code class="language-plaintext highlighter-rouge">Europe</code> <code class="language-plaintext highlighter-rouge">Search</code> <code class="language-plaintext highlighter-rouge">Revenue</code></p>
+
+<hr />
+
+<h2 id="what-to-watch-next">What to Watch Next</h2>
+
+<ul>
+  <li><strong>Bug-fixing arms race:</strong> Will Anthropic’s warning push competitors to build AI-assisted patching tools, or will it slow adoption of autonomous security testing?</li>
+  <li><strong>Diffusion LLMs in the wild:</strong> Nemotron-Labs’ claims need independent validation—watch for third-party benchmarks in the coming weeks.</li>
+  <li><strong>AI search economics:</strong> Peec’s growth suggests brands are willing to pay for visibility in AI-generated answers—expect more startups to target this niche.</li>
+</ul>]]></content><author><name></name></author><summary type="html"><![CDATA[3 min read · 3 stories — Bug-hunting bots · Speed-of-light text · Berlin’s AI boom]]></summary></entry><entry><title type="html">22 May 2026</title><link href="https://10minai.github.io/news/2026/05/22/daily.html" rel="alternate" type="text/html" title="22 May 2026" /><published>2026-05-22T00:00:00+00:00</published><updated>2026-05-22T00:00:00+00:00</updated><id>https://10minai.github.io/news/2026/05/22/daily</id><content type="html" xml:base="https://10minai.github.io/news/2026/05/22/daily.html"><![CDATA[<p><strong>3 min read · 7 stories</strong> — AI policy whiplash · Localized tools · Robotaxi floods</p>
+
+<h2 id="tldr">TL;DR</h2>
+
+<ul>
+  <li>Google I/O signals AI-driven science entering new phase</li>
+  <li>HMD pre-loads Indian AI chatbot on new smartphones</li>
+  <li>OpenAI hires PR veteran to soften AI’s reputation crisis</li>
+  <li>Trump scraps AI safety order after tech CEO calls</li>
+  <li>Waymo pauses robotaxis in four cities after flood incidents</li>
+</ul>
+
+<hr />
+
+<h3 id="-google-io-showed-how-the-path-for-ai-driven-science-is-shifting">🥇 Google I/O showed how the path for AI-driven science is shifting</h3>
+
+<p><strong><a href="https://www.technologyreview.com/2026/05/22/1137813/google-i-o-showed-how-the-path-for-ai-science-is-shifting/">Google DeepMind CEO calls current era “the foothills of the singularity”</a></strong> — Keynote highlighted AI’s growing role in accelerating scientific discovery, from protein folding to materials science.</p>
+
+<blockquote>
+  <p><em>Why it matters:</em> If AI becomes the default lab partner, breakthroughs could outpace traditional peer-review timelines—and scrutiny.</p>
+</blockquote>
+
+<p>🏷️ <code class="language-plaintext highlighter-rouge">Science</code> <code class="language-plaintext highlighter-rouge">DeepMind</code> <code class="language-plaintext highlighter-rouge">Singularity</code> <code class="language-plaintext highlighter-rouge">Research</code></p>
+
+<hr />
+
+<h3 id="finnish-phone-maker-hmd-bundles-indian-ai-chatbot-onto-new-smartphone">Finnish phone-maker HMD bundles Indian AI chatbot onto new smartphone</h3>
+
+<p><strong><a href="https://techcrunch.com/2026/05/21/finnish-phone-maker-hmd-bundles-indian-ai-chatbot-onto-new-smartphone-in-push-to-reach-local-market/">HMD pre-loads Sarvam’s Indus chatbot on its latest device</a></strong> — The app supports <strong>22 Indic languages</strong>, targeting India’s non-English-speaking users.</p>
+
+<blockquote>
+  <p><em>Why it matters:</em> Localized AI isn’t just translation—it’s a wedge for global players to compete in emerging markets.</p>
+</blockquote>
+
+<p>🏷️ <code class="language-plaintext highlighter-rouge">Localization</code> <code class="language-plaintext highlighter-rouge">Mobile</code> <code class="language-plaintext highlighter-rouge">India</code> <code class="language-plaintext highlighter-rouge">Chatbots</code></p>
+
+<hr />
+
+<h3 id="can-openais-master-of-disaster-fix-ais-reputation-crisis">Can OpenAI’s ‘Master of Disaster’ Fix AI’s Reputation Crisis?</h3>
+
+<p><strong><a href="https://www.wired.com/story/openai-chris-lehane-global-affairs-pr/">OpenAI taps Chris Lehane as global affairs chief</a></strong> — The former political strategist aims to shift the narrative from existential risk to pragmatic regulation.</p>
+
+<blockquote>
+  <p><em>Why it matters:</em> PR moves like this often precede lobbying pushes—watch for softer state-level AI bills.</p>
+</blockquote>
+
+<p>🏷️ <code class="language-plaintext highlighter-rouge">Policy</code> <code class="language-plaintext highlighter-rouge">OpenAI</code> <code class="language-plaintext highlighter-rouge">Reputation</code> <code class="language-plaintext highlighter-rouge">Lobbying</code></p>
+
+<hr />
+
+<h3 id="trump-pulls-ai-safety-order-after-last-minute-calls-from-musk-zuckerberg-and-sacks">Trump pulls AI safety order after last-minute calls from Musk, Zuckerberg, and Sacks</h3>
+
+<p><strong><a href="https://the-decoder.com/trump-pulls-ai-safety-order-after-last-minute-calls-from-musk-zuckerberg-and-sacks/">White House withdraws draft AI safety executive order</a></strong> — Tech leaders reportedly argued the rules would stifle innovation ahead of the election.</p>
+
+<blockquote>
+  <p><em>Why it matters:</em> The reversal leaves federal AI policy in limbo—states may now race to fill the void.</p>
+</blockquote>
+
+<p>🏷️ <code class="language-plaintext highlighter-rouge">Policy</code> <code class="language-plaintext highlighter-rouge">Regulation</code> <code class="language-plaintext highlighter-rouge">US</code> <code class="language-plaintext highlighter-rouge">Big Tech</code></p>
+
+<hr />
+
+<h3 id="waymo-expands-pause-to-four-cities-as-robotaxis-keep-driving-into-floods">Waymo expands pause to four cities as robotaxis keep driving into floods</h3>
+
+<p><strong><a href="https://techcrunch.com/2026/05/21/waymo-pauses-service-in-four-cities-as-robotaxis-keep-driving-into-floods/">Waymo suspends service in Atlanta and San Antonio</a></strong> — Vehicles repeatedly ignored flooded roads, prompting safety reviews.</p>
+
+<blockquote>
+  <p><em>Why it matters:</em> Edge-case failures like this could delay permits in new markets.</p>
+</blockquote>
+
+<p>🏷️ <code class="language-plaintext highlighter-rouge">Robotaxis</code> <code class="language-plaintext highlighter-rouge">Safety</code> <code class="language-plaintext highlighter-rouge">Waymo</code> <code class="language-plaintext highlighter-rouge">Autonomous</code></p>
+
+<hr />
+
+<h2 id="quick-hits">Quick Hits</h2>
+
+<ul>
+  <li><strong>Wired</strong> — Gulf’s AI boom strains undersea internet cables, risking hyperscaler outages. <a href="https://www.wired.com/story/the-gulfs-ai-boom-has-an-undersea-cable-problem/">link</a></li>
+  <li><strong>The Rundown</strong> — Sundar Pichai compares AI’s current phase to the flip phone era. <a href="https://www.therundown.ai/p/exclusive-interview-sundar-pichai-on-ai-flip-phone-moment">link</a></li>
+</ul>
+
+<h2 id="what-to-watch-next">What to Watch Next</h2>
+
+<ul>
+  <li><strong>State-level AI bills</strong> will likely multiply after Trump’s executive order pullback.</li>
+  <li><strong>Localized AI tools</strong> (like HMD’s chatbot) could become a template for other emerging markets.</li>
+  <li><strong>Waymo’s flood incidents</strong> may prompt stricter weather-related safety tests for robotaxis.</li>
+</ul>]]></content><author><name></name></author><summary type="html"><![CDATA[3 min read · 7 stories — AI policy whiplash · Localized tools · Robotaxi floods]]></summary></entry><entry><title type="html">21 May 2026</title><link href="https://10minai.github.io/news/2026/05/21/daily.html" rel="alternate" type="text/html" title="21 May 2026" /><published>2026-05-21T00:00:00+00:00</published><updated>2026-05-21T00:00:00+00:00</updated><id>https://10minai.github.io/news/2026/05/21/daily</id><content type="html" xml:base="https://10minai.github.io/news/2026/05/21/daily.html"><![CDATA[<p><strong>3 min read · 5 stories</strong> — Nvidia’s next bet · AI profits · Math breakthroughs</p>
+
+<h2 id="tldr">TL;DR</h2>
+
+<ul>
+  <li>Nvidia eyes $200B CPU market for AI agents</li>
+  <li>Anthropic nears first profitable quarter, doubles revenue</li>
+  <li>OpenAI overturns 80-year math assumption</li>
+  <li>SpaceX flags Grok’s “spicy” mode as IPO risk</li>
+  <li>Quantum-AI startup raises £5M for enzyme engineering</li>
+</ul>
+
+<hr />
+
+<h3 id="-jensen-huang-says-hes-found-a-brand-new-200b-market-for-nvidia">🥇 Jensen Huang says he’s found a ‘brand new’ $200B market for Nvidia</h3>
+
+<p><strong><a href="https://techcrunch.com/2026/05/20/jensen-huang-says-hes-found-a-brand-new-200b-market-for-nvidia/">Nvidia CEO Jensen Huang predicts a $200 billion CPU market for AI agents</a></strong> — shifting focus from GPUs to agent-driven computing.</p>
+
+<blockquote>
+  <p><em>Why it matters:</em> If agents become the next platform, Nvidia’s silicon dominance could extend beyond training to inference at scale.</p>
+</blockquote>
+
+<p>🏷️ <code class="language-plaintext highlighter-rouge">Hardware</code> <code class="language-plaintext highlighter-rouge">Agents</code> <code class="language-plaintext highlighter-rouge">Nvidia</code> <code class="language-plaintext highlighter-rouge">Market-shift</code></p>
+
+<hr />
+
+<h3 id="anthropic-says-its-about-to-have-its-first-profitable-quarter">Anthropic says it’s about to have its first profitable quarter</h3>
+
+<p><strong><a href="https://techcrunch.com/2026/05/20/anthropic-says-its-about-to-have-its-first-profitable-quarter/">Anthropic tells investors it will more than double revenue to ~$10.9B this quarter</a></strong> — a rare bright spot in AI’s profitability struggles.</p>
+
+<blockquote>
+  <p><em>Why it matters:</em> Profitability could shift investor patience from “growth at all costs” to sustainable scaling.</p>
+</blockquote>
+
+<p>🏷️ <code class="language-plaintext highlighter-rouge">Business</code> <code class="language-plaintext highlighter-rouge">LLMs</code> <code class="language-plaintext highlighter-rouge">Anthropic</code> <code class="language-plaintext highlighter-rouge">Profitability</code></p>
+
+<hr />
+
+<h3 id="openai-cracks-an-80-year-math-belief">OpenAI cracks an 80-year math belief</h3>
+
+<p><strong><a href="https://www.therundown.ai/p/openai-cracks-an-80-year-math-belief">OpenAI overturns a long-held mathematical assumption</a></strong> — plus, a tool to audit Claude’s context in 15 minutes.</p>
+
+<blockquote>
+  <p><em>Why it matters:</em> Breaking foundational math could unlock new algorithmic efficiencies beyond brute-force scaling.</p>
+</blockquote>
+
+<p>🏷️ <code class="language-plaintext highlighter-rouge">Research</code> <code class="language-plaintext highlighter-rouge">Math</code> <code class="language-plaintext highlighter-rouge">OpenAI</code> <code class="language-plaintext highlighter-rouge">Tools</code></p>
+
+<hr />
+
+<h3 id="spacex-listed-groks-spicy-mode-as-a-risk-in-its-ipo-filing">SpaceX listed Grok’s ‘spicy’ mode as a risk in its IPO filing</h3>
+
+<p><strong><a href="https://www.wired.com/story/spacex-ipo-grok-spicy-mode-risks/">SpaceX sets aside $500M+ for potential litigation over Grok’s “spicy” mode</a></strong> — citing complaints about sexualized image generation.</p>
+
+<blockquote>
+  <p><em>Why it matters:</em> The first major IPO to explicitly flag AI safety as a financial liability.</p>
+</blockquote>
+
+<p>🏷️ <code class="language-plaintext highlighter-rouge">Policy</code> <code class="language-plaintext highlighter-rouge">Safety</code> <code class="language-plaintext highlighter-rouge">Grok</code> <code class="language-plaintext highlighter-rouge">IPO</code></p>
+
+<hr />
+
+<h3 id="imperagen-raises-5m-to-use-quantum-physics-ai-on-enzyme-engineering">Imperagen raises £5M to use quantum physics, AI on enzyme engineering</h3>
+
+<p><strong><a href="https://techcrunch.com/2026/05/20/imperagen-raises-5-million-to-redefine-enzyme-engineering/">Biotech startup Imperagen secures £5M to combine quantum physics and AI for enzyme design</a></strong> — led by PXN Ventures.</p>
+
+<blockquote>
+  <p><em>Why it matters:</em> Quantum-AI hybrids could accelerate drug discovery beyond classical computing limits.</p>
+</blockquote>
+
+<p>🏷️ <code class="language-plaintext highlighter-rouge">Biotech</code> <code class="language-plaintext highlighter-rouge">Quantum</code> <code class="language-plaintext highlighter-rouge">Funding</code> <code class="language-plaintext highlighter-rouge">Enzymes</code></p>
+
+<hr />
+
+<h2 id="what-to-watch-next">What to Watch Next</h2>
+
+<ul>
+  <li><strong>Nvidia’s agent CPU play:</strong> Will the $200B market materialize, or is this a hedge against GPU saturation?</li>
+  <li><strong>Anthropic’s profitability:</strong> Can they sustain margins as competitors slash prices?</li>
+  <li><strong>Grok’s IPO risk:</strong> How many other AI companies will face similar disclosures in 2026?</li>
+</ul>]]></content><author><name></name></author><summary type="html"><![CDATA[3 min read · 5 stories — Nvidia’s next bet · AI profits · Math breakthroughs]]></summary></entry><entry><title type="html">20 May 2026</title><link href="https://10minai.github.io/news/2026/05/20/daily.html" rel="alternate" type="text/html" title="20 May 2026" /><published>2026-05-20T00:00:00+00:00</published><updated>2026-05-20T00:00:00+00:00</updated><id>https://10minai.github.io/news/2026/05/20/daily</id><content type="html" xml:base="https://10minai.github.io/news/2026/05/20/daily.html"><![CDATA[<p><strong>3 min read · 5 stories</strong> — AI pricing hikes · Agents everywhere</p>
+
+<h2 id="tldr">TL;DR</h2>
+
+<ul>
+  <li>Google’s Gemini 3.5 Flash raises prices, following OpenAI and Anthropic</li>
+  <li>OpenAI expands AI tools for global classrooms</li>
+  <li>YouTube adds conversational AI search and Gemini Omni to Shorts</li>
+  <li>Google’s Genie + Street View creates explorable AI worlds</li>
+  <li>Robotics still lacks its “ChatGPT moment”</li>
+</ul>
+
+<hr />
+
+<h3 id="-googles-gemini-35-flash-follows-openai-and-anthropic-in-raising-ai-model-prices">🥇 Google’s Gemini 3.5 Flash follows OpenAI and Anthropic in raising AI model prices</h3>
+
+<p><strong><a href="https://the-decoder.com/googles-gemini-3-5-flash-follows-anthropic-and-openai-in-making-newer-ai-models-significantly-pricier/">Google’s latest Gemini model comes with a steeper price tag</a></strong> — the third major AI lab in six months to push costs higher for newer, more capable models.</p>
+
+<blockquote>
+  <p><em>Why it matters:</em> Higher prices could slow adoption in cost-sensitive sectors like education and startups, reshaping who gets access to cutting-edge AI.</p>
+</blockquote>
+
+<p>🏷️ <code class="language-plaintext highlighter-rouge">Pricing</code> <code class="language-plaintext highlighter-rouge">Models</code> <code class="language-plaintext highlighter-rouge">Enterprise</code></p>
+
+<hr />
+
+<h3 id="openai-expands-ai-tools-for-global-classrooms">OpenAI expands AI tools for global classrooms</h3>
+
+<p><strong><a href="https://openai.com/index/the-next-phase-of-education-for-countries">OpenAI advances its Education for Countries initiative</a></strong> with new partnerships, teacher training, and tools aimed at improving learning outcomes worldwide.</p>
+
+<blockquote>
+  <p><em>Why it matters:</em> If successful, this could standardize AI-assisted education—but risks locking in OpenAI as the default provider.</p>
+</blockquote>
+
+<p>🏷️ <code class="language-plaintext highlighter-rouge">Education</code> <code class="language-plaintext highlighter-rouge">Policy</code> <code class="language-plaintext highlighter-rouge">Adoption</code></p>
+
+<hr />
+
+<h3 id="youtube-gets-conversational-ai-search-and-gemini-omni-in-shorts">YouTube gets conversational AI search and Gemini Omni in Shorts</h3>
+
+<p><strong><a href="https://techcrunch.com/2026/05/19/ask-youtube-brings-ai-powered-conversational-search-to-video-adds-gemini-omni-to-shorts/">Google rolls out “Ask YouTube” for AI-powered video search</a></strong> and integrates Gemini Omni into Shorts, blending search and creation tools.</p>
+
+<blockquote>
+  <p><em>Why it matters:</em> This turns passive video consumption into an interactive, AI-driven experience—potentially changing how users discover and engage with content.</p>
+</blockquote>
+
+<p>🏷️ <code class="language-plaintext highlighter-rouge">Search</code> <code class="language-plaintext highlighter-rouge">Multimodal</code> <code class="language-plaintext highlighter-rouge">Video</code></p>
+
+<hr />
+
+<h3 id="googles-genie--street-view-creates-explorable-ai-worlds">Google’s Genie + Street View creates explorable AI worlds</h3>
+
+<p><strong><a href="https://the-decoder.com/google-pairs-its-genie-world-model-with-street-view-to-create-explorable-ai-worlds-based-on-real-places/">Google combines its Genie world model with Street View</a></strong> to generate interactive, photorealistic environments from real-world locations.</p>
+
+<blockquote>
+  <p><em>Why it matters:</em> Could enable new applications in gaming, urban planning, or virtual tourism—but raises questions about consent and data use.</p>
+</blockquote>
+
+<p>🏷️ <code class="language-plaintext highlighter-rouge">World-models</code> <code class="language-plaintext highlighter-rouge">Synthetic-data</code> <code class="language-plaintext highlighter-rouge">Geospatial</code></p>
+
+<hr />
+
+<h3 id="robotics-still-lacks-its-chatgpt-moment">Robotics still lacks its “ChatGPT moment”</h3>
+
+<p><strong><a href="https://spectrum.ieee.org/robotics-ai-breakthrough">A single breakthrough AI moment may not be coming for robotics</a></strong>—progress is likely to remain incremental rather than revolutionary.</p>
+
+<blockquote>
+  <p><em>Why it matters:</em> Sets realistic expectations for investors and researchers, shifting focus to long-term integration over sudden leaps.</p>
+</blockquote>
+
+<p>🏷️ <code class="language-plaintext highlighter-rouge">Robotics</code> <code class="language-plaintext highlighter-rouge">Hardware</code> <code class="language-plaintext highlighter-rouge">Research</code></p>
+
+<hr />
+
+<h2 id="quick-hits">Quick Hits</h2>
+
+<ul>
+  <li><strong>Therundown</strong> — Google I/O showcased Gemini’s agentic workflows, plus tools for automated business reports. <a href="https://www.therundown.ai/p/gemini-busy-agentic-day-at-google-i-o">link</a></li>
+</ul>
+
+<h2 id="what-to-watch-next">What to Watch Next</h2>
+
+<ul>
+  <li>Will price hikes from <strong>Google</strong>, <strong>OpenAI</strong>, and <strong>Anthropic</strong> trigger a wave of open-weight alternatives?</li>
+  <li>How will <strong>YouTube’s AI search</strong> change creator strategies—and user behavior?</li>
+  <li><strong>Genie + Street View</strong> could preview a future where digital twins of cities become standard.</li>
+</ul>]]></content><author><name></name></author><summary type="html"><![CDATA[3 min read · 5 stories — AI pricing hikes · Agents everywhere]]></summary></entry><entry><title type="html">19 May 2026</title><link href="https://10minai.github.io/news/2026/05/19/daily.html" rel="alternate" type="text/html" title="19 May 2026" /><published>2026-05-19T00:00:00+00:00</published><updated>2026-05-19T00:00:00+00:00</updated><id>https://10minai.github.io/news/2026/05/19/daily</id><content type="html" xml:base="https://10minai.github.io/news/2026/05/19/daily.html"><![CDATA[<p><strong>3 min read · 7 stories</strong> — Musk’s OpenAI appeal · Claude’s security boost · AI’s energy paradox</p>
+
+<h2 id="tldr">TL;DR</h2>
+
+<ul>
+  <li>Anthropic adds self-hosted sandboxes to <strong>Claude Managed Agents</strong></li>
+  <li><strong>Elon Musk</strong> appeals $134B OpenAI verdict, calls it a “calendar technicality”</li>
+  <li><strong>Mistral AI</strong> acquires Vienna-based <strong>Emmi AI</strong> for physical AI push</li>
+  <li><strong>Stilta</strong> raises $10.5M to help companies rediscover forgotten patents</li>
+  <li>Solar to dominate by 2035, but AI data centers keep fossil fuels alive</li>
+  <li>Cloudflare says <strong>Anthropic’s Mythos</strong> catches exploits older models miss</li>
+  <li>Home robot safety standards ignore user input, says <strong>IEEE</strong></li>
+</ul>
+
+<hr />
+
+<h3 id="-anthropic-adds-self-hosted-sandboxes-and-mcp-tunnels-to-claude-managed-agents">🥇 Anthropic adds self-hosted sandboxes and MCP tunnels to Claude Managed Agents</h3>
+
+<p><strong><a href="https://the-decoder.com/anthropic-adds-self-hosted-sandboxes-and-mcp-tunnels-to-claude-managed-agents/">Anthropic rolls out self-hosted sandboxes and MCP tunnels for Claude Managed Agents</a></strong> — letting enterprises run sensitive workloads on-prem while keeping Claude’s orchestration layer in the cloud.</p>
+
+<blockquote>
+  <p><em>Why it matters:</em> The hybrid model could become the default for regulated industries that want <strong>Claude’s</strong> power without handing over data control.</p>
+</blockquote>
+
+<p>🏷️ <code class="language-plaintext highlighter-rouge">Enterprise-AI</code> <code class="language-plaintext highlighter-rouge">Security</code> <code class="language-plaintext highlighter-rouge">Agents</code></p>
+
+<hr />
+
+<h3 id="elon-musk-appeals-134b-openai-loss-calls-verdict-a-calendar-technicality">Elon Musk appeals $134B OpenAI loss, calls verdict a “calendar technicality”</h3>
+
+<p><strong><a href="https://the-decoder.com/elon-musk-appeals-134-billion-openai-loss-calls-verdict-a-calendar-technicality/">Musk files appeal in $134B OpenAI lawsuit, arguing the jury’s “too late” verdict hinges on a procedural loophole</a></strong> — not the merits of his claims.</p>
+
+<blockquote>
+  <p><em>Why it matters:</em> A successful appeal could reopen the case, forcing <strong>OpenAI</strong> to defend its nonprofit-to-capped-profit pivot in open court.</p>
+</blockquote>
+
+<p>🏷️ <code class="language-plaintext highlighter-rouge">Legal</code> <code class="language-plaintext highlighter-rouge">OpenAI</code> <code class="language-plaintext highlighter-rouge">Policy</code></p>
+
+<hr />
+
+<h3 id="mistral-ai-acquires-viennese-physical-ai-startup-emmi-ai">Mistral AI acquires Viennese physical AI startup Emmi AI</h3>
+
+<p><strong><a href="https://the-decoder.com/mistral-ai-acquires-viennese-physical-ai-startup-emmi-ai/">Mistral AI buys Emmi AI, a Vienna-based startup building AI for real-world robotics and industrial control</a></strong> — signaling a push beyond language models into embodied systems.</p>
+
+<blockquote>
+  <p><em>Why it matters:</em> The move puts <strong>Mistral</strong> on a collision course with <strong>DeepMind</strong> and <strong>NVIDIA</strong> in the race to bridge digital AI and physical automation.</p>
+</blockquote>
+
+<p>🏷️ <code class="language-plaintext highlighter-rouge">Acquisition</code> <code class="language-plaintext highlighter-rouge">Robotics</code> <code class="language-plaintext highlighter-rouge">Europe</code></p>
+
+<hr />
+
+<h3 id="stilta-raises-105m-to-help-companies-rediscover-forgotten-patents">Stilta raises $10.5M to help companies rediscover forgotten patents</h3>
+
+<p><strong><a href="https://techcrunch.com/2026/05/19/legal-tech-announced-stilta-announces-10m-seed-backed-by-yc-and-a16z-months-after-launch/">Stilta secures $10.5M from a16z and YC to automate patent portfolio audits</a></strong> — using AI to surface overlooked IP assets before competitors do.</p>
+
+<blockquote>
+  <p><em>Why it matters:</em> Patent trolls and corporate legal teams are about to get a lot more efficient at monetizing dusty filings.</p>
+</blockquote>
+
+<p>🏷️ <code class="language-plaintext highlighter-rouge">Legal-Tech</code> <code class="language-plaintext highlighter-rouge">Funding</code> <code class="language-plaintext highlighter-rouge">IP</code></p>
+
+<hr />
+
+<h3 id="solar-to-dominate-energy-by-2035-but-ai-data-centers-will-keep-fossil-fuels-alive">Solar to dominate energy by 2035, but AI data centers will keep fossil fuels alive</h3>
+
+<p><strong><a href="https://techcrunch.com/2026/05/19/solar-to-dominate-energy-in-2035-but-data-centers-will-keep-fossil-fuels-in-business/">Solar is set to become the world’s top energy source by 2035, but surging AI data center demand will delay fossil fuel phase-outs</a></strong> — creating a paradox where green energy growth enables more carbon lock-in.</p>
+
+<blockquote>
+  <p><em>Why it matters:</em> The AI boom’s energy appetite is rewriting climate timelines, not just power grids.</p>
+</blockquote>
+
+<p>🏷️ <code class="language-plaintext highlighter-rouge">Energy</code> <code class="language-plaintext highlighter-rouge">Infrastructure</code> <code class="language-plaintext highlighter-rouge">Climate</code></p>
+
+<hr />
+
+<h2 id="quick-hits">Quick Hits</h2>
+
+<ul>
+  <li><strong>the-decoder</strong> — <strong>Cloudflare</strong> says <strong>Anthropic’s Mythos</strong> model catches exploit chains older frontier models missed. <a href="https://the-decoder.com/cloudflare-says-anthropics-mythos-preview-finds-exploit-chains-that-earlier-frontier-models-missed/">link</a></li>
+  <li><strong>wired-ai</strong> — <strong>Tom Steyer</strong> wants to tax California’s ultra-wealthy and regulate AI, but keep Silicon Valley happy. <a href="https://www.wired.com/story/the-big-interview-podcast-tom-steyer/">link</a></li>
+  <li><strong>ieee-spectrum</strong> — New <strong>ISO</strong> home robot safety standard ignores user feedback, critics say. <a href="https://spectrum.ieee.org/domestic-humanoid-robot-safety-standards">link</a></li>
+</ul>
+
+<h2 id="what-to-watch-next">What to Watch Next</h2>
+
+<ul>
+  <li><strong>Musk’s appeal</strong> could force <strong>OpenAI</strong> to disclose internal docs on its 2019 shift to capped-profit—potentially reshaping how AI labs structure themselves.</li>
+  <li><strong>Mistral’s</strong> physical AI push may accelerate if <strong>Emmi AI’s</strong> Vienna team delivers industrial prototypes by year-end.</li>
+  <li><strong>Stilta’s</strong> funding round signals a wave of AI-driven IP tools targeting corporate legal teams—expect more startups in this niche by Q4.</li>
+</ul>]]></content><author><name></name></author><summary type="html"><![CDATA[3 min read · 7 stories — Musk’s OpenAI appeal · Claude’s security boost · AI’s energy paradox]]></summary></entry></feed>
