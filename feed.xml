@@ -1,0 +1,818 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="https://10minai.github.io/news/feed.xml" rel="self" type="application/atom+xml" /><link href="https://10minai.github.io/news/" rel="alternate" type="text/html" /><updated>2026-06-14T11:15:42+00:00</updated><id>https://10minai.github.io/news/feed.xml</id><title type="html">10 Minutes AI News</title><entry><title type="html">14 Jun 2026</title><link href="https://10minai.github.io/news/2026/06/14/daily.html" rel="alternate" type="text/html" title="14 Jun 2026" /><published>2026-06-14T00:00:00+00:00</published><updated>2026-06-14T00:00:00+00:00</updated><id>https://10minai.github.io/news/2026/06/14/daily</id><content type="html" xml:base="https://10minai.github.io/news/2026/06/14/daily.html"><![CDATA[<p><strong>3 min read · 4 stories</strong> — AI crackdowns · Trust gaps</p>
+
+<h2 id="tldr">TL;DR</h2>
+
+<ul>
+  <li>Anthropic’s model suspension sparks India’s AI policy debate</li>
+  <li>Six firms reportedly triggered US crackdown on Anthropic’s Fable</li>
+  <li>KPMG faked AI case studies to sell adoption</li>
+  <li>AI coding agents locate files but miss key lines</li>
+</ul>
+
+<hr />
+
+<h3 id="-as-anthropic-suspends-access-to-new-models-india-debates-its-ai-future">🥇 As Anthropic suspends access to new models, India debates its AI future</h3>
+
+<p><strong><a href="https://techcrunch.com/2026/06/13/as-anthropic-suspends-access-to-new-models-india-debates-its-ai-future/">India’s tech leaders are questioning its AI strategy after Anthropic blocked access to new models</a></strong> — The move has reignited calls for stronger domestic AI infrastructure and policy.</p>
+
+<blockquote>
+  <p><em>Why it matters:</em> India’s reliance on foreign models could stall its $1T AI economy goal if geopolitical tensions escalate.</p>
+</blockquote>
+
+<p>🏷️ <code class="language-plaintext highlighter-rouge">Policy</code> <code class="language-plaintext highlighter-rouge">Geopolitics</code> <code class="language-plaintext highlighter-rouge">India</code> <code class="language-plaintext highlighter-rouge">Anthropic</code></p>
+
+<hr />
+
+<h3 id="amazon-and-five-other-companies-reportedly-triggered-the-government-crackdown-on-anthropics-fable-model">Amazon and five other companies reportedly triggered the government crackdown on Anthropic’s Fable model</h3>
+
+<p><strong><a href="https://the-decoder.com/amazon-and-five-other-companies-reportedly-triggered-the-government-crackdown-on-anthropics-fable-model/">Six firms, including Amazon, flagged Anthropic’s Fable model to regulators, prompting a US crackdown</a></strong>.</p>
+
+<blockquote>
+  <p><em>Why it matters:</em> Corporate whistleblowing on AI safety could become the new norm—reshaping how models are deployed.</p>
+</blockquote>
+
+<p>🏷️ <code class="language-plaintext highlighter-rouge">Models</code> <code class="language-plaintext highlighter-rouge">Regulation</code> <code class="language-plaintext highlighter-rouge">Big Tech</code> <code class="language-plaintext highlighter-rouge">Safety</code></p>
+
+<hr />
+
+<h3 id="kpmg-fabricated-ai-case-studies-in-a-report-designed-to-sell-clients-on-ai-adoption">KPMG fabricated AI case studies in a report designed to sell clients on AI adoption</h3>
+
+<p><strong><a href="https://the-decoder.com/kpmg-fabricated-ai-case-studies-in-a-report-designed-to-sell-clients-on-ai-adoption/">KPMG included fake AI success stories in a client pitch report to push adoption</a></strong>.</p>
+
+<blockquote>
+  <p><em>Why it matters:</em> Overhyped AI claims risk eroding trust just as enterprises are deciding where to invest.</p>
+</blockquote>
+
+<p>🏷️ <code class="language-plaintext highlighter-rouge">Enterprise</code> <code class="language-plaintext highlighter-rouge">Ethics</code> <code class="language-plaintext highlighter-rouge">Consulting</code></p>
+
+<hr />
+
+<h3 id="ai-coding-agents-find-the-right-file-but-miss-the-exact-lines-that-matter-study-shows">AI coding agents find the right file but miss the exact lines that matter, study shows</h3>
+
+<p><strong><a href="https://the-decoder.com/ai-coding-agents-find-the-right-file-but-miss-the-exact-lines-that-matter-study-shows/">AI coding tools can locate relevant files but struggle to pinpoint precise lines needing edits</a></strong>.</p>
+
+<blockquote>
+  <p><em>Why it matters:</em> Fine-grained accuracy remains a bottleneck for autonomous coding agents.</p>
+</blockquote>
+
+<p>🏷️ <code class="language-plaintext highlighter-rouge">Agents</code> <code class="language-plaintext highlighter-rouge">Coding</code> <code class="language-plaintext highlighter-rouge">Research</code></p>
+
+<hr />
+
+<h2 id="what-to-watch-next">What to Watch Next</h2>
+
+<ul>
+  <li>Will India accelerate its own model training clusters after Anthropic’s block?</li>
+  <li>Expect more corporate AI safety reports—competitors may weaponize them.</li>
+  <li>Enterprise AI vendors will face pressure to prove real-world ROI, not just case studies.</li>
+</ul>]]></content><author><name></name></author><summary type="html"><![CDATA[3 min read · 4 stories — AI crackdowns · Trust gaps]]></summary></entry><entry><title type="html">13 Jun 2026</title><link href="https://10minai.github.io/news/2026/06/13/daily.html" rel="alternate" type="text/html" title="13 Jun 2026" /><published>2026-06-13T00:00:00+00:00</published><updated>2026-06-13T00:00:00+00:00</updated><id>https://10minai.github.io/news/2026/06/13/daily</id><content type="html" xml:base="https://10minai.github.io/news/2026/06/13/daily.html"><![CDATA[<p><strong>3 min read · 7 stories</strong> — Claude shutdown · Open-weight surge · Legal reckoning</p>
+
+<h2 id="tldr">TL;DR</h2>
+
+<ul>
+  <li>US orders Anthropic to pull Claude Fable 5 and Mythos 5 worldwide</li>
+  <li>Claude Fable 5 beats GPT-5.5 by 13 points on tough math problems</li>
+  <li>Moonshot’s Kimi K2.7 Code undercuts GPT-5.5 and Claude by up to 12x</li>
+  <li>German court holds Google liable for AI Overview false statements</li>
+  <li>Meta shifts from “tokenmaxxing” as internal AI costs hit billions</li>
+</ul>
+
+<hr />
+
+<h3 id="-anthropic-disables-claude-fable-5-and-mythos-5-after-us-government-order">🥇 Anthropic disables Claude Fable 5 and Mythos 5 after US government order</h3>
+
+<p><strong><a href="https://the-decoder.com/us-government-forces-anthropic-to-disable-claude-fable-5-and-mythos-5-for-all-customers-worldwide/">Anthropic has taken Claude Fable 5 and Mythos 5 offline globally</a></strong> — The Commerce Department cited a potential jailbreak method as a national security threat.</p>
+
+<blockquote>
+  <p><em>Why it matters:</em> First major recall of a deployed frontier model shows regulators are willing to act preemptively, even without public evidence.</p>
+</blockquote>
+
+<p>🏷️ <code class="language-plaintext highlighter-rouge">Models</code> <code class="language-plaintext highlighter-rouge">Policy</code> <code class="language-plaintext highlighter-rouge">Alignment</code> <code class="language-plaintext highlighter-rouge">US</code></p>
+
+<hr />
+
+<h3 id="claude-fable-5-outperforms-gpt-55-by-13-points-on-frontiermath">Claude Fable 5 outperforms GPT-5.5 by 13 points on FrontierMath</h3>
+
+<p><strong><a href="https://the-decoder.com/claude-fable-5-outpaces-gpt-5-5-by-13-points-on-frontiermaths-toughest-problems/">Claude Fable 5 leads GPT-5.5 by 13 points on FrontierMath’s hardest problems</a></strong> — The gap widens on reasoning-heavy benchmarks.</p>
+
+<blockquote>
+  <p><em>Why it matters:</em> Math performance is becoming a proxy for general reasoning, and Anthropic’s edge may force competitors to accelerate their own research.</p>
+</blockquote>
+
+<p>🏷️ <code class="language-plaintext highlighter-rouge">Models</code> <code class="language-plaintext highlighter-rouge">Research</code> <code class="language-plaintext highlighter-rouge">Benchmarks</code></p>
+
+<hr />
+
+<h3 id="moonshots-kimi-k27-code-slashes-costs-by-up-to-12x">Moonshot’s Kimi K2.7 Code slashes costs by up to 12x</h3>
+
+<p><strong><a href="https://the-decoder.com/moonshots-open-model-kimi-k2-7-code-undercuts-gpt-5-5-and-claude-by-up-to-12x-on-price-per-token/">Moonshot’s open model Kimi K2.7 Code undercuts GPT-5.5 and Claude by up to 12x on price per token</a></strong> — The model targets developers with aggressive pricing.</p>
+
+<blockquote>
+  <p><em>Why it matters:</em> Open-weight models are now directly competing on cost, not just performance, forcing incumbents to rethink pricing strategies.</p>
+</blockquote>
+
+<p>🏷️ <code class="language-plaintext highlighter-rouge">Open-weight</code> <code class="language-plaintext highlighter-rouge">Cost</code> <code class="language-plaintext highlighter-rouge">China</code> <code class="language-plaintext highlighter-rouge">Developers</code></p>
+
+<hr />
+
+<h3 id="german-court-rules-google-liable-for-ai-overview-false-statements">German court rules Google liable for AI Overview false statements</h3>
+
+<p><strong><a href="https://www.wired.com/story/a-court-has-ruled-that-google-is-liable-for-false-statements-generated-by-ai-overviews/">A German court holds Google liable for false statements generated by AI Overviews</a></strong> — The ruling treats AI outputs as the company’s responsibility.</p>
+
+<blockquote>
+  <p><em>Why it matters:</em> Legal precedent could force tech giants to implement stricter safeguards or pull AI features in high-risk markets.</p>
+</blockquote>
+
+<p>🏷️ <code class="language-plaintext highlighter-rouge">Policy</code> <code class="language-plaintext highlighter-rouge">Liability</code> <code class="language-plaintext highlighter-rouge">Europe</code> <code class="language-plaintext highlighter-rouge">Search</code></p>
+
+<hr />
+
+<h3 id="meta-shifts-from-tokenmaxxing-as-ai-costs-balloon">Meta shifts from “tokenmaxxing” as AI costs balloon</h3>
+
+<p><strong><a href="https://the-decoder.com/meta-shifts-from-tokenmaxxing-to-token-managing-as-internal-ai-costs-reportedly-hit-billions/">Meta moves away from “tokenmaxxing” as internal AI costs reportedly hit billions</a></strong> — The company is optimizing for efficiency over raw output.</p>
+
+<blockquote>
+  <p><em>Why it matters:</em> Cost pressures are forcing even deep-pocketed players to rethink scaling strategies.</p>
+</blockquote>
+
+<p>🏷️ <code class="language-plaintext highlighter-rouge">Cost</code> <code class="language-plaintext highlighter-rouge">Scaling</code> <code class="language-plaintext highlighter-rouge">Meta</code> <code class="language-plaintext highlighter-rouge">Efficiency</code></p>
+
+<hr />
+
+<h2 id="quick-hits">Quick Hits</h2>
+
+<ul>
+  <li><strong>TechCrunch</strong> — Anthropic’s safety warnings may have backfired, leading to the shutdown of its most powerful models. <a href="https://techcrunch.com/2026/06/12/anthropics-safety-warnings-may-have-just-backfired-the-government-has-pulled-the-plug-on-its-most-powerful-ai/">link</a></li>
+  <li><strong>Wired</strong> — US government orders Anthropic to disable Fable 5 over jailbreak concerns. <a href="https://www.wired.com/story/anthropic-says-us-government-ordered-it-to-shut-down-mythos-models/">link</a></li>
+</ul>
+
+<h2 id="what-to-watch-next">What to Watch Next</h2>
+
+<ul>
+  <li>How Anthropic’s competitors respond to the recall—will they proactively audit their own models or wait for regulatory pressure?</li>
+  <li>Whether Moonshot’s pricing advantage sparks a broader open-weight price war in 2026.</li>
+  <li>If other European courts follow Germany’s lead on AI liability, forcing companies to rethink rollouts.</li>
+</ul>]]></content><author><name></name></author><summary type="html"><![CDATA[3 min read · 7 stories — Claude shutdown · Open-weight surge · Legal reckoning]]></summary></entry><entry><title type="html">12 Jun 2026</title><link href="https://10minai.github.io/news/2026/06/12/daily.html" rel="alternate" type="text/html" title="12 Jun 2026" /><published>2026-06-12T00:00:00+00:00</published><updated>2026-06-12T00:00:00+00:00</updated><id>https://10minai.github.io/news/2026/06/12/daily</id><content type="html" xml:base="https://10minai.github.io/news/2026/06/12/daily.html"><![CDATA[<p><strong>3 min read · 7 stories</strong> — Platform traps · AI tutors · Physical AI gold rush</p>
+
+<h2 id="tldr">TL;DR</h2>
+
+<ul>
+  <li>AI industry’s platform playbook mirrors Microsoft’s past dominance</li>
+  <li>OpenAI backs Preply’s AI-human hybrid language tutoring</li>
+  <li>OpenAI acquires Ona for autonomous, long-running coding agents</li>
+  <li>Pokémon Go data repurposed for military drone AI training</li>
+  <li>Avataar launches India-optimized video AI at half-cent per second</li>
+</ul>
+
+<hr />
+
+<h3 id="-the-ai-industrys-platform-trap-is-starting-to-look-a-lot-like-microsofts">🥇 The AI industry’s platform trap is starting to look a lot like Microsoft’s</h3>
+
+<p><strong><a href="https://the-decoder.com/the-ai-industrys-platform-trap-is-starting-to-look-a-lot-like-microsofts/">The AI sector’s consolidation playbook is borrowing heavily from Microsoft’s 1990s playbook</a></strong> — locking developers into proprietary ecosystems with bundled services and default integrations.</p>
+
+<blockquote>
+  <p><em>Why it matters:</em> If history repeats, today’s “open” APIs could become tomorrow’s antitrust battlegrounds.</p>
+</blockquote>
+
+<p>🏷️ <code class="language-plaintext highlighter-rouge">Platforms</code> <code class="language-plaintext highlighter-rouge">Antitrust</code> <code class="language-plaintext highlighter-rouge">Ecosystems</code> <code class="language-plaintext highlighter-rouge">Lock-in</code></p>
+
+<hr />
+
+<h3 id="how-preply-combines-ai-and-human-tutors-to-personalize-learning">How Preply combines AI and human tutors to personalize learning</h3>
+
+<p><strong><a href="https://openai.com/index/preply">OpenAI partners with Preply to roll out AI-generated lesson summaries and adaptive exercises</a></strong> — blending real-time tutor feedback with automated practice.</p>
+
+<blockquote>
+  <p><em>Why it matters:</em> The hybrid model could redefine edtech’s scalability without sacrificing human touch.</p>
+</blockquote>
+
+<p>🏷️ <code class="language-plaintext highlighter-rouge">Edtech</code> <code class="language-plaintext highlighter-rouge">Hybrid-AI</code> <code class="language-plaintext highlighter-rouge">Language-learning</code> <code class="language-plaintext highlighter-rouge">Personalization</code></p>
+
+<hr />
+
+<h3 id="openai-buys-ona-to-push-codex-toward-long-running-autonomous-coding-tasks">OpenAI buys Ona to push Codex toward long-running, autonomous coding tasks</h3>
+
+<p><strong><a href="https://the-decoder.com/openai-buys-ona-to-push-codex-toward-long-running-autonomous-coding-tasks/">OpenAI acquires Ona, a stealth agent startup, to extend Codex’s capabilities beyond single prompts</a></strong> — targeting multi-hour, multi-file software projects.</p>
+
+<blockquote>
+  <p><em>Why it matters:</em> Autonomous coding agents could shift developer workflows from writing to reviewing.</p>
+</blockquote>
+
+<p>🏷️ <code class="language-plaintext highlighter-rouge">Agents</code> <code class="language-plaintext highlighter-rouge">Coding</code> <code class="language-plaintext highlighter-rouge">Autonomy</code> <code class="language-plaintext highlighter-rouge">Acquisitions</code></p>
+
+<hr />
+
+<h3 id="pokémon-go-players-unwittingly-contributed-to-tech-with-military-drone-uses">Pokémon Go players unwittingly contributed to tech with military drone uses</h3>
+
+<p><strong><a href="https://arstechnica.com/ai/2026/06/pokemon-go-players-unwittingly-contributed-to-tech-with-military-drone-uses/">Niantic’s augmented-reality data, collected from millions of players, is now training AI for military drone navigation</a></strong> — raising questions about consent and repurposing.</p>
+
+<blockquote>
+  <p><em>Why it matters:</em> The case highlights how consumer data can become dual-use without users’ knowledge.</p>
+</blockquote>
+
+<p>🏷️ <code class="language-plaintext highlighter-rouge">Data-privacy</code> <code class="language-plaintext highlighter-rouge">Military-AI</code> <code class="language-plaintext highlighter-rouge">AR</code> <code class="language-plaintext highlighter-rouge">Ethics</code></p>
+
+<hr />
+
+<h3 id="cheaper-faster-and-culturally-aware-avataars-video-ai-is-built-for-indias-scale">Cheaper, faster, and culturally aware, Avataar’s video AI is built for India’s scale</h3>
+
+<p><strong><a href="https://techcrunch.com/2026/06/11/cheaper-faster-and-culturally-aware-avataars-video-ai-is-built-for-indias-scale/">Avataar launches a distilled video model priced at $0.005 per second</a></strong> — optimized for local languages, low bandwidth, and regional aesthetics.</p>
+
+<blockquote>
+  <p><em>Why it matters:</em> India’s AI market is proving that localization beats brute-force scaling.</p>
+</blockquote>
+
+<p>🏷️ <code class="language-plaintext highlighter-rouge">Video-AI</code> <code class="language-plaintext highlighter-rouge">India</code> <code class="language-plaintext highlighter-rouge">Localization</code> <code class="language-plaintext highlighter-rouge">Cost-efficiency</code></p>
+
+<hr />
+
+<h2 id="quick-hits">Quick Hits</h2>
+
+<ul>
+  <li><strong>TechCrunch</strong> — Equal AI raises <strong>$30M</strong> for an AI call assistant now used by <strong>one million Indians</strong> monthly. <a href="https://techcrunch.com/2026/06/11/equal-ai-raises-30m-to-screen-calls-so-indians-dont-have-to/">link</a></li>
+  <li><strong>TechCrunch</strong> — Theker secures <strong>$85M</strong> to build reconfigurable factory robots that avoid specialization. <a href="https://techcrunch.com/2026/06/11/theker-just-raised-85m-to-build-the-factory-robot-that-doesnt-specialize-in-anything/">link</a></li>
+  <li><strong>TechCrunch</strong> — Jeff Bezos’s <strong>Prometheus</strong> raises <strong>$12B</strong> at a <strong>$41B</strong> valuation to build a physical-world “general engineer.” <a href="https://techcrunch.com/2026/06/11/jeff-bezoss-prometheus-raises-12b-to-build-an-artificial-general-engineer-for-the-physical-world/">link</a></li>
+  <li><strong>Wired</strong> — Apple’s camera chief says iOS 27’s AI-powered Photos app adds “fake pixels” for better shots. <a href="https://www.wired.com/story/apple-camera-chief-thinks-ai-can-give-you-superpowers/">link</a></li>
+</ul>
+
+<h2 id="what-to-watch-next">What to Watch Next</h2>
+
+<ul>
+  <li><strong>Agent autonomy:</strong> OpenAI’s Ona acquisition signals a push beyond single-task coding agents—watch for multi-agent orchestration tools.</li>
+  <li><strong>Physical AI arms race:</strong> With <strong>$12B</strong> for Prometheus and <strong>$85M</strong> for Theker, hardware-software co-design is the next frontier.</li>
+  <li><strong>Regulatory scrutiny:</strong> The Microsoft parallel in the lead story suggests antitrust regulators may soon shift focus from data to platform power.</li>
+</ul>]]></content><author><name></name></author><summary type="html"><![CDATA[3 min read · 7 stories — Platform traps · AI tutors · Physical AI gold rush]]></summary></entry><entry><title type="html">11 Jun 2026</title><link href="https://10minai.github.io/news/2026/06/11/daily.html" rel="alternate" type="text/html" title="11 Jun 2026" /><published>2026-06-11T00:00:00+00:00</published><updated>2026-06-11T00:00:00+00:00</updated><id>https://10minai.github.io/news/2026/06/11/daily</id><content type="html" xml:base="https://10minai.github.io/news/2026/06/11/daily.html"><![CDATA[<p><strong>3 min read · 9 stories</strong> — Anthropic’s week · Agents at scale · Policy playbooks</p>
+
+<h2 id="tldr">TL;DR</h2>
+
+<ul>
+  <li>Anthropic reverses Claude policy that secretly throttled rival researchers</li>
+  <li>DeepMind warns of risks from millions of interacting AI agents</li>
+  <li>Anthropic partners with TCS to scale enterprise AI deployments</li>
+  <li>Dario Amodei’s Cold War-style AI strategy essay surfaces</li>
+  <li>DoorDash launches AI chatbot for voice and photo orders</li>
+</ul>
+
+<hr />
+
+<h3 id="-anthropic-walks-back-claude-policy-that-could-have-sabotaged-ai-researchers">🥇 Anthropic walks back Claude policy that could have ‘sabotaged’ AI researchers</h3>
+
+<p><strong><a href="https://www.wired.com/story/anthropic-responds-to-backlash-on-claudes-secret-sabotage-on-ai-research/">Anthropic reversed a controversial policy</a></strong> — after researchers discovered Claude was covertly limiting its ability to help develop competing models.</p>
+
+<blockquote>
+  <p><em>Why it matters:</em> The move signals how fine the line is between competitive advantage and ethical boundaries in AI development.</p>
+</blockquote>
+
+<p>🏷️ <code class="language-plaintext highlighter-rouge">Models</code> <code class="language-plaintext highlighter-rouge">Ethics</code> <code class="language-plaintext highlighter-rouge">Research</code> <code class="language-plaintext highlighter-rouge">Anthropic</code></p>
+
+<hr />
+
+<h3 id="google-deepmind-is-worried-about-millions-of-ai-agents-interacting-online">Google DeepMind is worried about millions of AI agents interacting online</h3>
+
+<p><strong><a href="https://www.technologyreview.com/2026/06/11/1138794/google-deepmind-is-worried-about-what-happens-when-millions-of-agents-start-to-interact/">DeepMind is funding research</a></strong> into the risks of AI agents autonomously interacting at scale, led by alignment researcher Rohin Shah.</p>
+
+<blockquote>
+  <p><em>Why it matters:</em> If agents start negotiating, colluding, or competing without oversight, unintended consequences could spiral fast.</p>
+</blockquote>
+
+<p>🏷️ <code class="language-plaintext highlighter-rouge">Agents</code> <code class="language-plaintext highlighter-rouge">Alignment</code> <code class="language-plaintext highlighter-rouge">Research</code> <code class="language-plaintext highlighter-rouge">DeepMind</code></p>
+
+<hr />
+
+<h3 id="anthropic-partners-with-tcs-to-scale-enterprise-ai-deployments">Anthropic partners with TCS to scale enterprise AI deployments</h3>
+
+<p><strong><a href="https://techcrunch.com/2026/06/11/anthropic-taps-tcs-to-scale-its-enterprise-ai-deployments/">Anthropic teamed up with Tata Consultancy Services</a></strong> to create a dedicated business unit for deploying its models to enterprise customers.</p>
+
+<blockquote>
+  <p><em>Why it matters:</em> The deal shows how legacy IT services firms are pivoting to become AI deployment powerhouses.</p>
+</blockquote>
+
+<p>🏷️ <code class="language-plaintext highlighter-rouge">Enterprise</code> <code class="language-plaintext highlighter-rouge">Partnerships</code> <code class="language-plaintext highlighter-rouge">Anthropic</code> <code class="language-plaintext highlighter-rouge">TCS</code></p>
+
+<hr />
+
+<h3 id="dario-amodeis-new-essay-reads-like-a-cold-war-playbook-for-ai">Dario Amodei’s new essay reads like a Cold War playbook for AI</h3>
+
+<p><strong><a href="https://the-decoder.com/dario-amodeis-new-essay-reads-like-a-cold-war-playbook-for-the-ai-age/">Anthropic CEO Dario Amodei published a long essay</a></strong> framing AI competition as a high-stakes geopolitical struggle, with echoes of nuclear deterrence theory.</p>
+
+<blockquote>
+  <p><em>Why it matters:</em> The framing could shape how policymakers approach AI regulation and national security.</p>
+</blockquote>
+
+<p>🏷️ <code class="language-plaintext highlighter-rouge">Policy</code> <code class="language-plaintext highlighter-rouge">Geopolitics</code> <code class="language-plaintext highlighter-rouge">Anthropic</code> <code class="language-plaintext highlighter-rouge">Strategy</code></p>
+
+<hr />
+
+<h3 id="doordashs-new-ai-chatbot-lets-you-order-with-prompts-and-photos">DoorDash’s new AI chatbot lets you order with prompts and photos</h3>
+
+<p><strong><a href="https://techcrunch.com/2026/06/11/doordashs-new-ai-chatbot-lets-you-order-with-prompts-and-photos/">DoorDash launched Ask DoorDash</a></strong>, an AI chatbot that lets users search and order using natural language and images instead of scrolling menus.</p>
+
+<blockquote>
+  <p><em>Why it matters:</em> If it works, it could set a new standard for conversational commerce across food delivery and retail.</p>
+</blockquote>
+
+<p>🏷️ <code class="language-plaintext highlighter-rouge">AI Tools</code> <code class="language-plaintext highlighter-rouge">Commerce</code> <code class="language-plaintext highlighter-rouge">DoorDash</code> <code class="language-plaintext highlighter-rouge">UX</code></p>
+
+<hr />
+
+<h2 id="quick-hits">Quick Hits</h2>
+
+<ul>
+  <li><strong>The Decoder</strong> — Anthropic admits it made a “wrong tradeoff” by invisibly throttling rival researchers. <a href="https://the-decoder.com/claude-fable-5-anthropic-admits-wrong-tradeoff-after-invisibly-throttling-rival-ai-researchers/">link</a></li>
+  <li><strong>IEEE Spectrum</strong> — Google DeepMind spinoff Isomorphic Labs is using AI to hunt hidden drug targets. <a href="https://spectrum.ieee.org/isomorphic-labs-ai-drug-discovery">link</a></li>
+  <li><strong>OpenAI</strong> — OpenAI backs EU’s AI content transparency code, pushing provenance tools. <a href="https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem">link</a></li>
+  <li><strong>TechCrunch</strong> — Dario Amodei now has just <strong>one</strong> direct report at Anthropic. <a href="https://techcrunch.com/2026/06/10/anthropics-dario-amodei-has-just-one-direct-report/">link</a></li>
+  <li><strong>Anthropic</strong> — Introducing <strong>Claude Corps</strong>, a new initiative (details sparse). <a href="https://www.anthropic.com/news/claude-corps">link</a></li>
+  <li><strong>OpenAI</strong> — Astrophysicist uses <strong>Codex</strong> to simulate black holes and test Einstein’s relativity. <a href="https://openai.com/index/using-codex-to-simulate-black-holes">link</a></li>
+  <li><strong>IEEE Spectrum</strong> — Orbital data centers face bigger heat-dissipation challenges than Silicon Valley admits. <a href="https://spectrum.ieee.org/orbital-data-centers-heat">link</a></li>
+</ul>
+
+<h2 id="what-to-watch-next">What to Watch Next</h2>
+
+<ul>
+  <li>How Anthropic’s <strong>Claude Corps</strong> shapes up—will it be a research accelerator, a policy shop, or something else?</li>
+  <li>Whether DeepMind’s agent-interaction research leads to new <strong>safety guardrails</strong> or just more academic papers.</li>
+  <li>If DoorDash’s chatbot sparks a wave of <strong>conversational commerce</strong> tools across food, retail, and logistics.</li>
+</ul>]]></content><author><name></name></author><summary type="html"><![CDATA[3 min read · 9 stories — Anthropic’s week · Agents at scale · Policy playbooks]]></summary></entry><entry><title type="html">10 Jun 2026</title><link href="https://10minai.github.io/news/2026/06/10/daily.html" rel="alternate" type="text/html" title="10 Jun 2026" /><published>2026-06-10T00:00:00+00:00</published><updated>2026-06-10T00:00:00+00:00</updated><id>https://10minai.github.io/news/2026/06/10/daily</id><content type="html" xml:base="https://10minai.github.io/news/2026/06/10/daily.html"><![CDATA[<p><strong>3 min read · 9 stories</strong> — Energy hacks · Global AI expansion</p>
+
+<h2 id="tldr">TL;DR</h2>
+
+<ul>
+  <li>Tiny clock tweak cuts LLM training energy by 14%</li>
+  <li>Meta builds first AI data center in India with Reliance</li>
+  <li>OpenAI partners with LSEG to scale trusted AI for 4,000 employees</li>
+  <li>Google Gemini powers Argentina’s World Cup AI integration</li>
+  <li>Germany launches AI Safety Institute modeled after UK’s AISI</li>
+</ul>
+
+<hr />
+
+<h3 id="-timing-trick-cuts-energy-used-in-llm-training-by-up-to-14-percent">🥇 Timing Trick Cuts Energy Used in LLM Training by Up to 14 Percent</h3>
+
+<p><strong><a href="https://spectrum.ieee.org/llm-training-energy-saving-trick">IEEE Spectrum reports a simple clock-frequency adjustment during training slashes energy use</a></strong> — without sacrificing model performance.</p>
+
+<blockquote>
+  <p><em>Why it matters:</em> If adopted at scale, this could save <strong>gigawatt-hours</strong> annually—enough to power thousands of homes.</p>
+</blockquote>
+
+<p>🏷️ <code class="language-plaintext highlighter-rouge">Energy</code> <code class="language-plaintext highlighter-rouge">LLMs</code> <code class="language-plaintext highlighter-rouge">Research</code></p>
+
+<hr />
+
+<h3 id="meta-signs-first-ai-data-center-deal-in-india-with-reliance">Meta signs first AI data center deal in India with Reliance</h3>
+
+<p><strong><a href="https://techcrunch.com/2026/06/10/meta-signs-first-ai-data-center-deal-in-india-with-reliance/">Meta’s 168-megawatt facility in India will support global AI compute needs</a></strong> — and can expand over time.</p>
+
+<blockquote>
+  <p><em>Why it matters:</em> India’s data center boom signals <strong>Big Tech’s shift</strong> from China to South Asia for infrastructure.</p>
+</blockquote>
+
+<p>🏷️ <code class="language-plaintext highlighter-rouge">Infrastructure</code> <code class="language-plaintext highlighter-rouge">India</code> <code class="language-plaintext highlighter-rouge">Meta</code></p>
+
+<hr />
+
+<h3 id="from-data-to-decisions-how-lseg-is-scaling-trusted-ai">From data to decisions: how LSEG is scaling trusted AI</h3>
+
+<p><strong><a href="https://openai.com/index/lseg">OpenAI and LSEG showcase AI adoption across 4,000 employees</a></strong> — accelerating insights and shrinking release cycles.</p>
+
+<blockquote>
+  <p><em>Why it matters:</em> A rare <strong>enterprise-scale case study</strong> for AI trust and governance in regulated industries.</p>
+</blockquote>
+
+<p>🏷️ <code class="language-plaintext highlighter-rouge">Enterprise</code> <code class="language-plaintext highlighter-rouge">OpenAI</code> <code class="language-plaintext highlighter-rouge">Adoption</code></p>
+
+<hr />
+
+<h3 id="artificial-intelligence-sneaks-into-the-world-cup-thanks-to-google-gemini">Artificial Intelligence Sneaks Into the World Cup Thanks to Google Gemini</h3>
+
+<p><strong><a href="https://www.wired.com/story/artificial-intelligence-sneaks-into-the-world-cup-thanks-to-google-gemini/">Argentina’s national team will test Google Gemini during the World Cup</a></strong> — blending sports and AI in real time.</p>
+
+<blockquote>
+  <p><em>Why it matters:</em> High-profile sports sponsorships are becoming <strong>AI’s new proving ground</strong> for consumer trust.</p>
+</blockquote>
+
+<p>🏷️ <code class="language-plaintext highlighter-rouge">Google</code> <code class="language-plaintext highlighter-rouge">Sports</code> <code class="language-plaintext highlighter-rouge">Consumer-AI</code></p>
+
+<hr />
+
+<h3 id="germanys-national-security-council-greenlights-an-ai-safety-institute">Germany’s National Security Council greenlights an AI Safety Institute</h3>
+
+<p><strong><a href="https://the-decoder.com/germanys-national-security-council-greenlights-an-ai-safety-institute-modeled-after-the-uks-aisi/">Germany launches an AI Safety Institute modeled after the UK’s AISI</a></strong> — signaling Europe’s growing alignment on AI governance.</p>
+
+<blockquote>
+  <p><em>Why it matters:</em> The move could <strong>bridge gaps</strong> between EU AI Act enforcement and global safety standards.</p>
+</blockquote>
+
+<p>🏷️ <code class="language-plaintext highlighter-rouge">Policy</code> <code class="language-plaintext highlighter-rouge">Safety</code> <code class="language-plaintext highlighter-rouge">Europe</code></p>
+
+<hr />
+
+<h2 id="quick-hits">Quick Hits</h2>
+
+<ul>
+  <li><strong>Therundown</strong> — Anthropic releases <strong>Mythos-class AI</strong> to the public. <a href="https://www.therundown.ai/p/anthropic-hands-the-public-mythos-class-ai">link</a></li>
+  <li><strong>TechCrunch</strong> — GM and Ford pivot into <strong>energy storage</strong> as AI data centers strain grids. <a href="https://techcrunch.com/2026/06/10/why-everyones-an-energy-company-now/">link</a></li>
+  <li><strong>TechCrunch</strong> — SpaceX alumni bet on <strong>solar + batteries</strong> to power AI’s energy hunger. <a href="https://techcrunch.com/2026/06/10/why-two-spacex-alumni-are-betting-on-solar-and-batteries-to-power-the-ai-craze/">link</a></li>
+  <li><strong>TechCrunch</strong> — Waymo builds a <strong>new benchmark</strong> to compare robotaxis vs. human drivers. <a href="https://techcrunch.com/2026/06/10/waymo-says-it-built-a-better-benchmark-for-comparing-robotaxis-to-humans/">link</a></li>
+  <li><strong>TechCrunch</strong> — Google slashes <strong>budget AI subscription prices</strong>, escalating the race to the bottom. <a href="https://techcrunch.com/2026/06/09/google-just-fired-a-warning-shot-in-the-ai-subscription-price-wars/">link</a></li>
+  <li><strong>The Decoder</strong> — Google’s <strong>NotebookLM</strong> now runs its own cloud computer with code execution. <a href="https://the-decoder.com/googles-notebooklm-now-runs-its-own-cloud-computer-with-code-execution-and-agent-based-research/">link</a></li>
+</ul>
+
+<h2 id="what-to-watch-next">What to Watch Next</h2>
+
+<ul>
+  <li><strong>Energy vs. AI:</strong> Will <strong>solar + battery startups</strong> outpace traditional grid upgrades as data center demand surges?</li>
+  <li><strong>Safety institutes:</strong> Germany’s move could push <strong>France and Japan</strong> to launch their own AI governance bodies.</li>
+  <li><strong>Sports AI:</strong> Expect <strong>more real-time AI integrations</strong> in global events—think Olympics, Super Bowl, and esports.</li>
+</ul>]]></content><author><name></name></author><summary type="html"><![CDATA[3 min read · 9 stories — Energy hacks · Global AI expansion]]></summary></entry><entry><title type="html">09 Jun 2026</title><link href="https://10minai.github.io/news/2026/06/09/daily.html" rel="alternate" type="text/html" title="09 Jun 2026" /><published>2026-06-09T00:00:00+00:00</published><updated>2026-06-09T00:00:00+00:00</updated><id>https://10minai.github.io/news/2026/06/09/daily</id><content type="html" xml:base="https://10minai.github.io/news/2026/06/09/daily.html"><![CDATA[<p><strong>3 min read · 8 stories</strong> — OpenAI’s IPO dance · Apple’s AI glow-up</p>
+
+<h2 id="tldr">TL;DR</h2>
+
+<ul>
+  <li>OpenAI wavers on IPO timing, cites tradeoffs</li>
+  <li>Apple’s Siri overhaul arrives (with caveats)</li>
+  <li>Hybrid human-AI leadership challenges emerge</li>
+  <li>Ex-scooter CEO raises $5M for space data centers</li>
+  <li>OpenAI rejects full automation future</li>
+</ul>
+
+<hr />
+
+<h3 id="-openai-says-going-public-is-a-complicated-set-of-tradeoffs-and-is-unsure-about-the-timing">🥇 OpenAI says going public is “a complicated set of tradeoffs” and is unsure about the timing</h3>
+
+<p><strong><a href="https://the-decoder.com/openai-says-going-public-is-a-complicated-set-of-tradeoffs-and-is-unsure-about-the-timing/">OpenAI executives admit an IPO is on the table but timing remains uncertain</a></strong> — balancing investor pressure, regulatory hurdles, and mission alignment.</p>
+
+<blockquote>
+  <p><em>Why it matters:</em> Public markets could force transparency but also short-term thinking—something OpenAI’s nonprofit roots were built to avoid.</p>
+</blockquote>
+
+<p>🏷️ <code class="language-plaintext highlighter-rouge">OpenAI</code> <code class="language-plaintext highlighter-rouge">IPO</code> <code class="language-plaintext highlighter-rouge">Governance</code> <code class="language-plaintext highlighter-rouge">Funding</code></p>
+
+<hr />
+
+<h3 id="learning-to-lead-in-a-hybrid-human-ai-enterprise">Learning to lead in a hybrid human-AI enterprise</h3>
+
+<p><strong><a href="https://www.technologyreview.com/2026/06/09/1137830/learning-to-lead-in-a-hybrid-human-ai-enterprise/">MIT Tech Review explores how leadership must adapt as AI agents surge 300% in two years</a></strong> — focusing on delegation, trust, and new metrics for success.</p>
+
+<blockquote>
+  <p><em>Why it matters:</em> The shift isn’t just technical; it’s cultural—companies risk inefficiency or burnout if humans and AI aren’t managed as a cohesive team.</p>
+</blockquote>
+
+<p>🏷️ <code class="language-plaintext highlighter-rouge">Leadership</code> <code class="language-plaintext highlighter-rouge">Agents</code> <code class="language-plaintext highlighter-rouge">Workforce</code> <code class="language-plaintext highlighter-rouge">Adoption</code></p>
+
+<hr />
+
+<h3 id="apples-new-siri-ai-overhaul-is-here-sort-of">Apple’s new Siri AI overhaul is here (sort of)</h3>
+
+<p><strong><a href="https://www.therundown.ai/p/apple-siri-ai-overhaul-is-here-sort-of">Apple’s revamped Siri debuts with mixed results</a></strong> — smoother interactions but still lags behind competitors in contextual understanding.</p>
+
+<blockquote>
+  <p><em>Why it matters:</em> Apple’s cautious approach may pay off long-term, but users expecting a leap forward might feel underwhelmed.</p>
+</blockquote>
+
+<p>🏷️ <code class="language-plaintext highlighter-rouge">Apple</code> <code class="language-plaintext highlighter-rouge">Siri</code> <code class="language-plaintext highlighter-rouge">AI Tools</code> <code class="language-plaintext highlighter-rouge">UX</code></p>
+
+<hr />
+
+<h3 id="how-an-e-scooter-founder-raised-5m-to-build-space-data-centers">How an e-scooter founder raised $5M to build space data centers</h3>
+
+<p><strong><a href="https://techcrunch.com/2026/06/09/how-an-e-scooter-founder-raised-5-million-to-build-space-data-centers/">Orbital, led by ex-Spin CEO Euwyn Poon, secures funding for 10,000 orbital data centers</a></strong> — aiming to cut latency and energy costs by moving compute off-planet.</p>
+
+<blockquote>
+  <p><em>Why it matters:</em> If viable, space-based infrastructure could redefine cloud economics—but execution risks are astronomical.</p>
+</blockquote>
+
+<p>🏷️ <code class="language-plaintext highlighter-rouge">Infrastructure</code> <code class="language-plaintext highlighter-rouge">Space</code> <code class="language-plaintext highlighter-rouge">Funding</code> <code class="language-plaintext highlighter-rouge">Hardware</code></p>
+
+<hr />
+
+<h3 id="openai-now-says-entirely-automating-everything-is-not-the-future-we-want">OpenAI now says “entirely automating everything is not the future we want”</h3>
+
+<p><strong><a href="https://the-decoder.com/openai-says-entirely-automating-everything-is-not-the-future-we-want/">OpenAI shifts messaging, emphasizing human-AI collaboration over full automation</a></strong> — a pivot from earlier “automate all the things” rhetoric.</p>
+
+<blockquote>
+  <p><em>Why it matters:</em> The stance could ease regulatory fears but may also signal internal debates about AI’s role in society.</p>
+</blockquote>
+
+<p>🏷️ <code class="language-plaintext highlighter-rouge">OpenAI</code> <code class="language-plaintext highlighter-rouge">Alignment</code> <code class="language-plaintext highlighter-rouge">Policy</code> <code class="language-plaintext highlighter-rouge">Automation</code></p>
+
+<hr />
+
+<h2 id="quick-hits">Quick Hits</h2>
+
+<ul>
+  <li><strong>MIT Tech Review</strong> — Five key AI themes from SXSW London, including governance and multimodal risks. <a href="https://www.technologyreview.com/2026/06/09/1138582/five-things-you-need-to-know-about-ai/">link</a></li>
+  <li><strong>IEEE Spectrum</strong> — How NASA’s JPL keeps the 13-year-old Curiosity rover running 200M km from Earth. <a href="https://spectrum.ieee.org/curiosity-rover-jpl-mars-science">link</a></li>
+  <li><strong>IEEE Spectrum</strong> — Fractal OS exposes hardware flaws, giving researchers a new security tool. <a href="https://spectrum.ieee.org/fractal-os-operating-system-security">link</a></li>
+  <li><strong>Hugging Face</strong> — An AI agent chains two Spaces to build a 3D Paris art gallery autonomously. <a href="https://huggingface.co/blog/mishig/spaces-agents-md">link</a></li>
+  <li><strong>TechCrunch</strong> — Apple’s slow AI rollout starts to look strategic, not sluggish. <a href="https://techcrunch.com/2026/06/08/why-apples-slow-and-steady-ai-bet-is-starting-to-look-pretty-smart/">link</a></li>
+  <li><strong>The Decoder</strong> — Apple Intelligence gets a boost from Google and Nvidia partnerships. <a href="https://the-decoder.com/apple-intelligence-gets-a-second-go-with-the-help-of-google-and-nvidia/">link</a></li>
+</ul>
+
+<h2 id="what-to-watch-next">What to Watch Next</h2>
+
+<ul>
+  <li><strong>OpenAI’s IPO calculus:</strong> Will pressure from investors or regulators force a decision sooner than expected?</li>
+  <li><strong>Apple’s AI momentum:</strong> Can Siri’s incremental upgrades silence critics, or will users demand bolder moves?</li>
+  <li><strong>Space compute hype:</strong> Orbital’s $5M bet is just the start—watch for more startups chasing off-world infrastructure.</li>
+</ul>]]></content><author><name></name></author><summary type="html"><![CDATA[3 min read · 8 stories — OpenAI’s IPO dance · Apple’s AI glow-up]]></summary></entry><entry><title type="html">08 Jun 2026</title><link href="https://10minai.github.io/news/2026/06/08/daily.html" rel="alternate" type="text/html" title="08 Jun 2026" /><published>2026-06-08T00:00:00+00:00</published><updated>2026-06-08T00:00:00+00:00</updated><id>https://10minai.github.io/news/2026/06/08/daily</id><content type="html" xml:base="https://10minai.github.io/news/2026/06/08/daily.html"><![CDATA[<p><strong>3 min read · 8 stories</strong> — Govt stakes · Agentic RL · Valuations soar</p>
+
+<h2 id="tldr">TL;DR</h2>
+
+<ul>
+  <li>OpenAI sells stake to U.S. government, Google secures compute deal</li>
+  <li>Climate AI progress slower than hyped</li>
+  <li>Moonshot AI eyes $30B valuation, 6x growth in six months</li>
+  <li>Open-source community backs OpenEnv for agentic RL</li>
+  <li>UK advances sovereign AI with NVIDIA tech</li>
+</ul>
+
+<hr />
+
+<h3 id="-openai-sells-stake-to-us-google-locks-in-compute-deal">🥇 OpenAI sells stake to U.S., Google locks in compute deal</h3>
+
+<p><strong><a href="https://tldr.tech/ai/2026-06-08">OpenAI has taken a U.S. government investment</a></strong> — Microsoft also launched Scout, a new AI assistant for enterprises.</p>
+
+<blockquote>
+  <p><em>Why it matters:</em> Government equity stakes could reshape AI governance and funding models.</p>
+</blockquote>
+
+<p>🏷️ <code class="language-plaintext highlighter-rouge">Policy</code> <code class="language-plaintext highlighter-rouge">Funding</code> <code class="language-plaintext highlighter-rouge">Enterprise</code></p>
+
+<hr />
+
+<h3 id="climate-ais-limits-exposed">Climate AI’s limits exposed</h3>
+
+<p><strong><a href="https://arstechnica.com/science/2026/06/the-weather-and-climate-science-ai-revolution-isnt-revolutionary/">Machine learning in weather and climate science isn’t living up to the hype</a></strong> — Models help, but physics still rules.</p>
+
+<blockquote>
+  <p><em>Why it matters:</em> Overpromising AI’s role risks misallocating research dollars and public trust.</p>
+</blockquote>
+
+<p>🏷️ <code class="language-plaintext highlighter-rouge">Science</code> <code class="language-plaintext highlighter-rouge">Climate</code> <code class="language-plaintext highlighter-rouge">Models</code></p>
+
+<hr />
+
+<h3 id="moonshot-ai-targets-30b-valuation">Moonshot AI targets $30B valuation</h3>
+
+<p><strong><a href="https://the-decoder.com/moonshot-ai-targets-a-30-billion-valuation-more-than-six-times-its-late-2025-worth/">Moonshot AI is seeking a $30 billion valuation</a></strong>, more than six times its late-2025 worth.</p>
+
+<blockquote>
+  <p><em>Why it matters:</em> China’s AI boom is accelerating, with valuations outpacing U.S. peers.</p>
+</blockquote>
+
+<p>🏷️ <code class="language-plaintext highlighter-rouge">China</code> <code class="language-plaintext highlighter-rouge">Funding</code> <code class="language-plaintext highlighter-rouge">Startups</code></p>
+
+<hr />
+
+<h3 id="open-source-backs-openenv-for-agentic-rl">Open-source backs OpenEnv for agentic RL</h3>
+
+<p><strong><a href="https://huggingface.co/blog/openenv-agentic-rl">The open-source community is rallying behind OpenEnv</a></strong>, a new framework for agentic reinforcement learning.</p>
+
+<blockquote>
+  <p><em>Why it matters:</em> Standardized tools could speed up agentic AI development and adoption.</p>
+</blockquote>
+
+<p>🏷️ <code class="language-plaintext highlighter-rouge">Open-source</code> <code class="language-plaintext highlighter-rouge">Agents</code> <code class="language-plaintext highlighter-rouge">Research</code></p>
+
+<hr />
+
+<h3 id="uk-turns-ai-ambition-into-action-with-nvidia">UK turns AI ambition into action with NVIDIA</h3>
+
+<p><strong><a href="https://blogs.nvidia.com/blog/uk-sovereign-ai-advancements/">The UK is advancing its sovereign AI goals</a></strong> using NVIDIA tech, a year after pledging to be an “AI maker.”</p>
+
+<blockquote>
+  <p><em>Why it matters:</em> Sovereign AI strategies are becoming a national priority for tech hubs.</p>
+</blockquote>
+
+<p>🏷️ <code class="language-plaintext highlighter-rouge">Policy</code> <code class="language-plaintext highlighter-rouge">Infrastructure</code> <code class="language-plaintext highlighter-rouge">Europe</code></p>
+
+<hr />
+
+<h2 id="quick-hits">Quick Hits</h2>
+
+<ul>
+  <li><strong>NVIDIA</strong> — Partners with LG to build an AI factory for robotics, mobility, and data centers. <a href="https://blogs.nvidia.com/blog/nvidia-and-lg-group-ai-factory/">link</a></li>
+  <li><strong>The Rundown</strong> — Washington seeks a stake in OpenAI amid regulatory pressure. <a href="https://www.therundown.ai/p/washington-wants-a-piece-of-openai">link</a></li>
+  <li><strong>TechCrunch</strong> — Uber, Wayve, and Waymo gear up for a robotaxi showdown in London. <a href="https://techcrunch.com/2026/06/08/uber-wayve-and-waymo-are-headed-towards-a-robotaxi-showdown-in-london/">link</a></li>
+  <li><strong>Wired</strong> — Momfluencers pitch AI as a better “coparent” than men. <a href="https://www.wired.com/story/momfluencers-are-pitching-ai-as-a-better-coparent-than-men/">link</a></li>
+  <li><strong>The Decoder</strong> — Most companies lack visibility into AI spending. <a href="https://the-decoder.com/most-companies-are-flying-blind-on-ai-spending/">link</a></li>
+  <li><strong>The Decoder</strong> — Agentic AI turns tokens into a key business metric. <a href="https://the-decoder.com/frontier-radar-3-how-agentic-ai-is-turning-tokens-into-a-business-metric/">link</a></li>
+  <li><strong>The Decoder</strong> — Instagram AI chatbot breach may have hit 20,000 accounts. <a href="https://the-decoder.com/instagram-ai-chatbot-breach-may-have-affected-over-to-20000-accounts-meta-discloses/">link</a></li>
+</ul>
+
+<h2 id="what-to-watch-next">What to Watch Next</h2>
+
+<ul>
+  <li><strong>Government stakes in AI labs</strong> — Will more nations follow the U.S. playbook?</li>
+  <li><strong>Agentic RL frameworks</strong> — OpenEnv’s adoption could define the next wave of AI agents.</li>
+  <li><strong>Robotaxi expansion</strong> — London’s rollout may set the tone for Europe’s autonomous vehicle policy.</li>
+</ul>]]></content><author><name></name></author><summary type="html"><![CDATA[3 min read · 8 stories — Govt stakes · Agentic RL · Valuations soar]]></summary></entry><entry><title type="html">07 Jun 2026</title><link href="https://10minai.github.io/news/2026/06/07/daily.html" rel="alternate" type="text/html" title="07 Jun 2026" /><published>2026-06-07T00:00:00+00:00</published><updated>2026-06-07T00:00:00+00:00</updated><id>https://10minai.github.io/news/2026/06/07/daily</id><content type="html" xml:base="https://10minai.github.io/news/2026/06/07/daily.html"><![CDATA[<p><strong>3 min read · 4 stories</strong> — Chip wars · Agent tools · Security moves</p>
+
+<h2 id="tldr">TL;DR</h2>
+
+<ul>
+  <li>Anthropic hires OpenAI’s second chip engineer ahead of IPOs</li>
+  <li>Hugging Face debuts Her, a detective for Claude code sessions</li>
+  <li>NVIDIA and partners roll out RTX Spark PCs in Korea’s PC bangs</li>
+  <li>ChatGPT adds Lockdown Mode to block web access and prompt injection</li>
+</ul>
+
+<hr />
+
+<h3 id="-anthropic-poaches-openais-second-ever-chip-engineer-as-both-companies-race-toward-ipos">🥇 Anthropic poaches OpenAI’s second-ever chip engineer as both companies race toward IPOs</h3>
+
+<p><strong><a href="https://the-decoder.com/anthropic-poaches-openais-second-ever-chip-engineer-as-both-companies-race-toward-ipos/">Anthropic has hired OpenAI’s second chip engineer</a></strong> — the move comes as both firms prepare for public listings and ramp up custom silicon efforts.</p>
+
+<blockquote>
+  <p><em>Why it matters:</em> Talent raids signal how critical in-house chips have become to scaling—and controlling costs—before Wall Street weighs in.</p>
+</blockquote>
+
+<p>🏷️ <code class="language-plaintext highlighter-rouge">Chips</code> <code class="language-plaintext highlighter-rouge">IPO</code> <code class="language-plaintext highlighter-rouge">Talent</code> <code class="language-plaintext highlighter-rouge">Infrastructure</code></p>
+
+<hr />
+
+<h3 id="her--हेर--a-detective-for-your-claude-code-sessions">Her · हेर — a detective for your Claude Code sessions</h3>
+
+<p><strong><a href="https://huggingface.co/blog/build-small-hackathon/her-blog">Hugging Face released Her, a tool that audits and explains Claude-generated code</a></strong>.</p>
+
+<blockquote>
+  <p><em>Why it matters:</em> Debugging AI-written code just got faster, lowering the barrier for non-experts to trust—and ship—agent-built software.</p>
+</blockquote>
+
+<p>🏷️ <code class="language-plaintext highlighter-rouge">Agents</code> <code class="language-plaintext highlighter-rouge">Debugging</code> <code class="language-plaintext highlighter-rouge">Open-source</code></p>
+
+<hr />
+
+<h3 id="nvidia-krafton-nc-and-reigning-league-of-legends-champions-t1-celebrate-rtx-spark-at-koreas-pc-bangs">NVIDIA, KRAFTON, NC and Reigning ‘League of Legends’ Champions T1 Celebrate RTX Spark at Korea’s PC Bangs</h3>
+
+<p><strong><a href="https://blogs.nvidia.com/blog/krafton-nc-t1-korea-gaming-pc-bang-rtx-spark/">NVIDIA and partners launched RTX Spark PCs in Korea’s gaming cafés</a></strong> — the new hardware targets personal AI agents and high-end gaming.</p>
+
+<blockquote>
+  <p><em>Why it matters:</em> PC bangs are the canary for consumer AI adoption; if agents catch on here, they’ll spread globally.</p>
+</blockquote>
+
+<p>🏷️ <code class="language-plaintext highlighter-rouge">Hardware</code> <code class="language-plaintext highlighter-rouge">Gaming</code> <code class="language-plaintext highlighter-rouge">Agents</code> <code class="language-plaintext highlighter-rouge">Korea</code></p>
+
+<hr />
+
+<h3 id="chatgpts-new-lockdown-mode-lets-you-disable-web-access-and-more-to-protect-sensitive-data-from-prompt-injection">ChatGPT’s new Lockdown Mode lets you disable web access and more to protect sensitive data from prompt injection</h3>
+
+<p><strong><a href="https://the-decoder.com/chatgpts-new-lockdown-mode-lets-you-disable-web-access-and-more-to-protect-sensitive-data-from-prompt-injection/">OpenAI added Lockdown Mode to ChatGPT, blocking web access and other features to prevent prompt injection</a></strong>.</p>
+
+<blockquote>
+  <p><em>Why it matters:</em> Enterprises now have a one-click way to harden models against data leaks without sacrificing core functionality.</p>
+</blockquote>
+
+<p>🏷️ <code class="language-plaintext highlighter-rouge">Security</code> <code class="language-plaintext highlighter-rouge">Enterprise</code> <code class="language-plaintext highlighter-rouge">Safety</code></p>
+
+<hr />
+
+<h2 id="what-to-watch-next">What to Watch Next</h2>
+
+<ul>
+  <li><strong>IPO timing:</strong> Anthropic and OpenAI’s chip hires suggest both are accelerating hardware plans—watch for S-1 filings in early 2027.</li>
+  <li><strong>Agent tooling:</strong> Her’s release hints at a wave of debugging and monitoring tools tailored for AI-generated code.</li>
+  <li><strong>Regional AI PCs:</strong> Korea’s PC bang rollout could set the template for NVIDIA’s next push into Japan and Southeast Asia.</li>
+</ul>]]></content><author><name></name></author><summary type="html"><![CDATA[3 min read · 4 stories — Chip wars · Agent tools · Security moves]]></summary></entry><entry><title type="html">06 Jun 2026</title><link href="https://10minai.github.io/news/2026/06/06/daily.html" rel="alternate" type="text/html" title="06 Jun 2026" /><published>2026-06-06T00:00:00+00:00</published><updated>2026-06-06T00:00:00+00:00</updated><id>https://10minai.github.io/news/2026/06/06/daily</id><content type="html" xml:base="https://10minai.github.io/news/2026/06/06/daily.html"><![CDATA[<p><strong>3 min read · 3 stories</strong> — Chips, stakes, and agents</p>
+
+<h2 id="tldr">TL;DR</h2>
+
+<ul>
+  <li>SpaceX inks $920M monthly deal for 110K Nvidia AI chips</li>
+  <li>Trump admin negotiates government stake in OpenAI</li>
+  <li>Alibaba’s Qwen3.7-Plus aims to be a full autonomous agent</li>
+</ul>
+
+<hr />
+
+<h3 id="-spacex-signs-920-million-per-month-deal-with-google-for-110000-nvidia-ai-chips-ahead-of-ipo">🥇 SpaceX signs $920 million per month deal with Google for 110,000 Nvidia AI chips ahead of IPO</h3>
+
+<p><strong><a href="https://the-decoder.com/spacex-signs-920-million-per-month-deal-with-google-for-110000-nvidia-ai-chips-ahead-of-ipo/">SpaceX has locked in a $920 million monthly contract with Google for 110,000 Nvidia AI chips</a></strong> — the deal accelerates SpaceX’s AI infrastructure ahead of its planned IPO.</p>
+
+<blockquote>
+  <p><em>Why it matters:</em> This is one of the largest single hardware commitments in AI history, signaling SpaceX’s bet on in-house AI to power its satellite and rocket networks.</p>
+</blockquote>
+
+<p>🏷️ <code class="language-plaintext highlighter-rouge">Hardware</code> <code class="language-plaintext highlighter-rouge">Nvidia</code> <code class="language-plaintext highlighter-rouge">SpaceX</code> <code class="language-plaintext highlighter-rouge">IPO</code></p>
+
+<hr />
+
+<h3 id="openai-and-the-trump-administration-are-negotiating-a-government-stake-in-the-ai-startup">OpenAI and the Trump administration are negotiating a government stake in the AI startup</h3>
+
+<p><strong><a href="https://the-decoder.com/openai-and-the-trump-administration-are-negotiating-a-government-stake-in-the-ai-startup/">OpenAI is in talks with the Trump administration to secure a government equity stake</a></strong> — a move that could reshape U.S. AI policy and funding.</p>
+
+<blockquote>
+  <p><em>Why it matters:</em> A government stake would give Washington direct influence over OpenAI’s roadmap, potentially aligning it with national security priorities.</p>
+</blockquote>
+
+<p>🏷️ <code class="language-plaintext highlighter-rouge">Policy</code> <code class="language-plaintext highlighter-rouge">OpenAI</code> <code class="language-plaintext highlighter-rouge">Funding</code> <code class="language-plaintext highlighter-rouge">Government</code></p>
+
+<hr />
+
+<h3 id="qwen37-plus-is-alibabas-bid-to-turn-multimodal-ai-into-a-full-blown-autonomous-agent">Qwen3.7-Plus is Alibaba’s bid to turn multimodal AI into a full-blown autonomous agent</h3>
+
+<p><strong><a href="https://the-decoder.com/qwen3-7-plus-is-alibabas-bid-to-turn-multimodal-ai-into-a-full-blown-autonomous-agent/">Alibaba’s Qwen3.7-Plus is designed to function as an autonomous agent</a></strong>, handling tasks end-to-end without human oversight.</p>
+
+<blockquote>
+  <p><em>Why it matters:</em> If successful, this could position Alibaba as a leader in agentic AI, competing directly with Western models like OpenAI’s upcoming agent systems.</p>
+</blockquote>
+
+<p>🏷️ <code class="language-plaintext highlighter-rouge">Models</code> <code class="language-plaintext highlighter-rouge">Agents</code> <code class="language-plaintext highlighter-rouge">China</code> <code class="language-plaintext highlighter-rouge">Alibaba</code></p>
+
+<hr />
+
+<h2 id="what-to-watch-next">What to Watch Next</h2>
+
+<ul>
+  <li><strong>SpaceX’s IPO timing</strong> — Will the Nvidia deal accelerate its public debut, or delay it due to valuation questions?</li>
+  <li><strong>Government-AI partnerships</strong> — Expect more startups to explore equity deals with Washington as AI becomes a national priority.</li>
+  <li><strong>Agentic AI race</strong> — Watch for benchmarks comparing Qwen3.7-Plus to Western models in real-world task automation.</li>
+</ul>]]></content><author><name></name></author><summary type="html"><![CDATA[3 min read · 3 stories — Chips, stakes, and agents]]></summary></entry><entry><title type="html">05 Jun 2026</title><link href="https://10minai.github.io/news/2026/06/05/daily.html" rel="alternate" type="text/html" title="05 Jun 2026" /><published>2026-06-05T00:00:00+00:00</published><updated>2026-06-05T00:00:00+00:00</updated><id>https://10minai.github.io/news/2026/06/05/daily</id><content type="html" xml:base="https://10minai.github.io/news/2026/06/05/daily.html"><![CDATA[<p><strong>3 min read · 7 stories</strong> — Investor bets · AI writes itself · Cyber ops</p>
+
+<h2 id="tldr">TL;DR</h2>
+
+<ul>
+  <li>VCs back both OpenAI and Anthropic, no loyalty wars</li>
+  <li>Claude now codes 90% of Anthropic’s stack, pushes “pause button” idea</li>
+  <li>NSA reportedly uses Anthropic’s Mythos for cyber ops vs China, Iran</li>
+  <li>Meta’s AI support agent hacked to steal Instagram accounts</li>
+  <li>NVIDIA and South Korea build sovereign AI, robotics hub</li>
+</ul>
+
+<hr />
+
+<h3 id="-openai-and-anthropic-may-be-rivals-but-investors-arent-picking-sides">🥇 OpenAI and Anthropic may be rivals, but investors aren’t picking sides</h3>
+
+<p><strong><a href="https://www.wired.com/story/openai-and-anthropic-may-be-rivals-but-their-investors-arent-choosing-sides/">VCs are pouring money into both OpenAI and Anthropic</a></strong> — comparing it to holding stock in both Pepsi and Coke.</p>
+
+<blockquote>
+  <p><em>Why it matters:</em> The AI race is now a portfolio play, not a winner-takes-all bet.</p>
+</blockquote>
+
+<p>🏷️ <code class="language-plaintext highlighter-rouge">Funding</code> <code class="language-plaintext highlighter-rouge">VC</code> <code class="language-plaintext highlighter-rouge">OpenAI</code> <code class="language-plaintext highlighter-rouge">Anthropic</code></p>
+
+<hr />
+
+<h3 id="claude-now-writes-90-of-anthropics-codeand-wants-a-global-ai-pause-button">Claude now writes 90% of Anthropic’s code—and wants a global AI pause button</h3>
+
+<p><strong><a href="https://the-decoder.com/anthropic-says-claude-now-writes-over-90-of-its-code-and-wants-the-world-to-have-an-ai-pause-button/">Anthropic says Claude generates over 90% of its own codebase</a></strong> and is pushing for a global “pause button” mechanism.</p>
+
+<blockquote>
+  <p><em>Why it matters:</em> If AI builds itself, alignment debates shift from theory to urgent practice.</p>
+</blockquote>
+
+<p>🏷️ <code class="language-plaintext highlighter-rouge">Models</code> <code class="language-plaintext highlighter-rouge">Alignment</code> <code class="language-plaintext highlighter-rouge">Self-improvement</code></p>
+
+<hr />
+
+<h3 id="anthropics-mythos-model-reportedly-powers-nsa-cyber-ops-against-china-and-iran">Anthropic’s Mythos model reportedly powers NSA cyber ops against China and Iran</h3>
+
+<p><strong><a href="https://the-decoder.com/anthropics-mythos-model-is-reportedly-powering-nsa-offensive-cyber-ops-against-china-and-iran/">The NSA is using Anthropic’s Mythos for offensive cyber operations</a></strong> targeting China and Iran, per reports.</p>
+
+<blockquote>
+  <p><em>Why it matters:</em> State use of frontier models blurs the line between research and geopolitical leverage.</p>
+</blockquote>
+
+<p>🏷️ <code class="language-plaintext highlighter-rouge">Policy</code> <code class="language-plaintext highlighter-rouge">Cybersecurity</code> <code class="language-plaintext highlighter-rouge">NSA</code> <code class="language-plaintext highlighter-rouge">China</code></p>
+
+<hr />
+
+<h3 id="the-meta-hack-shows-theres-more-to-ai-security-than-mythos">The Meta hack shows there’s more to AI security than Mythos</h3>
+
+<p><strong><a href="https://www.technologyreview.com/2026/06/05/1138437/the-meta-hack-shows-theres-more-to-ai-security-than-mythos/">Attackers exploited Meta’s AI support agent to hijack Instagram accounts</a></strong> by tricking it into linking emails.</p>
+
+<blockquote>
+  <p><em>Why it matters:</em> AI security isn’t just about model safety—it’s about workflows and human oversight.</p>
+</blockquote>
+
+<p>🏷️ <code class="language-plaintext highlighter-rouge">Security</code> <code class="language-plaintext highlighter-rouge">Agents</code> <code class="language-plaintext highlighter-rouge">Meta</code></p>
+
+<hr />
+
+<h3 id="seoul-purpose-how-nvidia-and-south-korea-are-building-the-future-of-ai">Seoul Purpose: How NVIDIA and South Korea are building the future of AI</h3>
+
+<p><strong><a href="https://blogs.nvidia.com/blog/korea-ecosystem-2026/">NVIDIA and South Korea are partnering on sovereign AI infrastructure and robotics</a></strong> to position the country as a global AI hub.</p>
+
+<blockquote>
+  <p><em>Why it matters:</em> Sovereign AI isn’t just about chips—it’s about local control of data and talent.</p>
+</blockquote>
+
+<p>🏷️ <code class="language-plaintext highlighter-rouge">Hardware</code> <code class="language-plaintext highlighter-rouge">Geopolitics</code> <code class="language-plaintext highlighter-rouge">Robotics</code></p>
+
+<hr />
+
+<h2 id="quick-hits">Quick Hits</h2>
+
+<ul>
+  <li><strong>therundown</strong> — Anthropic’s RSI clock ticks louder as Perplexity rolls out stress-test tools for business ideas. <a href="https://www.therundown.ai/p/anthropic-confronts-the-rsi-clock">link</a></li>
+  <li><strong>wired-ai</strong> — AI companies adopt serif fonts to look “human,” sparking backlash over “tasteslop.” <a href="https://www.wired.com/story/ai-has-come-for-serif-fonts/">link</a></li>
+</ul>
+
+<h2 id="what-to-watch-next">What to Watch Next</h2>
+
+<ul>
+  <li>Whether Anthropic’s self-coding milestone triggers a wave of AI-driven development—or new regulatory scrutiny.</li>
+  <li>If NSA’s use of Mythos becomes a template for other agencies, or a cautionary tale.</li>
+  <li>How South Korea’s sovereign AI push reshapes global supply chains beyond semiconductors.</li>
+</ul>]]></content><author><name></name></author><summary type="html"><![CDATA[3 min read · 7 stories — Investor bets · AI writes itself · Cyber ops]]></summary></entry></feed>
