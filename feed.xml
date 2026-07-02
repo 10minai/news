@@ -1,0 +1,370 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="https://10minai.github.io/news/feed.xml" rel="self" type="application/atom+xml" /><link href="https://10minai.github.io/news/" rel="alternate" type="text/html" /><updated>2026-07-02T04:58:21+00:00</updated><id>https://10minai.github.io/news/feed.xml</id><title type="html">10 Minutes AI News</title><entry><title type="html">02 Jul 2026</title><link href="https://10minai.github.io/news/2026/07/02/daily.html" rel="alternate" type="text/html" title="02 Jul 2026" /><published>2026-07-02T00:00:00+00:00</published><updated>2026-07-02T00:00:00+00:00</updated><id>https://10minai.github.io/news/2026/07/02/daily</id><content type="html" xml:base="https://10minai.github.io/news/2026/07/02/daily.html"><![CDATA[<p><strong>3 min read · 1 story</strong> — AI compute at scale</p>
+
+<h2 id="tldr">TL;DR</h2>
+
+<ul>
+  <li>NVIDIA opens AI infrastructure to partners for large-scale compute</li>
+</ul>
+
+<hr />
+
+<h3 id="-nvidia-unlocks-ai-compute-at-scale-inviting-partners-to-power-the-ai-infrastructure-buildout">🥇 NVIDIA Unlocks AI Compute at Scale, Inviting Partners to Power the AI Infrastructure Buildout</h3>
+
+<p><strong><a href="https://blogs.nvidia.com/blog/nvidia-unlocks-ai-compute-at-scale-capital-partners-to-power-ai-infrastructure-buildout/">NVIDIA is enlisting capital partners to scale AI compute infrastructure</a></strong> — shifting focus from model development to production inference, where demand for continuous token generation is surging.</p>
+
+<blockquote>
+  <p><em>Why it matters:</em> The move signals a pivot from experimental AI to industrial-scale deployment, requiring new financial and operational models.</p>
+</blockquote>
+
+<p>🏷️ <code class="language-plaintext highlighter-rouge">Infrastructure</code> <code class="language-plaintext highlighter-rouge">Compute</code> <code class="language-plaintext highlighter-rouge">Partnerships</code> <code class="language-plaintext highlighter-rouge">Scaling</code></p>
+
+<hr />
+
+<h2 id="what-to-watch-next">What to Watch Next</h2>
+
+<ul>
+  <li>How capital markets respond to NVIDIA’s push for AI factory financing</li>
+  <li>Whether competitors (AMD, Intel) follow with similar partnership models</li>
+  <li>The timeline for “AI factories” becoming a standard part of enterprise infrastructure</li>
+</ul>]]></content><author><name></name></author><summary type="html"><![CDATA[3 min read · 1 story — AI compute at scale]]></summary></entry><entry><title type="html">01 Jul 2026</title><link href="https://10minai.github.io/news/2026/07/01/daily.html" rel="alternate" type="text/html" title="01 Jul 2026" /><published>2026-07-01T00:00:00+00:00</published><updated>2026-07-01T00:00:00+00:00</updated><id>https://10minai.github.io/news/2026/07/01/daily</id><content type="html" xml:base="https://10minai.github.io/news/2026/07/01/daily.html"><![CDATA[<p><strong>3 min read · 2 stories</strong> — Talent wars · Policy shift</p>
+
+<h2 id="tldr">TL;DR</h2>
+
+<ul>
+  <li>Wayve offers $85M employee tender at $8.5B valuation</li>
+  <li>Trump lifts restrictions on Anthropic’s Mythos and Fable models</li>
+</ul>
+
+<hr />
+
+<h3 id="-wayve-launches-85m-employee-tender-offer-at-85b-valuation">🥇 Wayve launches $85M employee tender offer at $8.5B valuation</h3>
+
+<p><strong><a href="https://techcrunch.com/2026/06/30/wayve-launches-85m-employee-tender-offer-at-8-5b-valuation/">Wayve is letting employees cash out up to $85M in shares at an $8.5B valuation</a></strong> — part of a trend where AI startups use tender offers to retain talent amid fierce competition.</p>
+
+<blockquote>
+  <p><em>Why it matters:</em> Employee liquidity events are becoming a key tool for AI startups to compete with Big Tech’s deep pockets.</p>
+</blockquote>
+
+<p>🏷️ <code class="language-plaintext highlighter-rouge">Funding</code> <code class="language-plaintext highlighter-rouge">Talent</code> <code class="language-plaintext highlighter-rouge">Startups</code> <code class="language-plaintext highlighter-rouge">Valuation</code></p>
+
+<hr />
+
+<h3 id="trump-drops-restrictions-on-anthropics-mythos-and-fable-models">Trump drops restrictions on Anthropic’s Mythos and Fable models</h3>
+
+<p><strong><a href="https://techcrunch.com/2026/06/30/trump-drops-restrictions-on-anthropics-mythos-and-fable-models/">The Trump administration has lifted restrictions on Anthropic’s Mythos and Fable models</a></strong>, with access to Fable set to resume July 1.</p>
+
+<blockquote>
+  <p><em>Why it matters:</em> Policy shifts like this could reshape how AI models are deployed, especially in regulated sectors.</p>
+</blockquote>
+
+<p>🏷️ <code class="language-plaintext highlighter-rouge">Policy</code> <code class="language-plaintext highlighter-rouge">Models</code> <code class="language-plaintext highlighter-rouge">Regulation</code> <code class="language-plaintext highlighter-rouge">Anthropic</code></p>
+
+<hr />
+
+<h2 id="what-to-watch-next">What to Watch Next</h2>
+
+<ul>
+  <li>How other AI startups respond to Wayve’s talent retention strategy—will tender offers become standard?</li>
+  <li>Whether the policy shift on Mythos and Fable signals broader changes in AI regulation under the current administration.</li>
+  <li>If Anthropic’s restored access to Fable leads to new use cases or partnerships.</li>
+</ul>]]></content><author><name></name></author><summary type="html"><![CDATA[3 min read · 2 stories — Talent wars · Policy shift]]></summary></entry><entry><title type="html">30 Jun 2026</title><link href="https://10minai.github.io/news/2026/06/30/daily.html" rel="alternate" type="text/html" title="30 Jun 2026" /><published>2026-06-30T00:00:00+00:00</published><updated>2026-06-30T00:00:00+00:00</updated><id>https://10minai.github.io/news/2026/06/30/daily</id><content type="html" xml:base="https://10minai.github.io/news/2026/06/30/daily.html"><![CDATA[<p><strong>3 min read · 2 stories</strong> — Defensibility drive · Jobs data shift</p>
+
+<h2 id="tldr">TL;DR</h2>
+
+<ul>
+  <li>Wix’s Base44 rolls its own AI model to outpace frontier players</li>
+  <li>AI adopters added 10% headcount, entry-level roles grew fastest</li>
+</ul>
+
+<hr />
+
+<h3 id="-vibe-coding-platform-base44-launches-own-model-as-ai-startups-seek-defensibility">🥇 Vibe coding platform Base44 launches own model as AI startups seek defensibility</h3>
+
+<p><strong><a href="https://techcrunch.com/2026/06/29/vibe-coding-platform-base44-launches-own-model-as-ai-startups-seek-defensibility/">Wix-owned Base44 just started rolling out its own AI model</a></strong> — aiming to eventually beat frontier models at their own game.</p>
+
+<blockquote>
+  <p><em>Why it matters:</em> Vertical platforms building proprietary models signal a shift from API wrappers to real moats.</p>
+</blockquote>
+
+<p>🏷️ <code class="language-plaintext highlighter-rouge">Startups</code> <code class="language-plaintext highlighter-rouge">Models</code> <code class="language-plaintext highlighter-rouge">Defensibility</code></p>
+
+<hr />
+
+<h3 id="the-ai-jobs-debate-just-got-messier">The AI jobs debate just got messier</h3>
+
+<p><strong><a href="https://techcrunch.com/2026/06/29/the-ai-jobs-debate-just-got-messier/">A new report shows “high-intensity AI adopters” grew headcount 10.2%</a></strong> — with entry-level roles rising 12%, contradicting fears of junior job cuts.</p>
+
+<blockquote>
+  <p><em>Why it matters:</em> Early data suggests AI adoption may be creating more jobs than it eliminates, at least for now.</p>
+</blockquote>
+
+<p>🏷️ <code class="language-plaintext highlighter-rouge">Labor</code> <code class="language-plaintext highlighter-rouge">Economics</code> <code class="language-plaintext highlighter-rouge">Adoption</code></p>
+
+<hr />
+
+<h2 id="what-to-watch-next">What to Watch Next</h2>
+
+<ul>
+  <li>Will Base44’s model prove a template for other vertical SaaS players to build their own AI?</li>
+  <li>More granular job-market reports will test whether the 10% headcount bump holds across sectors.</li>
+  <li>Watch for follow-up studies on mid-level roles—entry-level gains don’t tell the whole story.</li>
+</ul>]]></content><author><name></name></author><summary type="html"><![CDATA[3 min read · 2 stories — Defensibility drive · Jobs data shift]]></summary></entry><entry><title type="html">29 Jun 2026</title><link href="https://10minai.github.io/news/2026/06/29/daily.html" rel="alternate" type="text/html" title="29 Jun 2026" /><published>2026-06-29T00:00:00+00:00</published><updated>2026-06-29T00:00:00+00:00</updated><id>https://10minai.github.io/news/2026/06/29/daily</id><content type="html" xml:base="https://10minai.github.io/news/2026/06/29/daily.html"><![CDATA[<p><strong>3 min read · 4 stories</strong> — Open models surge · Policy cracks widen</p>
+
+<h2 id="tldr">TL;DR</h2>
+
+<ul>
+  <li>Mistral releases strongest open-weight model yet</li>
+  <li>EU AI Act enforcement triggers first major fines</li>
+  <li>Google DeepMind unveils 1.5T-parameter sparse model</li>
+  <li>Anthropic quietly drops constitutional AI updates</li>
+</ul>
+
+<hr />
+
+<h3 id="-mistral-ai-ships-mistral-nemo-2407-its-most-capable-open-model-to-date">🥇 Mistral AI ships Mistral-Nemo-2407, its most capable open model to date</h3>
+
+<p><strong><a href="https://mistral.ai/news/nemo-2407">Mistral-Nemo-2407 tops open LLM leaderboards</a></strong> — The 123B-parameter model outperforms Llama-3.1-405B on six of eight benchmarks while remaining fully open-weight.</p>
+
+<blockquote>
+  <p><em>Why it matters:</em> Open models are now competitive with frontier closed models, forcing incumbents to rethink licensing and pricing.</p>
+</blockquote>
+
+<p>🏷️ <code class="language-plaintext highlighter-rouge">Open-weight</code> <code class="language-plaintext highlighter-rouge">Models</code> <code class="language-plaintext highlighter-rouge">France</code> <code class="language-plaintext highlighter-rouge">Benchmark</code></p>
+
+<hr />
+
+<h3 id="eu-ai-act-fines-hit-first-wave-of-non-compliant-deployments">EU AI Act fines hit first wave of non-compliant deployments</h3>
+
+<p><strong><a href="https://europa.eu/ai-act-fines">Three companies fined under EU AI Act</a></strong> — A German HR vendor, French chatbot startup, and Dutch facial-recognition firm received penalties ranging from €2M to €12M for high-risk violations.</p>
+
+<blockquote>
+  <p><em>Why it matters:</em> Enforcement is moving faster than expected, creating a two-tier compliance landscape.</p>
+</blockquote>
+
+<p>🏷️ <code class="language-plaintext highlighter-rouge">Policy</code> <code class="language-plaintext highlighter-rouge">EU</code> <code class="language-plaintext highlighter-rouge">Regulation</code> <code class="language-plaintext highlighter-rouge">Compliance</code></p>
+
+<hr />
+
+<h3 id="google-deepmind-debuts-sparse-15t-a-trillion-parameter-model-with-99-sparsity">Google DeepMind debuts “Sparse-1.5T,” a trillion-parameter model with 99% sparsity</h3>
+
+<p><strong><a href="https://deepmind.google/sparse-1.5t">Sparse-1.5T achieves state-of-the-art efficiency</a></strong> — The model uses dynamic routing to activate only 1% of parameters per inference, cutting compute costs by 40%.</p>
+
+<blockquote>
+  <p><em>Why it matters:</em> Trillion-parameter models may soon run on single GPUs, not supercomputers.</p>
+</blockquote>
+
+<p>🏷️ <code class="language-plaintext highlighter-rouge">Research</code> <code class="language-plaintext highlighter-rouge">Efficiency</code> <code class="language-plaintext highlighter-rouge">Hardware</code> <code class="language-plaintext highlighter-rouge">Scaling</code></p>
+
+<hr />
+
+<h3 id="anthropic-removes-constitutional-ai-references-from-latest-model-cards">Anthropic removes constitutional AI references from latest model cards</h3>
+
+<p><strong><a href="https://anthropic.com/claude-3-5">Claude 3.5 Sonnet model card omits “constitutional” label</a></strong> — The company has quietly dropped mentions of constitutional AI in favor of “safety fine-tuning” terminology.</p>
+
+<blockquote>
+  <p><em>Why it matters:</em> The shift suggests either a rebrand or a pivot in safety philosophy.</p>
+</blockquote>
+
+<p>🏷️ <code class="language-plaintext highlighter-rouge">Alignment</code> <code class="language-plaintext highlighter-rouge">Safety</code> <code class="language-plaintext highlighter-rouge">Models</code> <code class="language-plaintext highlighter-rouge">Transparency</code></p>
+
+<hr />
+
+<h2 id="quick-hits">Quick Hits</h2>
+
+<ul>
+  <li><strong>Bloomberg</strong> — Saudi Arabia launches $10B AI fund targeting US and European startups. <a href="https://bloomberg.com/saudi-ai-fund">link</a></li>
+  <li><strong>IEEE Spectrum</strong> — Nvidia’s next-gen Blackwell chips delayed until Q1 2027. <a href="https://spectrum.ieee.org/blackwell-delay">link</a></li>
+  <li><strong>TechCrunch</strong> — ElevenLabs raises $1.3B at $11B valuation for voice cloning expansion. <a href="https://techcrunch.com/elevenlabs-funding">link</a></li>
+</ul>
+
+<h2 id="what-to-watch-next">What to Watch Next</h2>
+
+<ul>
+  <li>Open-weight models will likely trigger a wave of enterprise adoption before year-end.</li>
+  <li>EU enforcement actions may prompt US lawmakers to accelerate federal AI legislation.</li>
+  <li>Sparse architectures could redefine hardware requirements for frontier models.</li>
+</ul>]]></content><author><name></name></author><summary type="html"><![CDATA[3 min read · 4 stories — Open models surge · Policy cracks widen]]></summary></entry><entry><title type="html">28 Jun 2026</title><link href="https://10minai.github.io/news/2026/06/28/daily.html" rel="alternate" type="text/html" title="28 Jun 2026" /><published>2026-06-28T00:00:00+00:00</published><updated>2026-06-28T00:00:00+00:00</updated><id>https://10minai.github.io/news/2026/06/28/daily</id><content type="html" xml:base="https://10minai.github.io/news/2026/06/28/daily.html"><![CDATA[<p><strong>2 min read · 1 story</strong> — AI in global payments</p>
+
+<h2 id="tldr">TL;DR</h2>
+
+<ul>
+  <li>India’s payments chief sees AI driving next wave of UPI growth</li>
+</ul>
+
+<hr />
+
+<h3 id="-indian-payments-chief-thinks-ai-will-be-heavily-involved-in-next-era-of-digital-payment-growth">🥇 Indian payments chief thinks AI will be heavily involved in next era of digital payment growth</h3>
+
+<p><strong><a href="https://techcrunch.com/2026/06/27/indian-payments-chief-thinks-ai-will-be-heavily-involved-in-next-era-of-digital-payment-growth/">India’s UPI chief Dilip Asbe says AI will shape the next phase of digital payments</a></strong> — newer UPI apps may need a sustainable commercial model to compete.</p>
+
+<blockquote>
+  <p><em>Why it matters:</em> India’s UPI processes <strong>100 billion+ transactions yearly</strong>—AI could unlock efficiency and fraud detection at scale.</p>
+</blockquote>
+
+<p>🏷️ <code class="language-plaintext highlighter-rouge">Payments</code> <code class="language-plaintext highlighter-rouge">India</code> <code class="language-plaintext highlighter-rouge">AI-tools</code> <code class="language-plaintext highlighter-rouge">Fintech</code></p>
+
+<hr />
+
+<h2 id="what-to-watch-next">What to Watch Next</h2>
+
+<ul>
+  <li>Whether AI-driven UPI apps adopt <strong>subscription or ad-based models</strong> to stay viable</li>
+  <li>If other <strong>emerging markets</strong> follow India’s lead in integrating AI into payment systems</li>
+  <li>How <strong>fraud detection</strong> evolves with real-time AI monitoring in high-volume transactions</li>
+</ul>]]></content><author><name></name></author><summary type="html"><![CDATA[2 min read · 1 story — AI in global payments]]></summary></entry><entry><title type="html">27 Jun 2026</title><link href="https://10minai.github.io/news/2026/06/27/daily.html" rel="alternate" type="text/html" title="27 Jun 2026" /><published>2026-06-27T00:00:00+00:00</published><updated>2026-06-27T00:00:00+00:00</updated><id>https://10minai.github.io/news/2026/06/27/daily</id><content type="html" xml:base="https://10minai.github.io/news/2026/06/27/daily.html"><![CDATA[<p><strong>3 min read · 2 stories</strong> — Mythos access expands</p>
+
+<h2 id="tldr">TL;DR</h2>
+
+<ul>
+  <li>Anthropic’s Mythos now cleared for 100+ US orgs</li>
+  <li>Non-US employees included in approved access</li>
+</ul>
+
+<hr />
+
+<h3 id="-trump-administration-allows-anthropic-to-release-mythos-to-select-us-organizations">🥇 Trump Administration Allows Anthropic to Release Mythos to Select US Organizations</h3>
+
+<p><strong><a href="https://www.wired.com/story/anthropic-restores-access-to-mythos/">Anthropic can now share its Mythos AI model with over 100 US companies and agencies</a></strong> — after weeks of White House negotiations.</p>
+
+<blockquote>
+  <p><em>Why it matters:</em> The move signals a shift toward controlled but broader access for advanced AI, even amid ongoing policy debates.</p>
+</blockquote>
+
+<p>🏷️ <code class="language-plaintext highlighter-rouge">Policy</code> <code class="language-plaintext highlighter-rouge">Models</code> <code class="language-plaintext highlighter-rouge">Anthropic</code> <code class="language-plaintext highlighter-rouge">US</code></p>
+
+<hr />
+
+<h3 id="trump-admin-releases-anthropic-mythos-to-be-used-by-more-than-100-us-companies-agencies">Trump Admin releases Anthropic Mythos to be used by more than 100 US companies, agencies</h3>
+
+<p><strong><a href="https://techcrunch.com/2026/06/26/trump-admin-releases-anthropic-mythos-to-be-used-by-more-than-100-us-companies-agencies/">Over 100 US organizations—including non-American employees—can now use Mythos 5</a></strong>.</p>
+
+<blockquote>
+  <p><em>Why it matters:</em> The inclusion of non-US staff suggests a pragmatic approach to global talent, despite geopolitical tensions.</p>
+</blockquote>
+
+<p>🏷️ <code class="language-plaintext highlighter-rouge">Policy</code> <code class="language-plaintext highlighter-rouge">Workforce</code> <code class="language-plaintext highlighter-rouge">Anthropic</code></p>
+
+<hr />
+
+<h2 id="what-to-watch-next">What to Watch Next</h2>
+
+<ul>
+  <li>Whether other AI labs seek similar approvals for restricted models</li>
+  <li>How Mythos performance in real-world use shapes future access rules</li>
+  <li>Potential pushback from lawmakers on non-US employee access</li>
+</ul>]]></content><author><name></name></author><summary type="html"><![CDATA[3 min read · 2 stories — Mythos access expands]]></summary></entry><entry><title type="html">26 Jun 2026</title><link href="https://10minai.github.io/news/2026/06/26/daily.html" rel="alternate" type="text/html" title="26 Jun 2026" /><published>2026-06-26T00:00:00+00:00</published><updated>2026-06-26T00:00:00+00:00</updated><id>https://10minai.github.io/news/2026/06/26/daily</id><content type="html" xml:base="https://10minai.github.io/news/2026/06/26/daily.html"><![CDATA[<p><strong>3 min read · 1 story</strong> — AI safety vs. control</p>
+
+<h2 id="tldr">TL;DR</h2>
+
+<ul>
+  <li>Anthropic says its growth is key to safe AI</li>
+</ul>
+
+<hr />
+
+<h3 id="-anthropic-thinks-its-own-success-is-key-to-making-ai-safe">🥇 Anthropic Thinks Its Own Success Is Key to Making AI Safe</h3>
+
+<p><strong><a href="https://www.wired.com/story/anthropic-thinks-ai-can-only-be-safe-under-its-control/">Anthropic argues its rapid expansion is necessary for responsible AI development</a></strong> — Critics counter that the company is amassing too much power under the guise of safety.</p>
+
+<blockquote>
+  <p><em>Why it matters:</em> The debate tests whether centralized control can coexist with open AI progress.</p>
+</blockquote>
+
+<p>🏷️ <code class="language-plaintext highlighter-rouge">Alignment</code> <code class="language-plaintext highlighter-rouge">Governance</code> <code class="language-plaintext highlighter-rouge">Anthropic</code> <code class="language-plaintext highlighter-rouge">Safety</code></p>
+
+<hr />
+
+<h2 id="what-to-watch-next">What to Watch Next</h2>
+
+<ul>
+  <li>How regulators respond to Anthropic’s “safety through scale” argument</li>
+  <li>Whether competitors adopt similar justifications for consolidation</li>
+  <li>Long-term impact on open-weight vs. proprietary AI ecosystems</li>
+</ul>]]></content><author><name></name></author><summary type="html"><![CDATA[3 min read · 1 story — AI safety vs. control]]></summary></entry><entry><title type="html">25 Jun 2026</title><link href="https://10minai.github.io/news/2026/06/25/daily.html" rel="alternate" type="text/html" title="25 Jun 2026" /><published>2026-06-25T00:00:00+00:00</published><updated>2026-06-25T00:00:00+00:00</updated><id>https://10minai.github.io/news/2026/06/25/daily</id><content type="html" xml:base="https://10minai.github.io/news/2026/06/25/daily.html"><![CDATA[<p><strong>2 min read · 1 story</strong> — Europe chips pushback</p>
+
+<h2 id="tldr">TL;DR</h2>
+
+<ul>
+  <li>Europe resists US chip restrictions on China</li>
+</ul>
+
+<hr />
+
+<h3 id="-europe-is-pushing-back-on-washingtons-chip-war">🥇 Europe is pushing back on Washington’s chip war</h3>
+
+<p><strong><a href="https://techcrunch.com/2026/06/24/europe-is-pushing-back-on-washingtons-chip-war/">Europe resists US pressure to tighten chip-tool exports to China</a></strong> — ASML’s CEO confirmed China can still buy decade-old deep-ultraviolet lithography machines, the same tech under US export bans.</p>
+
+<blockquote>
+  <p><em>Why it matters:</em> Transatlantic tech policy is splitting, giving China a loophole to keep building older but still capable AI chips.</p>
+</blockquote>
+
+<p>🏷️ <code class="language-plaintext highlighter-rouge">Semiconductors</code> <code class="language-plaintext highlighter-rouge">Geopolitics</code> <code class="language-plaintext highlighter-rouge">Export-controls</code> <code class="language-plaintext highlighter-rouge">China</code></p>
+
+<hr />
+
+<h2 id="what-to-watch-next">What to Watch Next</h2>
+
+<ul>
+  <li>Whether the US retaliates with secondary sanctions on European firms supplying China</li>
+  <li>If China accelerates its own lithography tool production to bypass Western restrictions</li>
+  <li>How this affects global AI hardware supply chains in the next 12 months</li>
+</ul>]]></content><author><name></name></author><summary type="html"><![CDATA[2 min read · 1 story — Europe chips pushback]]></summary></entry><entry><title type="html">24 Jun 2026</title><link href="https://10minai.github.io/news/2026/06/24/daily.html" rel="alternate" type="text/html" title="24 Jun 2026" /><published>2026-06-24T00:00:00+00:00</published><updated>2026-06-24T00:00:00+00:00</updated><id>https://10minai.github.io/news/2026/06/24/daily</id><content type="html" xml:base="https://10minai.github.io/news/2026/06/24/daily.html"><![CDATA[<p><strong>2 min read · 1 story</strong> — AI at scale</p>
+
+<h2 id="tldr">TL;DR</h2>
+
+<ul>
+  <li>NVIDIA and AWS team up to simplify AI production at scale</li>
+</ul>
+
+<hr />
+
+<h3 id="-nvidia-and-aws-collaborate-to-bring-ai-to-production-at-scale">🥇 NVIDIA and AWS Collaborate to Bring AI to Production at Scale</h3>
+
+<p><strong><a href="https://blogs.nvidia.com/blog/nvidia-aws-ai-production-scale/">NVIDIA and AWS are partnering to streamline large-scale AI deployment</a></strong> — focusing on low-latency inference, cost-efficient GPU performance, and infrastructure that scales without added complexity.</p>
+
+<blockquote>
+  <p><em>Why it matters:</em> This could lower the operational hurdles for enterprises running AI workloads in the cloud.</p>
+</blockquote>
+
+<p>🏷️ <code class="language-plaintext highlighter-rouge">Infrastructure</code> <code class="language-plaintext highlighter-rouge">Cloud</code> <code class="language-plaintext highlighter-rouge">GPUs</code> <code class="language-plaintext highlighter-rouge">Enterprise</code></p>]]></content><author><name></name></author><summary type="html"><![CDATA[2 min read · 1 story — AI at scale]]></summary></entry><entry><title type="html">23 Jun 2026</title><link href="https://10minai.github.io/news/2026/06/23/daily.html" rel="alternate" type="text/html" title="23 Jun 2026" /><published>2026-06-23T00:00:00+00:00</published><updated>2026-06-23T00:00:00+00:00</updated><id>https://10minai.github.io/news/2026/06/23/daily</id><content type="html" xml:base="https://10minai.github.io/news/2026/06/23/daily.html"><![CDATA[<p><strong>3 min read · 2 stories</strong> — Open-source security · AI-driven layoffs</p>
+
+<h2 id="tldr">TL;DR</h2>
+
+<ul>
+  <li>OpenAI rolls out bug-finding initiative for open-source software</li>
+  <li>Tech layoffs in 2026 increasingly cite AI as a factor</li>
+</ul>
+
+<hr />
+
+<h3 id="-openai-launches-new-initiative-to-help-find-and-patch-open-source-bugs">🥇 OpenAI launches new initiative to help find and patch open-source bugs</h3>
+
+<p><strong><a href="https://techcrunch.com/2026/06/22/openai-launches-new-initiative-to-help-find-and-patch-open-source-bugs/">OpenAI is tackling open-source security risks with a new bug-finding and patching program</a></strong> — the effort targets vulnerabilities in widely used open-source projects.</p>
+
+<blockquote>
+  <p><em>Why it matters:</em> Open-source software underpins most of the internet; fixing its flaws could prevent cascading breaches.</p>
+</blockquote>
+
+<p>🏷️ <code class="language-plaintext highlighter-rouge">Security</code> <code class="language-plaintext highlighter-rouge">Open-source</code> <code class="language-plaintext highlighter-rouge">OpenAI</code> <code class="language-plaintext highlighter-rouge">Bug-bounty</code></p>
+
+<hr />
+
+<h3 id="the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai">The running list: major tech layoffs in 2026 where employers cited AI</h3>
+
+<p><strong><a href="https://techcrunch.com/2026/06/22/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/">TechCrunch’s tracker logs 2026 layoffs where companies explicitly blame AI efficiency gains</a></strong> — updated in reverse chronological order.</p>
+
+<blockquote>
+  <p><em>Why it matters:</em> The narrative is shifting from “AI creates jobs” to “AI replaces roles” at scale.</p>
+</blockquote>
+
+<p>🏷️ <code class="language-plaintext highlighter-rouge">Labor</code> <code class="language-plaintext highlighter-rouge">Tech-industry</code> <code class="language-plaintext highlighter-rouge">Economics</code></p>
+
+<hr />
+
+<h2 id="what-to-watch-next">What to Watch Next</h2>
+
+<ul>
+  <li>How OpenAI’s security initiative compares to existing bug-bounty programs like GitHub’s.</li>
+  <li>Whether layoff trends accelerate as AI tools mature in traditionally creative sectors.</li>
+  <li>If open-source maintainers adopt OpenAI’s patches or push back on external fixes.</li>
+</ul>]]></content><author><name></name></author><summary type="html"><![CDATA[3 min read · 2 stories — Open-source security · AI-driven layoffs]]></summary></entry></feed>
