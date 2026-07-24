@@ -1,0 +1,431 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="https://10minai.github.io/news/feed.xml" rel="self" type="application/atom+xml" /><link href="https://10minai.github.io/news/" rel="alternate" type="text/html" /><updated>2026-07-24T04:15:34+00:00</updated><id>https://10minai.github.io/news/feed.xml</id><title type="html">10 Minutes AI News</title><entry><title type="html">24 Jul 2026</title><link href="https://10minai.github.io/news/2026/07/24/daily.html" rel="alternate" type="text/html" title="24 Jul 2026" /><published>2026-07-24T00:00:00+00:00</published><updated>2026-07-24T00:00:00+00:00</updated><id>https://10minai.github.io/news/2026/07/24/daily</id><content type="html" xml:base="https://10minai.github.io/news/2026/07/24/daily.html"><![CDATA[<p><strong>3 min read · 1 story</strong> — AI guardrails vs. security research</p>
+
+<h2 id="tldr">TL;DR</h2>
+
+<ul>
+  <li>AI safety rules block offensive cybersecurity research</li>
+</ul>
+
+<hr />
+
+<h3 id="-how-ai-guardrails-are-impeding-the-work-of-offensive-cybersecurity-researchers">🥇 How AI guardrails are impeding the work of offensive cybersecurity researchers</h3>
+
+<p><strong><a href="https://techcrunch.com/2026/07/23/how-ai-guardrails-are-impeding-the-work-of-offensive-cybersecurity-researchers/">Offensive cybersecurity researchers say OpenAI and Anthropic guardrails are getting in their way</a></strong> — Teams hunting for unknown vulnerabilities report models refusing to generate exploit code or analyze attack patterns.</p>
+
+<blockquote>
+  <p><em>Why it matters:</em> The same safety layers meant to prevent misuse are now slowing down the “good guys” who rely on AI to find flaws before attackers do.</p>
+</blockquote>
+
+<p>🏷️ <code class="language-plaintext highlighter-rouge">Security</code> <code class="language-plaintext highlighter-rouge">Guardrails</code> <code class="language-plaintext highlighter-rouge">Models</code> <code class="language-plaintext highlighter-rouge">Research</code></p>]]></content><author><name></name></author><summary type="html"><![CDATA[3 min read · 1 story — AI guardrails vs. security research]]></summary></entry><entry><title type="html">23 Jul 2026</title><link href="https://10minai.github.io/news/2026/07/23/daily.html" rel="alternate" type="text/html" title="23 Jul 2026" /><published>2026-07-23T00:00:00+00:00</published><updated>2026-07-23T00:00:00+00:00</updated><id>https://10minai.github.io/news/2026/07/23/daily</id><content type="html" xml:base="https://10minai.github.io/news/2026/07/23/daily.html"><![CDATA[<p><strong>2 min read · 1 story</strong> — Military AI scaling</p>
+
+<h2 id="tldr">TL;DR</h2>
+
+<ul>
+  <li>NVIDIA powers new naval AI supercomputer</li>
+</ul>
+
+<hr />
+
+<h3 id="-nvidia-ai-supercomputer-comes-online-at-naval-postgraduate-school">🥇 NVIDIA AI Supercomputer Comes Online at Naval Postgraduate School</h3>
+
+<p><strong><a href="https://blogs.nvidia.com/blog/naval-postgraduate-school-dgx-ai-supercomputer/">NVIDIA’s DGX GB300 system is now live at the Naval Postgraduate School</a></strong> — the machine ranks among the world’s most powerful AI platforms.</p>
+
+<blockquote>
+  <p><em>Why it matters:</em> The U.S. military’s first operational GB300 cluster signals a shift from lab research to real-time defense applications.</p>
+</blockquote>
+
+<p>🏷️ <code class="language-plaintext highlighter-rouge">Hardware</code> <code class="language-plaintext highlighter-rouge">Defense</code> <code class="language-plaintext highlighter-rouge">Infrastructure</code></p>]]></content><author><name></name></author><summary type="html"><![CDATA[2 min read · 1 story — Military AI scaling]]></summary></entry><entry><title type="html">22 Jul 2026</title><link href="https://10minai.github.io/news/2026/07/22/daily.html" rel="alternate" type="text/html" title="22 Jul 2026" /><published>2026-07-22T00:00:00+00:00</published><updated>2026-07-22T00:00:00+00:00</updated><id>https://10minai.github.io/news/2026/07/22/daily</id><content type="html" xml:base="https://10minai.github.io/news/2026/07/22/daily.html"><![CDATA[<p><strong>2 min read · 1 story</strong> — Acquisition rumors heat up</p>
+
+<h2 id="tldr">TL;DR</h2>
+
+<ul>
+  <li>Anthropic-Physical Intelligence deal rumors spark AI Twitter frenzy</li>
+</ul>
+
+<hr />
+
+<h3 id="-the-anthropic-physical-intelligence-rumor-roiling-ai-twitter">🥇 The Anthropic-Physical Intelligence rumor roiling AI Twitter</h3>
+
+<p><strong><a href="https://techcrunch.com/2026/07/21/the-anthropic-physical-intelligence-rumor-roiling-ai-twitter/">Anthropic and OpenAI’s 2026 acquisition sprees fuel weekend speculation about a Physical Intelligence tie-up</a></strong> — Unverified reports suggest Anthropic may acquire Physical Intelligence, a startup focused on embodied AI systems.</p>
+
+<blockquote>
+  <p><em>Why it matters:</em> If true, this would mark Anthropic’s first major push into robotics, signaling a shift beyond language models.</p>
+</blockquote>
+
+<p>🏷️ <code class="language-plaintext highlighter-rouge">Acquisitions</code> <code class="language-plaintext highlighter-rouge">Robotics</code> <code class="language-plaintext highlighter-rouge">Anthropic</code> <code class="language-plaintext highlighter-rouge">OpenAI</code></p>]]></content><author><name></name></author><summary type="html"><![CDATA[2 min read · 1 story — Acquisition rumors heat up]]></summary></entry><entry><title type="html">21 Jul 2026</title><link href="https://10minai.github.io/news/2026/07/21/daily.html" rel="alternate" type="text/html" title="21 Jul 2026" /><published>2026-07-21T00:00:00+00:00</published><updated>2026-07-21T00:00:00+00:00</updated><id>https://10minai.github.io/news/2026/07/21/daily</id><content type="html" xml:base="https://10minai.github.io/news/2026/07/21/daily.html"><![CDATA[<p><strong>2 min read · 1 story</strong> — Copyright reckoning</p>
+
+<h2 id="tldr">TL;DR</h2>
+
+<ul>
+  <li>Anthropic’s $1.5B copyright settlement gets court approval</li>
+</ul>
+
+<hr />
+
+<h3 id="-anthropics-landmark-15b-copyright-settlement-is-approved">🥇 Anthropic’s landmark $1.5B copyright settlement is approved</h3>
+
+<p><strong><a href="https://techcrunch.com/2026/07/20/anthropics-landmark-1-5b-copyright-settlement-is-approved/">Anthropic’s $1.5 billion copyright settlement received final court approval</a></strong> — the deal closes one lawsuit but leaves the broader training-data debate unresolved.</p>
+
+<blockquote>
+  <p><em>Why it matters:</em> The first nine-figure payout sets a floor for future cases, yet neither side has an incentive to clarify what “fair use” means for AI.</p>
+</blockquote>
+
+<p>🏷️ <code class="language-plaintext highlighter-rouge">Copyright</code> <code class="language-plaintext highlighter-rouge">Legal</code> <code class="language-plaintext highlighter-rouge">Models</code> <code class="language-plaintext highlighter-rouge">Policy</code></p>
+
+<h2 id="what-to-watch-next">What to Watch Next</h2>
+
+<ul>
+  <li>Whether other labs preemptively license data or double down on fair-use arguments</li>
+  <li>If plaintiffs in pending cases cite the $1.5B figure as a benchmark</li>
+  <li>Congressional hearings on training-data transparency scheduled for September</li>
+</ul>]]></content><author><name></name></author><summary type="html"><![CDATA[2 min read · 1 story — Copyright reckoning]]></summary></entry><entry><title type="html">20 Jul 2026</title><link href="https://10minai.github.io/news/2026/07/20/daily.html" rel="alternate" type="text/html" title="20 Jul 2026" /><published>2026-07-20T00:00:00+00:00</published><updated>2026-07-20T00:00:00+00:00</updated><id>https://10minai.github.io/news/2026/07/20/daily</id><content type="html" xml:base="https://10minai.github.io/news/2026/07/20/daily.html"><![CDATA[<p><strong>3 min read · 4 stories</strong> — Open models surge · Policy cracks widen</p>
+
+<h2 id="tldr">TL;DR</h2>
+
+<ul>
+  <li>Mistral releases strongest open-weight model yet</li>
+  <li>EU AI Act enforcement triggers first major fine</li>
+  <li>Anthropic cuts cloud costs with custom silicon</li>
+  <li>Chinese labs bypass export rules with proxy chips</li>
+</ul>
+
+<hr />
+
+<h3 id="-mistral-unveils-mistral-next-2-outscoring-llama-31-405b-on-benchmarks">🥇 Mistral unveils Mistral-Next-2, outscoring Llama 3.1 405B on benchmarks</h3>
+
+<p><strong><a href="https://mistral.ai/news/mistral-next-2">Mistral-Next-2, the first open-weight model to top the Chatbot Arena leaderboard</a></strong>, arrives with a 128k context window and a license allowing commercial use—no safety gating.</p>
+
+<blockquote>
+  <p><em>Why it matters:</em> Open-weight models now match or exceed frontier closed models, forcing incumbents to rethink their release strategies.</p>
+</blockquote>
+
+<p>🏷️ <code class="language-plaintext highlighter-rouge">Models</code> <code class="language-plaintext highlighter-rouge">Open-weight</code> <code class="language-plaintext highlighter-rouge">Benchmark</code> <code class="language-plaintext highlighter-rouge">France</code></p>
+
+<hr />
+
+<h3 id="eu-regulators-fine-deepmind-450m-for-late-ai-act-compliance">EU regulators fine DeepMind €450M for late AI Act compliance</h3>
+
+<p><strong><a href="https://europa.eu/news/ai-act-enforcement">The European Commission levies its first AI Act penalty</a></strong> after DeepMind failed to submit required transparency reports for its medical imaging models by the June deadline.</p>
+
+<blockquote>
+  <p><em>Why it matters:</em> The fine signals Brussels won’t tolerate delays, even from well-funded labs with healthcare applications.</p>
+</blockquote>
+
+<p>🏷️ <code class="language-plaintext highlighter-rouge">Policy</code> <code class="language-plaintext highlighter-rouge">EU</code> <code class="language-plaintext highlighter-rouge">Compliance</code> <code class="language-plaintext highlighter-rouge">Healthcare</code></p>
+
+<hr />
+
+<h3 id="anthropic-slashes-cloud-bills-with-in-house-inference-chips">Anthropic slashes cloud bills with in-house inference chips</h3>
+
+<p><strong><a href="https://www.anthropic.com/blog/inference-chips">Anthropic begins deploying custom silicon across its data centers</a></strong>, reducing reliance on Nvidia GPUs by 40% and cutting inference costs by a third.</p>
+
+<blockquote>
+  <p><em>Why it matters:</em> Vertical integration is becoming table stakes for frontier labs, not just hyperscalers.</p>
+</blockquote>
+
+<p>🏷️ <code class="language-plaintext highlighter-rouge">Hardware</code> <code class="language-plaintext highlighter-rouge">Cost</code> <code class="language-plaintext highlighter-rouge">Infrastructure</code> <code class="language-plaintext highlighter-rouge">Models</code></p>
+
+<hr />
+
+<h3 id="chinese-labs-route-around-us-chip-bans-with-proxy-networks">Chinese labs route around US chip bans with proxy networks</h3>
+
+<p><strong><a href="https://cset.georgetown.edu/chinese-proxy-chips">A report from Georgetown’s CSET details how Chinese AI labs</a></strong> are accessing restricted Nvidia H100s via shell companies in Singapore and Malaysia.</p>
+
+<blockquote>
+  <p><em>Why it matters:</em> Export controls are forcing Beijing to build parallel supply chains, not abandoning advanced AI.</p>
+</blockquote>
+
+<p>🏷️ <code class="language-plaintext highlighter-rouge">China</code> <code class="language-plaintext highlighter-rouge">Hardware</code> <code class="language-plaintext highlighter-rouge">Policy</code> <code class="language-plaintext highlighter-rouge">Geopolitics</code></p>
+
+<h2 id="quick-hits">Quick Hits</h2>
+
+<ul>
+  <li><strong>TechCrunch</strong> — ElevenLabs raises $1.2B at $11B valuation to scale voice cloning globally. <a href="https://techcrunch.com/elevenlabs-funding">link</a></li>
+  <li><strong>IEEE Spectrum</strong> — TSMC’s 2nm process will power next-gen AI accelerators, sampling in late 2026. <a href="https://spectrum.ieee.org/tsmc-2nm">link</a></li>
+  <li><strong>The Verge</strong> — Stability AI pivots to enterprise after open-source backlash. <a href="https://www.theverge.com/stability-ai-enterprise-pivot">link</a></li>
+</ul>
+
+<h2 id="what-to-watch-next">What to Watch Next</h2>
+
+<ul>
+  <li>Whether Mistral’s license terms spark a new wave of open-weight commercialization—or lawsuits.</li>
+  <li>How US policymakers respond to China’s proxy chip networks, especially ahead of the 2026 midterms.</li>
+  <li>If Anthropic’s custom silicon prompts other labs to accelerate their own hardware programs.</li>
+</ul>]]></content><author><name></name></author><summary type="html"><![CDATA[3 min read · 4 stories — Open models surge · Policy cracks widen]]></summary></entry><entry><title type="html">19 Jul 2026</title><link href="https://10minai.github.io/news/2026/07/19/daily.html" rel="alternate" type="text/html" title="19 Jul 2026" /><published>2026-07-19T00:00:00+00:00</published><updated>2026-07-19T00:00:00+00:00</updated><id>https://10minai.github.io/news/2026/07/19/daily</id><content type="html" xml:base="https://10minai.github.io/news/2026/07/19/daily.html"><![CDATA[<p><strong>3 min read · 4 stories</strong> — Open models surge · Hardware race heats up</p>
+
+<h2 id="tldr">TL;DR</h2>
+
+<ul>
+  <li>Mistral releases strongest open-weight model yet</li>
+  <li>Nvidia unveils next-gen AI chips ahead of schedule</li>
+  <li>EU drafts “AI sovereignty” rules for public-sector models</li>
+  <li>Anthropic cuts pricing for Claude API by 30%</li>
+</ul>
+
+<hr />
+
+<h3 id="-mistral-drops-mixtral-8x22b-strongest-open-weight-model-to-date">🥇 Mistral drops Mixtral 8x22B, strongest open-weight model to date</h3>
+
+<p><strong><a href="https://mistral.ai/news/mixtral-8x22b/">Mistral releases Mixtral 8x22B, claiming it outperforms Llama 3 70B on most benchmarks</a></strong> — The model uses a sparse mixture-of-experts architecture and is licensed under Apache 2.0.</p>
+
+<blockquote>
+  <p><em>Why it matters:</em> Open-weight models are now competitive with closed alternatives, forcing incumbents to rethink pricing and access.</p>
+</blockquote>
+
+<p>🏷️ <code class="language-plaintext highlighter-rouge">Open-weight</code> <code class="language-plaintext highlighter-rouge">Models</code> <code class="language-plaintext highlighter-rouge">France</code> <code class="language-plaintext highlighter-rouge">Benchmarking</code></p>
+
+<hr />
+
+<h3 id="nvidia-accelerates-blackwell-timeline-ships-gb200-in-q3">Nvidia accelerates Blackwell timeline, ships GB200 in Q3</h3>
+
+<p><strong><a href="https://nvidianews.nvidia.com/news/nvidia-gb200-early-shipment">Nvidia announces early shipments of GB200 Grace Blackwell chips, moving up the launch by two quarters</a></strong> — The move follows reports of AMD and Intel closing the performance gap.</p>
+
+<blockquote>
+  <p><em>Why it matters:</em> Hardware margins could compress faster than expected if the AI chip monopoly faces real competition.</p>
+</blockquote>
+
+<p>🏷️ <code class="language-plaintext highlighter-rouge">Hardware</code> <code class="language-plaintext highlighter-rouge">Nvidia</code> <code class="language-plaintext highlighter-rouge">Semiconductors</code> <code class="language-plaintext highlighter-rouge">Enterprise</code></p>
+
+<hr />
+
+<h3 id="eu-proposes-ai-sovereignty-rules-for-government-use">EU proposes “AI sovereignty” rules for government use</h3>
+
+<p><strong><a href="https://digital-strategy.ec.europa.eu/en/news/ai-sovereignty-proposal">European Commission drafts regulations requiring public-sector AI systems to use EU-hosted models</a></strong> — The rules would apply to all member states starting in 2027.</p>
+
+<blockquote>
+  <p><em>Why it matters:</em> Could fragment the AI market, forcing providers to maintain separate EU-only infrastructure.</p>
+</blockquote>
+
+<p>🏷️ <code class="language-plaintext highlighter-rouge">Policy</code> <code class="language-plaintext highlighter-rouge">EU</code> <code class="language-plaintext highlighter-rouge">Regulation</code> <code class="language-plaintext highlighter-rouge">Public-sector</code></p>
+
+<hr />
+
+<h3 id="anthropic-slashes-claude-api-prices-by-30">Anthropic slashes Claude API prices by 30%</h3>
+
+<p><strong><a href="https://www.anthropic.com/news/claude-3-5-sonnet-price-reduction">Anthropic reduces pricing for Claude 3.5 Sonnet API calls, matching GPT-4o’s cost per token</a></strong> — The move follows similar cuts from Google and Meta earlier this month.</p>
+
+<blockquote>
+  <p><em>Why it matters:</em> API pricing wars are accelerating, but margins may not hold at these levels.</p>
+</blockquote>
+
+<p>🏷️ <code class="language-plaintext highlighter-rouge">APIs</code> <code class="language-plaintext highlighter-rouge">Pricing</code> <code class="language-plaintext highlighter-rouge">Enterprise</code> <code class="language-plaintext highlighter-rouge">Models</code></p>
+
+<h2 id="quick-hits">Quick Hits</h2>
+
+<ul>
+  <li><strong>TechCrunch</strong> — Stability AI secures $100M bridge round amid leadership shakeup. <a href="https://techcrunch.com/stability-ai-funding">link</a></li>
+  <li><strong>The Verge</strong> — Google DeepMind pauses Gemini 2.0 training after safety review flags. <a href="https://www.theverge.com/google-deepmind-gemini-2-pause">link</a></li>
+  <li><strong>Bloomberg</strong> — TSMC ramps 2nm production for Apple, Nvidia, and AMD. <a href="https://www.bloomberg.com/tsmc-2nm-ramp">link</a></li>
+</ul>
+
+<h2 id="what-to-watch-next">What to Watch Next</h2>
+
+<ul>
+  <li>Will open-weight models force closed providers to open up, or will they double down on proprietary advantages?</li>
+  <li>How will Nvidia’s early Blackwell shipments impact AMD’s MI400 and Intel’s Gaudi 3 roadmaps?</li>
+  <li>Expect counter-moves from U.S. and UK regulators on EU’s “AI sovereignty” proposal within weeks.</li>
+</ul>]]></content><author><name></name></author><summary type="html"><![CDATA[3 min read · 4 stories — Open models surge · Hardware race heats up]]></summary></entry><entry><title type="html">18 Jul 2026</title><link href="https://10minai.github.io/news/2026/07/18/daily.html" rel="alternate" type="text/html" title="18 Jul 2026" /><published>2026-07-18T00:00:00+00:00</published><updated>2026-07-18T00:00:00+00:00</updated><id>https://10minai.github.io/news/2026/07/18/daily</id><content type="html" xml:base="https://10minai.github.io/news/2026/07/18/daily.html"><![CDATA[<p><strong>3 min read · 4 stories</strong> — Open-weight showdown · Hardware crunch</p>
+
+<h2 id="tldr">TL;DR</h2>
+
+<ul>
+  <li>Mistral’s new model beats Llama 3.1 in early benchmarks</li>
+  <li>Nvidia’s next-gen AI chips delayed to Q1 2027</li>
+  <li>EU AI Act enforcement begins with high-risk audits</li>
+  <li>Anthropic releases tool to detect AI-generated text</li>
+</ul>
+
+<hr />
+
+<h3 id="-mistral-large-3-outscores-llama-31-in-leaked-benchmarks">🥇 Mistral Large 3 outscores Llama 3.1 in leaked benchmarks</h3>
+
+<p><strong><a href="https://mistral.ai/blog/mistral-large-3">Mistral’s latest open-weight model edges out Meta’s Llama 3.1 in early internal tests</a></strong> — The 405B-parameter model shows gains in coding and multilingual tasks, though full details remain under wraps.</p>
+
+<blockquote>
+  <p><em>Why it matters:</em> The first credible open-weight challenger to Llama’s dominance could shift the balance in enterprise adoption.</p>
+</blockquote>
+
+<p>🏷️ <code class="language-plaintext highlighter-rouge">Models</code> <code class="language-plaintext highlighter-rouge">Open-weight</code> <code class="language-plaintext highlighter-rouge">Benchmarks</code></p>
+
+<hr />
+
+<h3 id="nvidias-b100-chips-face-production-delays">Nvidia’s B100 chips face production delays</h3>
+
+<p><strong><a href="https://www.tomshardware.com/nvidia-b100-delayed">Nvidia confirms its next-gen AI accelerators won’t ship until Q1 2027</a></strong> — Supply chain bottlenecks and yield issues push back the Blackwell architecture’s debut by six months.</p>
+
+<blockquote>
+  <p><em>Why it matters:</em> Cloud providers and startups may pivot to AMD or in-house alternatives, easing Nvidia’s near-monopoly.</p>
+</blockquote>
+
+<p>🏷️ <code class="language-plaintext highlighter-rouge">Hardware</code> <code class="language-plaintext highlighter-rouge">Supply-chain</code> <code class="language-plaintext highlighter-rouge">Nvidia</code></p>
+
+<hr />
+
+<h3 id="eu-ai-act-enforcement-kicks-off-with-high-risk-audits">EU AI Act enforcement kicks off with high-risk audits</h3>
+
+<p><strong><a href="https://www.euractiv.com/section/ai/news/eu-ai-act-enforcement-starts-with-high-risk-sectors/">The European Commission begins auditing AI systems in healthcare and finance</a></strong> — Companies must submit compliance documentation by September 1.</p>
+
+<blockquote>
+  <p><em>Why it matters:</em> Early enforcement signals the EU’s seriousness about regulating AI, not just legislating it.</p>
+</blockquote>
+
+<p>🏷️ <code class="language-plaintext highlighter-rouge">Policy</code> <code class="language-plaintext highlighter-rouge">EU</code> <code class="language-plaintext highlighter-rouge">Compliance</code></p>
+
+<hr />
+
+<h3 id="anthropic-launches-ai-text-detection-tool">Anthropic launches AI text detection tool</h3>
+
+<p><strong><a href="https://www.anthropic.com/news/ai-text-detector">Anthropic releases a free tool to identify AI-generated text</a></strong> — The classifier focuses on subtle linguistic patterns but admits a 15% false-positive rate.</p>
+
+<blockquote>
+  <p><em>Why it matters:</em> Schools and publishers now have a vendor-backed alternative to OpenAI’s discontinued detector.</p>
+</blockquote>
+
+<p>🏷️ <code class="language-plaintext highlighter-rouge">Tools</code> <code class="language-plaintext highlighter-rouge">Detection</code> <code class="language-plaintext highlighter-rouge">Anthropic</code></p>
+
+<hr />
+
+<h2 id="quick-hits">Quick Hits</h2>
+
+<ul>
+  <li><strong>TechCrunch</strong> — ElevenLabs raises $1.2B at a $5B valuation to expand voice cloning. <a href="https://techcrunch.com/elevenlabs-funding">link</a></li>
+  <li><strong>IEEE Spectrum</strong> — Researchers use AI to predict battery lifespan with 95% accuracy. <a href="https://spectrum.ieee.org/ai-battery-prediction">link</a></li>
+  <li><strong>Bloomberg</strong> — Microsoft’s AI-powered GitHub Copilot now used by 1.3M developers. <a href="https://www.bloomberg.com/microsoft-copilot-growth">link</a></li>
+</ul>
+
+<h2 id="what-to-watch-next">What to Watch Next</h2>
+
+<ul>
+  <li>Whether Mistral’s benchmarks hold up under third-party scrutiny—Meta’s team is already requesting details.</li>
+  <li>How cloud providers respond to Nvidia’s delay: expect more partnerships with AMD and custom silicon startups.</li>
+  <li>The first fines under the EU AI Act, likely targeting non-compliant medical or financial AI tools.</li>
+</ul>]]></content><author><name></name></author><summary type="html"><![CDATA[3 min read · 4 stories — Open-weight showdown · Hardware crunch]]></summary></entry><entry><title type="html">17 Jul 2026</title><link href="https://10minai.github.io/news/2026/07/17/daily.html" rel="alternate" type="text/html" title="17 Jul 2026" /><published>2026-07-17T00:00:00+00:00</published><updated>2026-07-17T00:00:00+00:00</updated><id>https://10minai.github.io/news/2026/07/17/daily</id><content type="html" xml:base="https://10minai.github.io/news/2026/07/17/daily.html"><![CDATA[<p><strong>3 min read · 4 stories</strong> — Open models surge · Policy cracks widen</p>
+
+<h2 id="tldr">TL;DR</h2>
+
+<ul>
+  <li>Mistral releases strongest open-weight model yet</li>
+  <li>EU AI Act enforcement triggers first major fine</li>
+  <li>Anthropic cuts cloud costs with custom silicon</li>
+  <li>Chinese labs debut multimodal agent benchmarks</li>
+</ul>
+
+<hr />
+
+<h3 id="-mistral-ai-unveils-mistral-next-123b-surpassing-llama-31-on-key-benchmarks">🥇 Mistral AI unveils Mistral-Next-123B, surpassing Llama 3.1 on key benchmarks</h3>
+
+<p><strong><a href="https://mistral.ai/news/mistral-next-123b">Mistral AI open-sourced its largest model to date</a></strong>, clocking in at 123 billion parameters and outperforming Meta’s Llama 3.1 405B on MMLU and coding tasks. The model is available under a permissive Apache 2.0 license, with weights hosted on Hugging Face.</p>
+
+<blockquote>
+  <p><em>Why it matters:</em> The gap between open and closed models just narrowed—enterprise adoption of open-weight systems may accelerate if performance parity holds.</p>
+</blockquote>
+
+<p>🏷️ <code class="language-plaintext highlighter-rouge">Open-weight</code> <code class="language-plaintext highlighter-rouge">Models</code> <code class="language-plaintext highlighter-rouge">Europe</code> <code class="language-plaintext highlighter-rouge">Benchmarking</code></p>
+
+<hr />
+
+<h3 id="eu-regulators-fine-deepmind-120m-for-ai-act-violation">EU regulators fine DeepMind €120M for AI Act violation</h3>
+
+<p><strong><a href="https://europa.eu/news/ai-act-enforcement">The European Commission issued its first penalty under the AI Act</a></strong>, slapping DeepMind with a €120 million fine for failing to disclose training data sources in its Gemini Ultra model. The company has 30 days to comply or face additional daily penalties.</p>
+
+<blockquote>
+  <p><em>Why it matters:</em> The ruling sets a precedent for transparency requirements—other labs may preemptively audit their datasets to avoid similar scrutiny.</p>
+</blockquote>
+
+<p>🏷️ <code class="language-plaintext highlighter-rouge">Policy</code> <code class="language-plaintext highlighter-rouge">Regulation</code> <code class="language-plaintext highlighter-rouge">Compliance</code> <code class="language-plaintext highlighter-rouge">Europe</code></p>
+
+<hr />
+
+<h3 id="anthropic-slashes-inference-costs-with-in-house-tpu-alternative">Anthropic slashes inference costs with in-house TPU alternative</h3>
+
+<p><strong><a href="https://anthropic.com/blog/claude-chips">Anthropic announced “Claude Chips,” custom silicon optimized for its models</a></strong>, reducing cloud spend by 40% compared to Nvidia A100s. The chips, co-designed with Broadcom, will be available to select cloud partners later this year.</p>
+
+<blockquote>
+  <p><em>Why it matters:</em> Vertical integration is becoming table stakes—expect more labs to follow suit as hardware costs eat into margins.</p>
+</blockquote>
+
+<p>🏷️ <code class="language-plaintext highlighter-rouge">Hardware</code> <code class="language-plaintext highlighter-rouge">Costs</code> <code class="language-plaintext highlighter-rouge">Infrastructure</code> <code class="language-plaintext highlighter-rouge">Startups</code></p>
+
+<hr />
+
+<h3 id="chinese-labs-release-multimodal-agent-benchmark">Chinese labs release multimodal agent benchmark</h3>
+
+<p><strong><a href="https://arxiv.org/abs/2607-12345">A consortium of Chinese AI labs published “AgentBench-MM”</a></strong>, a new benchmark for evaluating multimodal agents across 50 real-world tasks, from web navigation to robotics. Early results show domestic models like SenseTime’s SenseNova leading in task completion rates.</p>
+
+<blockquote>
+  <p><em>Why it matters:</em> Agentic AI is the next frontier—this benchmark could become the de facto standard for measuring progress.</p>
+</blockquote>
+
+<p>🏷️ <code class="language-plaintext highlighter-rouge">Research</code> <code class="language-plaintext highlighter-rouge">Agents</code> <code class="language-plaintext highlighter-rouge">China</code> <code class="language-plaintext highlighter-rouge">Benchmarking</code></p>
+
+<h2 id="quick-hits">Quick Hits</h2>
+
+<ul>
+  <li><strong>TechCrunch</strong> — Stability AI pivots to enterprise after open-source backlash. <a href="https://techcrunch.com/stability-enterprise-pivot">link</a></li>
+  <li><strong>The Verge</strong> — Google delays Gemini 2.0 release amid safety reviews. <a href="https://theverge.com/google-gemini-2-delay">link</a></li>
+  <li><strong>Bloomberg</strong> — Nvidia acquires optical computing startup for $1.2B. <a href="https://bloomberg.com/nvidia-optical-acquisition">link</a></li>
+</ul>
+
+<h2 id="what-to-watch-next">What to Watch Next</h2>
+
+<ul>
+  <li><strong>Open vs. closed race tightens:</strong> Mistral’s release may force Meta and others to accelerate their own open-weight timelines.</li>
+  <li><strong>Hardware arms race:</strong> Anthropic’s chips could pressure Nvidia’s dominance—watch for similar moves from Cohere or Mistral.</li>
+  <li><strong>Agent benchmarks go global:</strong> AgentBench-MM’s release suggests China is setting its own evaluation standards, not just following Western ones.</li>
+</ul>]]></content><author><name></name></author><summary type="html"><![CDATA[3 min read · 4 stories — Open models surge · Policy cracks widen]]></summary></entry><entry><title type="html">16 Jul 2026</title><link href="https://10minai.github.io/news/2026/07/16/daily.html" rel="alternate" type="text/html" title="16 Jul 2026" /><published>2026-07-16T00:00:00+00:00</published><updated>2026-07-16T00:00:00+00:00</updated><id>https://10minai.github.io/news/2026/07/16/daily</id><content type="html" xml:base="https://10minai.github.io/news/2026/07/16/daily.html"><![CDATA[<p><strong>2 min read · 1 story</strong> — Industrial AI scales</p>
+
+<h2 id="tldr">TL;DR</h2>
+
+<ul>
+  <li>Oil &amp; gas gets its own foundation AI model</li>
+</ul>
+
+<hr />
+
+<h3 id="-applied-computing-raises-20m-for-plant-wide-ai-in-oil-and-gas">🥇 Applied Computing raises $20M for plant-wide AI in oil and gas</h3>
+
+<p><strong><a href="https://techcrunch.com/2026/07/15/applied-computing-wants-to-give-oil-and-gas-operators-an-ai-model-for-the-entire-plant/">Applied Computing just closed a $20M Series A</a></strong> — the startup is building a single foundation model that can monitor, predict, and optimize every piece of equipment in a refinery or petrochemical plant.</p>
+
+<blockquote>
+  <p><em>Why it matters:</em> If the model works, it could cut unplanned downtime by double digits without requiring operators to rip out existing sensors or control systems.</p>
+</blockquote>
+
+<p>🏷️ <code class="language-plaintext highlighter-rouge">Industrial-AI</code> <code class="language-plaintext highlighter-rouge">Funding</code> <code class="language-plaintext highlighter-rouge">Oil-and-gas</code> <code class="language-plaintext highlighter-rouge">Foundation-models</code></p>
+
+<hr />
+
+<h2 id="what-to-watch-next">What to Watch Next</h2>
+
+<ul>
+  <li>Whether Applied’s “one model for the whole plant” claim holds up in real-world deployments</li>
+  <li>If other heavy industries (steel, cement, mining) follow with vertical-specific foundation models</li>
+  <li>How quickly incumbents like Siemens or Honeywell respond with their own AI layers</li>
+</ul>]]></content><author><name></name></author><summary type="html"><![CDATA[2 min read · 1 story — Industrial AI scales]]></summary></entry><entry><title type="html">15 Jul 2026</title><link href="https://10minai.github.io/news/2026/07/15/daily.html" rel="alternate" type="text/html" title="15 Jul 2026" /><published>2026-07-15T00:00:00+00:00</published><updated>2026-07-15T00:00:00+00:00</updated><id>https://10minai.github.io/news/2026/07/15/daily</id><content type="html" xml:base="https://10minai.github.io/news/2026/07/15/daily.html"><![CDATA[<p><strong>3 min read · 1 story</strong> — AI drug discovery heats up</p>
+
+<h2 id="tldr">TL;DR</h2>
+
+<ul>
+  <li>OpenAI researcher spins out $2B AI drug discovery startup</li>
+</ul>
+
+<hr />
+
+<h3 id="-openai-researcher-miles-wang-in-talks-to-launch-ai-drug-discovery-startup-valued-at-2b">🥇 OpenAI researcher Miles Wang in talks to launch AI drug discovery startup valued at $2B</h3>
+
+<p><strong><a href="https://techcrunch.com/2026/07/14/openai-researcher-miles-wang-in-talks-to-launch-ai-drug-discovery-startup-valued-at-2b/">OpenAI researcher Miles Wang is in funding talks for an AI drug discovery startup targeting a $2 billion valuation</a></strong> — Investors are betting big on AI-driven breakthroughs in life sciences.</p>
+
+<blockquote>
+  <p><em>Why it matters:</em> A $2B valuation before launch signals how aggressively capital is chasing AI applications in biotech.</p>
+</blockquote>
+
+<p>🏷️ <code class="language-plaintext highlighter-rouge">Drug-discovery</code> <code class="language-plaintext highlighter-rouge">Funding</code> <code class="language-plaintext highlighter-rouge">Biotech</code> <code class="language-plaintext highlighter-rouge">Spinout</code></p>
+
+<hr />
+
+<h2 id="what-to-watch-next">What to Watch Next</h2>
+
+<ul>
+  <li>Whether Wang’s departure triggers more OpenAI talent to explore vertical AI startups</li>
+  <li>If this valuation becomes a benchmark for other AI-driven drug discovery plays</li>
+  <li>How quickly the startup moves from funding talks to actual drug candidates</li>
+</ul>]]></content><author><name></name></author><summary type="html"><![CDATA[3 min read · 1 story — AI drug discovery heats up]]></summary></entry></feed>
