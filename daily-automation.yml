@@ -1,0 +1,74 @@
+name: Daily AI News Brief Pipeline
+
+on:
+  schedule:
+    - cron: '0 8 * * *' # Runs daily at 8 AM UTC (adjust as needed)
+  workflow_dispatch: # Allows manual trigger
+
+permissions:
+  contents: write
+
+jobs:
+  generate-and-publish:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+        with:
+          ref: main
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+
+      - name: Install Dependencies
+        run: npm install
+
+      - name: Run RSS Pipeline
+        env:
+          MISTRAL_API_KEY: ${{ secrets.MISTRAL_API_KEY }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: |
+          # Set FILTER_DATE to today's date in YYYY-MM-DD format (UTC)
+          FILTER_DATE=$(date -u +'%Y-%m-%d')
+          
+          # Run the full pipeline
+          FILTER_DATE="$FILTER_DATE" npm run pipeline
+
+      - name: Commit Pipeline Artifacts
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          
+          # Stage the generated brief and post
+          git add _posts/*.md ouput/daily_brief.md ouput/rss_*.yaml
+          
+          if git diff-index --quiet HEAD; then
+            echo "No changes to commit."
+          else
+            git commit -m "chore: daily AI brief for $(date -u +'%Y-%m-%d')"
+            git pull --rebase origin main || true
+            git push origin main
+          fi
+
+      - name: Setup Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: '3.3'
+          bundler-cache: true
+
+      - name: Build Jekyll Site
+        run: bundle exec jekyll build
+
+      - name: Deploy to GitHub Pages Repository
+        run: |
+          cd _site
+          touch .nojekyll
+          git init
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add .
+          git commit -m "deploy: jekyll build for $(date -u +'%Y-%m-%d')"
+          git push --force https://x-access-token:${{ secrets.DEPLOY_TOKEN }}@github.com/10minai/news.git HEAD:main
+

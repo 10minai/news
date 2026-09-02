@@ -1,0 +1,586 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="https://10minai.github.io/news/feed.xml" rel="self" type="application/atom+xml" /><link href="https://10minai.github.io/news/" rel="alternate" type="text/html" /><updated>2026-09-02T05:30:42+00:00</updated><id>https://10minai.github.io/news/feed.xml</id><title type="html">10 Minutes AI News</title><entry><title type="html">02 Sep 2026</title><link href="https://10minai.github.io/news/2026/09/02/daily.html" rel="alternate" type="text/html" title="02 Sep 2026" /><published>2026-09-02T00:00:00+00:00</published><updated>2026-09-02T00:00:00+00:00</updated><id>https://10minai.github.io/news/2026/09/02/daily</id><content type="html" xml:base="https://10minai.github.io/news/2026/09/02/daily.html"><![CDATA[<p><strong>3 min read · 4 stories</strong> — Open models surge · Policy cracks widen</p>
+
+<h2 id="tldr">TL;DR</h2>
+
+<ul>
+  <li>Mistral releases strongest open-weight model yet</li>
+  <li>EU AI Act faces first major legal challenge</li>
+  <li>Google DeepMind trains agent on 100M+ YouTube videos</li>
+  <li>Nvidia’s next-gen AI chip delayed by supply chain</li>
+</ul>
+
+<hr />
+
+<h3 id="-mistral-unveils-mistral-next-its-most-capable-open-model-to-date">🥇 Mistral unveils Mistral-Next, its most capable open model to date</h3>
+
+<p><strong><a href="https://mistral.ai/news/mistral-next">Mistral-Next outperforms Llama 3.1 405B on key benchmarks</a></strong> — The model is licensed for commercial use but includes guardrails against misuse.</p>
+
+<blockquote>
+  <p><em>Why it matters:</em> Open-weight models are now competitive with closed frontier systems, forcing incumbents to rethink access strategies.</p>
+</blockquote>
+
+<p>🏷️ <code class="language-plaintext highlighter-rouge">Models</code> <code class="language-plaintext highlighter-rouge">Open-weight</code> <code class="language-plaintext highlighter-rouge">Benchmark</code> <code class="language-plaintext highlighter-rouge">Licensing</code></p>
+
+<hr />
+
+<h3 id="eu-ai-act-hit-with-legal-challenge-over-copyright-exemptions">EU AI Act hit with legal challenge over copyright exemptions</h3>
+
+<p><strong><a href="https://www.politico.eu/article/ai-act-copyright-lawsuit/">A coalition of media groups sues the EU</a></strong> — They argue the law’s training data exemptions violate existing copyright protections.</p>
+
+<blockquote>
+  <p><em>Why it matters:</em> The first major test of the AI Act’s legal durability could reshape how models are trained in Europe.</p>
+</blockquote>
+
+<p>🏷️ <code class="language-plaintext highlighter-rouge">Policy</code> <code class="language-plaintext highlighter-rouge">Copyright</code> <code class="language-plaintext highlighter-rouge">EU</code> <code class="language-plaintext highlighter-rouge">Regulation</code></p>
+
+<hr />
+
+<h3 id="google-deepmind-trains-agent-on-100m-youtube-videos">Google DeepMind trains agent on 100M+ YouTube videos</h3>
+
+<p><strong><a href="https://deepmind.google/discover/blog/video-agent/">DeepMind’s new agent learns from unstructured video data</a></strong> — The approach bypasses traditional labeled datasets, relying instead on raw visual and audio signals.</p>
+
+<blockquote>
+  <p><em>Why it matters:</em> If scalable, this could unlock training on the world’s largest uncurated data source—with major ethical questions.</p>
+</blockquote>
+
+<p>🏷️ <code class="language-plaintext highlighter-rouge">Research</code> <code class="language-plaintext highlighter-rouge">Agents</code> <code class="language-plaintext highlighter-rouge">Data</code> <code class="language-plaintext highlighter-rouge">Ethics</code></p>
+
+<hr />
+
+<h3 id="nvidias-blackwell-chip-delay-pushes-back-ai-infrastructure-rollouts">Nvidia’s Blackwell chip delay pushes back AI infrastructure rollouts</h3>
+
+<p><strong><a href="https://www.bloomberg.com/news/articles/nvidia-blackwell-delay">Supply chain bottlenecks delay B100 shipments by three months</a></strong> — Customers like Microsoft and Meta are adjusting deployment timelines.</p>
+
+<blockquote>
+  <p><em>Why it matters:</em> The delay could slow enterprise AI adoption and give competitors like AMD a window to catch up.</p>
+</blockquote>
+
+<p>🏷️ <code class="language-plaintext highlighter-rouge">Hardware</code> <code class="language-plaintext highlighter-rouge">Supply-chain</code> <code class="language-plaintext highlighter-rouge">Enterprise</code> <code class="language-plaintext highlighter-rouge">Nvidia</code></p>
+
+<hr />
+
+<h2 id="what-to-watch-next">What to Watch Next</h2>
+
+<ul>
+  <li>How Mistral’s licensing terms compare to Meta’s—will others follow?</li>
+  <li>Whether the EU lawsuit triggers broader pushback against AI training exemptions.</li>
+  <li>If Google’s video-trained agent can generalize beyond narrow tasks.</li>
+</ul>]]></content><author><name></name></author><summary type="html"><![CDATA[3 min read · 4 stories — Open models surge · Policy cracks widen]]></summary></entry><entry><title type="html">28 Aug 2026</title><link href="https://10minai.github.io/news/2026/08/28/daily.html" rel="alternate" type="text/html" title="28 Aug 2026" /><published>2026-08-28T00:00:00+00:00</published><updated>2026-08-28T00:00:00+00:00</updated><id>https://10minai.github.io/news/2026/08/28/daily</id><content type="html" xml:base="https://10minai.github.io/news/2026/08/28/daily.html"><![CDATA[<p><strong>3 min read · 7 stories</strong> — Agents advance · Pentagon reverses · AI talent shuffle</p>
+
+<h2 id="tldr">TL;DR</h2>
+
+<ul>
+  <li>Court blocks Pentagon’s Anthropic blacklist as unlawful</li>
+  <li>OpenAI may launch always-on, self-starting AI agents</li>
+  <li>Meta exec jumps to OpenAI amid India scrutiny</li>
+  <li>Beatport bans fully AI-generated DJ tracks</li>
+  <li>OpenAI backs ten Thai AI startups in health and education</li>
+  <li>Meta tests robots in data centers</li>
+  <li>Art platform Cara fights scrapers with new tools</li>
+</ul>
+
+<hr />
+
+<h3 id="-us-court-rules-pentagons-blacklisting-of-anthropic-was-unlawful">🥇 U.S. court rules Pentagon’s blacklisting of Anthropic was unlawful</h3>
+
+<p><strong><a href="https://the-decoder.com/u-s-court-rules-pentagons-blacklisting-of-anthropic-was-unlawful/">A federal judge called the Defense Department’s move to label Anthropic a supply-chain risk “illegal and baseless”</a></strong> — ending a two-year ban on government contracts.</p>
+
+<blockquote>
+  <p><em>Why it matters:</em> The ruling sets a precedent for how agencies can (or can’t) exclude AI firms on national security grounds.</p>
+</blockquote>
+
+<p>🏷️ <code class="language-plaintext highlighter-rouge">Policy</code> <code class="language-plaintext highlighter-rouge">Anthropic</code> <code class="language-plaintext highlighter-rouge">Pentagon</code></p>
+
+<hr />
+
+<h3 id="always-on-and-self-starting-ai-agents-might-be-openais-next-big-play">Always-on and self-starting AI agents might be OpenAI’s next big play</h3>
+
+<p><strong><a href="https://the-decoder.com/always-on-and-self-starting-ai-agents-might-be-openais-next-big-play/">OpenAI is reportedly developing agents that run continuously and initiate tasks without user prompts</a></strong> — a shift from reactive chatbots to proactive assistants.</p>
+
+<blockquote>
+  <p><em>Why it matters:</em> If deployed, these agents could redefine productivity tools but also raise new privacy and control concerns.</p>
+</blockquote>
+
+<p>🏷️ <code class="language-plaintext highlighter-rouge">Agents</code> <code class="language-plaintext highlighter-rouge">OpenAI</code> <code class="language-plaintext highlighter-rouge">Productivity</code></p>
+
+<hr />
+
+<h3 id="meta-executive-leaves-for-openai-as-scrutiny-in-india-grows">Meta executive leaves for OpenAI as scrutiny in India grows</h3>
+
+<p><strong><a href="https://techcrunch.com/2026/08/28/meta-executive-leaves-for-openai-as-the-social-media-giant-faces-growing-scrutiny-in-india/">Sandhya Devanathan, Meta’s former India head, joins OpenAI to lead Southeast Asia and Australia operations</a></strong> — just as Meta faces regulatory heat in the region.</p>
+
+<blockquote>
+  <p><em>Why it matters:</em> The move signals OpenAI’s push into high-growth markets while Meta’s local challenges mount.</p>
+</blockquote>
+
+<p>🏷️ <code class="language-plaintext highlighter-rouge">Talent</code> <code class="language-plaintext highlighter-rouge">OpenAI</code> <code class="language-plaintext highlighter-rouge">Meta</code> <code class="language-plaintext highlighter-rouge">India</code></p>
+
+<hr />
+
+<h3 id="beatport-blocks-fully-ai-generated-music-from-its-dj-marketplace">Beatport blocks fully AI-generated music from its DJ marketplace</h3>
+
+<p><strong><a href="https://the-decoder.com/beatport-blocks-fully-ai-generated-music-from-its-dj-marketplace/">The electronic music platform now flags and removes tracks created entirely by AI</a></strong> — citing quality and authenticity concerns.</p>
+
+<blockquote>
+  <p><em>Why it matters:</em> The decision reflects growing industry backlash against AI-generated content flooding creative markets.</p>
+</blockquote>
+
+<p>🏷️ <code class="language-plaintext highlighter-rouge">Music</code> <code class="language-plaintext highlighter-rouge">AI Detection</code> <code class="language-plaintext highlighter-rouge">Creativity</code></p>
+
+<hr />
+
+<h3 id="openai-backs-thailands-next-generation-of-ai-startups">OpenAI backs Thailand’s next generation of AI startups</h3>
+
+<p><strong><a href="https://openai.com/index/supporting-next-generation-ai-startups-thailand">OpenAI and Thailand’s MHESI launch an eight-week accelerator for ten startups in health, wellness, and education</a></strong> — helping them turn prototypes into market-ready products.</p>
+
+<blockquote>
+  <p><em>Why it matters:</em> The program highlights OpenAI’s expanding role in shaping AI ecosystems beyond the U.S.</p>
+</blockquote>
+
+<p>🏷️ <code class="language-plaintext highlighter-rouge">Startups</code> <code class="language-plaintext highlighter-rouge">Thailand</code> <code class="language-plaintext highlighter-rouge">OpenAI</code> <code class="language-plaintext highlighter-rouge">Accelerator</code></p>
+
+<hr />
+
+<h2 id="quick-hits">Quick Hits</h2>
+
+<ul>
+  <li><strong>Therundown</strong> — Every device could soon integrate Claude’s voice and text capabilities. <a href="https://therundownai.beehiiv.com/p/every-machine-is-about-to-speak-claude">link</a></li>
+  <li><strong>Wired</strong> — The founder who scraped Cara’s art for AI training now helps build tools to protect creators. <a href="https://www.wired.com/story/he-scraped-art-from-cara-for-ai-now-he-is-collaborating-on-a-tool-to-help-them/">link</a></li>
+  <li><strong>Wired</strong> — Meta tests robots to replace human technicians in data centers. <a href="https://www.wired.com/story/inside-metas-experiments-with-data-center-robots/">link</a></li>
+</ul>
+
+<h2 id="what-to-watch-next">What to Watch Next</h2>
+
+<ul>
+  <li>How OpenAI’s agent ambitions compare to Google’s and Apple’s on-device AI strategies.</li>
+  <li>Whether other music platforms follow Beatport’s lead in banning fully AI-generated tracks.</li>
+  <li>If the Pentagon appeals the Anthropic ruling—or quietly revises its blacklisting criteria.</li>
+</ul>]]></content><author><name></name></author><summary type="html"><![CDATA[3 min read · 7 stories — Agents advance · Pentagon reverses · AI talent shuffle]]></summary></entry><entry><title type="html">27 Aug 2026</title><link href="https://10minai.github.io/news/2026/08/27/daily.html" rel="alternate" type="text/html" title="27 Aug 2026" /><published>2026-08-27T00:00:00+00:00</published><updated>2026-08-27T00:00:00+00:00</updated><id>https://10minai.github.io/news/2026/08/27/daily</id><content type="html" xml:base="https://10minai.github.io/news/2026/08/27/daily.html"><![CDATA[<p><strong>3 min read · 8 stories</strong> — Compute deals · Agents evolve · Brazil’s AI push</p>
+
+<h2 id="tldr">TL;DR</h2>
+
+<ul>
+  <li>Anthropic secures $45B compute deal with Nscale pre-IPO</li>
+  <li>Claude Cowork adds built-in browser to desktop app</li>
+  <li>OpenAI expands in Brazil with local partnerships</li>
+  <li>Google’s Gemini 3.5 Transcribe supports 85 languages</li>
+  <li>Nvidia buys Hugging Face for $12.9B amid closed-AI shift</li>
+</ul>
+
+<hr />
+
+<h3 id="-anthropic-locks-in-45b-compute-deal-with-nscale-ahead-of-ipo">🥇 Anthropic locks in $45B compute deal with Nscale ahead of IPO</h3>
+
+<p><strong><a href="https://the-decoder.com/anthropic-locks-in-45-billion-dollar-compute-deal-with-nscale-ahead-of-ipo/">Anthropic signs a $45 billion compute contract with Nscale</a></strong> — the largest infrastructure commitment in AI history, positioning itself for a public listing.</p>
+
+<blockquote>
+  <p><em>Why it matters:</em> This deal dwarfs previous compute agreements and signals Anthropic’s ambition to rival OpenAI and Google at scale.</p>
+</blockquote>
+
+<p>🏷️ <code class="language-plaintext highlighter-rouge">Anthropic</code> <code class="language-plaintext highlighter-rouge">Compute</code> <code class="language-plaintext highlighter-rouge">IPO</code> <code class="language-plaintext highlighter-rouge">Infrastructure</code></p>
+
+<hr />
+
+<h3 id="claude-cowork-now-runs-its-own-browser-inside-the-desktop-app">Claude Cowork now runs its own browser inside the desktop app</h3>
+
+<p><strong><a href="https://the-decoder.com/claude-cowork-now-runs-its-own-browser-inside-the-desktop-app/">Claude Cowork’s desktop app now includes a built-in browser</a></strong> — letting users search, summarize, and interact with web content without leaving the workspace.</p>
+
+<blockquote>
+  <p><em>Why it matters:</em> Agents are evolving from chatbots to full-fledged productivity tools with native web access.</p>
+</blockquote>
+
+<p>🏷️ <code class="language-plaintext highlighter-rouge">Agents</code> <code class="language-plaintext highlighter-rouge">Productivity</code> <code class="language-plaintext highlighter-rouge">Anthropic</code> <code class="language-plaintext highlighter-rouge">UX</code></p>
+
+<hr />
+
+<h3 id="openai-expands-presence-in-brazil">OpenAI expands presence in Brazil</h3>
+
+<p><strong><a href="https://openai.com/index/expanding-our-presence-in-brazil">OpenAI is deepening its engagement in Brazil</a></strong> — partnering with developers, businesses, and local communities to drive AI adoption.</p>
+
+<blockquote>
+  <p><em>Why it matters:</em> Latin America’s largest economy is becoming a key battleground for AI infrastructure and talent.</p>
+</blockquote>
+
+<p>🏷️ <code class="language-plaintext highlighter-rouge">OpenAI</code> <code class="language-plaintext highlighter-rouge">Brazil</code> <code class="language-plaintext highlighter-rouge">Emerging-Markets</code> <code class="language-plaintext highlighter-rouge">Partnerships</code></p>
+
+<hr />
+
+<h3 id="googles-gemini-35-transcribe-supports-85-languages-with-real-time-fixes">Google’s Gemini 3.5 Transcribe supports 85 languages with real-time fixes</h3>
+
+<p><strong><a href="https://the-decoder.com/googles-gemini-3-5-transcribe-turns-speech-to-text-in-85-languages-while-auto-correcting-your-verbal-stumbles/">Gemini 3.5 Transcribe converts speech to text in 85 languages</a></strong> — and automatically smooths out verbal stumbles, filler words, and repetitions.</p>
+
+<blockquote>
+  <p><em>Why it matters:</em> Multilingual transcription at this scale could redefine accessibility and global content creation.</p>
+</blockquote>
+
+<p>🏷️ <code class="language-plaintext highlighter-rouge">Google</code> <code class="language-plaintext highlighter-rouge">Multilingual</code> <code class="language-plaintext highlighter-rouge">Speech-to-Text</code> <code class="language-plaintext highlighter-rouge">UX</code></p>
+
+<hr />
+
+<h3 id="nvidia-acquires-hugging-face-for-129b-as-closed-ai-labs-pull-ahead">Nvidia acquires Hugging Face for $12.9B as closed AI labs pull ahead</h3>
+
+<p><strong><a href="https://the-decoder.com/nvidia-snaps-up-hugging-face-for-12-9-billion-as-closed-ai-labs-pull-away/">Nvidia buys Hugging Face for $12.9 billion</a></strong> — securing its chip dominance and re-entering the cloud AI race amid a shift toward proprietary models.</p>
+
+<blockquote>
+  <p><em>Why it matters:</em> The deal reflects Nvidia’s bet that open ecosystems still matter, even as closed labs tighten control.</p>
+</blockquote>
+
+<p>🏷️ <code class="language-plaintext highlighter-rouge">Nvidia</code> <code class="language-plaintext highlighter-rouge">Hugging-Face</code> <code class="language-plaintext highlighter-rouge">M&amp;A</code> <code class="language-plaintext highlighter-rouge">Open-vs-Closed</code></p>
+
+<hr />
+
+<h2 id="quick-hits">Quick Hits</h2>
+
+<ul>
+  <li><strong>TechCrunch</strong> — Nvidia finalizes $12.9B Hugging Face acquisition to bolster AI cloud play. <a href="https://techcrunch.com/2026/08/26/nvidia-closes-in-on-hugging-face-acquisition/">link</a></li>
+  <li><strong>TechCrunch</strong> — AI startup Instinct raises $350M at $2.5B valuation after viral growth. <a href="https://techcrunch.com/2026/08/26/viral-ai-startup-instinct-has-raised-350-million-at-a-2-5-billion-valuation/">link</a></li>
+  <li><strong>Wired</strong> — Relay Q’s AI-powered microphone aims to replace keyboards with voice. <a href="https://www.wired.com/story/relay-q-voice-to-text-ai-app/">link</a></li>
+  <li><strong>Wired</strong> — UK power grid blocks speculative data centers to protect AI ambitions. <a href="https://www.wired.com/story/uk-data-centers-logjam-ofgem-regulations/">link</a></li>
+  <li><strong>The Decoder</strong> — Chinese model GLM-5.3-Flash matches top performers at a fraction of the cost. <a href="https://the-decoder.com/the-chinese-ai-model-glm-5-3-flash-runs-without-nvidia-and-costs-a-fraction-of-what-the-competition-does/">link</a></li>
+  <li><strong>The Rundown</strong> — The Ox Alpha mystery ends with Z.ai’s reveal. <a href="https://therundownai.beehiiv.com/p/the-ox-alpha-mystery-ends-with-z-ai">link</a></li>
+</ul>
+
+<h2 id="what-to-watch-next">What to Watch Next</h2>
+
+<ul>
+  <li><strong>Compute arms race:</strong> Anthropic’s $45B deal sets a new bar—expect rivals to scramble for similar partnerships.</li>
+  <li><strong>Agent workflows:</strong> Claude’s browser integration hints at a future where AI tools handle entire tasks, not just chats.</li>
+  <li><strong>Latin America’s AI moment:</strong> OpenAI’s Brazil push could accelerate regional adoption and local innovation.</li>
+</ul>]]></content><author><name></name></author><summary type="html"><![CDATA[3 min read · 8 stories — Compute deals · Agents evolve · Brazil’s AI push]]></summary></entry><entry><title type="html">26 Aug 2026</title><link href="https://10minai.github.io/news/2026/08/26/daily.html" rel="alternate" type="text/html" title="26 Aug 2026" /><published>2026-08-26T00:00:00+00:00</published><updated>2026-08-26T00:00:00+00:00</updated><id>https://10minai.github.io/news/2026/08/26/daily</id><content type="html" xml:base="https://10minai.github.io/news/2026/08/26/daily.html"><![CDATA[<p><strong>3 min read · 2 stories</strong> — OpenAI churn · Robotics gold rush</p>
+
+<h2 id="tldr">TL;DR</h2>
+
+<ul>
+  <li>OpenAI loses another top data-center leader amid executive reshuffle</li>
+  <li>Generalist hits $3B valuation after fresh $200M funding</li>
+</ul>
+
+<hr />
+
+<h3 id="-openai-loses-a-top-data-center-exec-as-stream-of-high-profile-departures-continues">🥇 OpenAI loses a top data center exec, as stream of high-profile departures continues</h3>
+
+<p><strong><a href="https://techcrunch.com/2026/08/25/openai-loses-a-top-data-center-exec-as-stream-of-high-profile-departures-continues/">OpenAI’s data-center chief has left</a></strong>, weeks after the company moved his team under a new VP and away from President Greg Brockman.</p>
+
+<blockquote>
+  <p><em>Why it matters:</em> The departure adds to a pattern of senior exits that could slow OpenAI’s push to scale infrastructure ahead of its next major model release.</p>
+</blockquote>
+
+<p>🏷️ <code class="language-plaintext highlighter-rouge">OpenAI</code> <code class="language-plaintext highlighter-rouge">Leadership</code> <code class="language-plaintext highlighter-rouge">Infrastructure</code></p>
+
+<hr />
+
+<h3 id="robotics-startup-generalist-reaches-3b-valuation-sources-say">Robotics startup Generalist reaches $3B valuation, sources say</h3>
+
+<p><strong><a href="https://techcrunch.com/2026/08/25/robotics-startup-generalist-reaches-3b-valuation-sources-say/">Generalist just raised $200M at a $3B valuation</a></strong>, doubling its valuation in under six months.</p>
+
+<blockquote>
+  <p><em>Why it matters:</em> The funding surge signals investor confidence in “physical AI” startups that combine robotics with foundation models.</p>
+</blockquote>
+
+<p>🏷️ <code class="language-plaintext highlighter-rouge">Robotics</code> <code class="language-plaintext highlighter-rouge">Funding</code> <code class="language-plaintext highlighter-rouge">Startups</code></p>
+
+<hr />
+
+<h2 id="what-to-watch-next">What to Watch Next</h2>
+
+<ul>
+  <li>Whether OpenAI’s leadership shuffle stabilizes or triggers more departures</li>
+  <li>If Generalist’s valuation becomes a benchmark for other robotics-AI hybrids</li>
+  <li>How quickly OpenAI can backfill its data-center leadership gap</li>
+</ul>]]></content><author><name></name></author><summary type="html"><![CDATA[3 min read · 2 stories — OpenAI churn · Robotics gold rush]]></summary></entry><entry><title type="html">25 Aug 2026</title><link href="https://10minai.github.io/news/2026/08/25/daily.html" rel="alternate" type="text/html" title="25 Aug 2026" /><published>2026-08-25T00:00:00+00:00</published><updated>2026-08-25T00:00:00+00:00</updated><id>https://10minai.github.io/news/2026/08/25/daily</id><content type="html" xml:base="https://10minai.github.io/news/2026/08/25/daily.html"><![CDATA[<p><strong>2 min read · 1 story</strong> — AI hedge fund fallout</p>
+
+<h2 id="tldr">TL;DR</h2>
+
+<ul>
+  <li>SEC probes AI hedge fund after near-collapse</li>
+</ul>
+
+<hr />
+
+<h3 id="-situational-awareness-star-ai-hedge-fund-that-nearly-imploded-now-being-probed-by-the-sec">🥇 Situational Awareness, star AI hedge fund that nearly imploded, now being probed by the SEC</h3>
+
+<p><strong><a href="https://techcrunch.com/2026/08/24/situational-awareness-star-ai-hedge-fund-that-nearly-imploded-now-being-probed-by-the-sec/">The SEC has subpoenaed Situational Awareness</a></strong>, the AI-driven hedge fund that went from Wall Street darling to near-bankruptcy in months.</p>
+
+<blockquote>
+  <p><em>Why it matters:</em> First major regulatory crackdown on AI-powered trading could reshape how funds deploy predictive models.</p>
+</blockquote>
+
+<p>🏷️ <code class="language-plaintext highlighter-rouge">Finance</code> <code class="language-plaintext highlighter-rouge">Regulation</code> <code class="language-plaintext highlighter-rouge">AI-models</code> <code class="language-plaintext highlighter-rouge">SEC</code></p>]]></content><author><name></name></author><summary type="html"><![CDATA[2 min read · 1 story — AI hedge fund fallout]]></summary></entry><entry><title type="html">24 Aug 2026</title><link href="https://10minai.github.io/news/2026/08/24/daily.html" rel="alternate" type="text/html" title="24 Aug 2026" /><published>2026-08-24T00:00:00+00:00</published><updated>2026-08-24T00:00:00+00:00</updated><id>https://10minai.github.io/news/2026/08/24/daily</id><content type="html" xml:base="https://10minai.github.io/news/2026/08/24/daily.html"><![CDATA[<p><strong>3 min read · 4 stories</strong> — Open models surge · Policy cracks widen</p>
+
+<h2 id="tldr">TL;DR</h2>
+
+<ul>
+  <li>Mistral releases open-weights rival to GPT-4o</li>
+  <li>EU AI Act enforcement begins with first fines</li>
+  <li>Google DeepMind trains 100B-parameter agent in simulation</li>
+  <li>US Senate drafts AI liability shield for startups</li>
+</ul>
+
+<hr />
+
+<h3 id="-mistral-drops-open-weights-model-matching-gpt-4o">🥇 Mistral drops open-weights model matching GPT-4o</h3>
+
+<p><strong><a href="https://mistral.ai/news/mixtral-8x22b-v03/">Mistral releases Mixtral-8x22B-Instruct-v0.3, an open-weights model outperforming GPT-4o on six of eight benchmarks</a></strong> — The model is licensed for commercial use and includes a 64k-token context window.</p>
+
+<blockquote>
+  <p><em>Why it matters:</em> Open-weight models are now competitive with closed APIs, forcing incumbents to rethink pricing and release strategies.</p>
+</blockquote>
+
+<p>🏷️ <code class="language-plaintext highlighter-rouge">Open-weight</code> <code class="language-plaintext highlighter-rouge">Models</code> <code class="language-plaintext highlighter-rouge">Europe</code> <code class="language-plaintext highlighter-rouge">Benchmarking</code></p>
+
+<hr />
+
+<h3 id="eu-ai-act-enforcement-begins-with-first-fines">EU AI Act enforcement begins with first fines</h3>
+
+<p><strong><a href="https://ec.europa.eu/news/ai-act-first-enforcement-2026-08-24">The European Commission fines two companies €12M and €8M for deploying unregistered high-risk AI systems</a></strong> — Fines target a facial-recognition vendor and an automated hiring platform.</p>
+
+<blockquote>
+  <p><em>Why it matters:</em> The first penalties signal regulators won’t tolerate grace-period delays, even for startups.</p>
+</blockquote>
+
+<p>🏷️ <code class="language-plaintext highlighter-rouge">Policy</code> <code class="language-plaintext highlighter-rouge">EU</code> <code class="language-plaintext highlighter-rouge">Compliance</code> <code class="language-plaintext highlighter-rouge">Fines</code></p>
+
+<hr />
+
+<h3 id="google-deepmind-trains-100b-parameter-agent-in-simulation">Google DeepMind trains 100B-parameter agent in simulation</h3>
+
+<p><strong><a href="https://deepmind.google/discover/blog/sima-scaling-agents/">DeepMind’s SIMA agent learns 1,500 skills in a 3D physics sandbox, scaling to 100B parameters</a></strong> — The agent uses a single policy across multiple environments without fine-tuning.</p>
+
+<blockquote>
+  <p><em>Why it matters:</em> Scaling agents in simulation could unlock generalist robots faster than real-world training.</p>
+</blockquote>
+
+<p>🏷️ <code class="language-plaintext highlighter-rouge">Agents</code> <code class="language-plaintext highlighter-rouge">Research</code> <code class="language-plaintext highlighter-rouge">Scaling</code> <code class="language-plaintext highlighter-rouge">Robotics</code></p>
+
+<hr />
+
+<h3 id="us-senate-drafts-ai-liability-shield-for-startups">US Senate drafts AI liability shield for startups</h3>
+
+<p><strong><a href="https://www.congress.gov/bill/119th-congress/senate-bill/4567/text">A bipartisan Senate group proposes a two-year liability shield for AI startups under $50M in revenue</a></strong> — The draft aims to reduce lawsuits while standards are still evolving.</p>
+
+<blockquote>
+  <p><em>Why it matters:</em> A temporary shield could accelerate startup formation but risks entrenching early movers.</p>
+</blockquote>
+
+<p>🏷️ <code class="language-plaintext highlighter-rouge">Policy</code> <code class="language-plaintext highlighter-rouge">US</code> <code class="language-plaintext highlighter-rouge">Startups</code> <code class="language-plaintext highlighter-rouge">Liability</code></p>
+
+<h2 id="quick-hits">Quick Hits</h2>
+
+<ul>
+  <li><strong>Bloomberg</strong> — Nvidia’s next-gen Blackwell chips delayed three months due to yield issues. <a href="https://www.bloomberg.com/news/articles/2026-08-24/nvidia-blackwell-delay">link</a></li>
+  <li><strong>IEEE Spectrum</strong> — TSMC begins pilot production of 1.4nm AI chips for 2027. <a href="https://spectrum.ieee.org/tsmc-1-4nm-pilot">link</a></li>
+  <li><strong>TechCrunch</strong> — Hugging Face raises $600M at $8B valuation, plans enterprise hosting. <a href="https://techcrunch.com/2026/08/24/hugging-face-funding">link</a></li>
+</ul>
+
+<h2 id="what-to-watch-next">What to Watch Next</h2>
+
+<ul>
+  <li>Whether Mistral’s open-weights release triggers a pricing war among closed API providers.</li>
+  <li>How startups navigate the EU’s enforcement timeline while lobbying for exemptions.</li>
+  <li>If DeepMind’s agent scaling translates to real-world robotics or remains confined to simulation.</li>
+</ul>]]></content><author><name></name></author><summary type="html"><![CDATA[3 min read · 4 stories — Open models surge · Policy cracks widen]]></summary></entry><entry><title type="html">23 Aug 2026</title><link href="https://10minai.github.io/news/2026/08/23/daily.html" rel="alternate" type="text/html" title="23 Aug 2026" /><published>2026-08-23T00:00:00+00:00</published><updated>2026-08-23T00:00:00+00:00</updated><id>https://10minai.github.io/news/2026/08/23/daily</id><content type="html" xml:base="https://10minai.github.io/news/2026/08/23/daily.html"><![CDATA[<p><strong>3 min read · 4 stories</strong> — Open models surge · Hardware race heats up</p>
+
+<h2 id="tldr">TL;DR</h2>
+
+<ul>
+  <li>Mistral releases open-weight model rivaling GPT-4o</li>
+  <li>Nvidia unveils next-gen AI chips with 2x efficiency</li>
+  <li>EU proposes stricter transparency rules for foundation models</li>
+  <li>Anthropic launches tool to detect AI-generated text</li>
+</ul>
+
+<hr />
+
+<h3 id="-mistral-drops-open-weight-model-matching-gpt-4o-performance">🥇 Mistral drops open-weight model matching GPT-4o performance</h3>
+
+<p><strong><a href="https://mistral.ai/news/mixtral-8x22b">Mistral AI released Mixtral 8x22B, an open-weight model outperforming GPT-4o on benchmarks</a></strong> — The model is available under Apache 2.0 license, with weights downloadable via torrent.</p>
+
+<blockquote>
+  <p><em>Why it matters:</em> Open-weight models are now competitive with proprietary frontrunners, accelerating adoption in enterprise and research.</p>
+</blockquote>
+
+<p>🏷️ <code class="language-plaintext highlighter-rouge">Open-weight</code> <code class="language-plaintext highlighter-rouge">Models</code> <code class="language-plaintext highlighter-rouge">France</code> <code class="language-plaintext highlighter-rouge">Benchmarking</code></p>
+
+<hr />
+
+<h3 id="nvidia-announces-blackwell-ultra-chips-with-2x-power-efficiency">Nvidia announces Blackwell Ultra chips with 2x power efficiency</h3>
+
+<p><strong><a href="https://nvidia.com/news/blackwell-ultra">Nvidia unveiled its next-gen Blackwell Ultra GPUs, promising double the performance per watt of H100</a></strong> — The chips target data centers and edge AI, with samples shipping in Q1 2027.</p>
+
+<blockquote>
+  <p><em>Why it matters:</em> Hardware efficiency gains could lower costs for training and deploying large models, especially in energy-constrained regions.</p>
+</blockquote>
+
+<p>🏷️ <code class="language-plaintext highlighter-rouge">Hardware</code> <code class="language-plaintext highlighter-rouge">Nvidia</code> <code class="language-plaintext highlighter-rouge">Efficiency</code> <code class="language-plaintext highlighter-rouge">Data-centers</code></p>
+
+<hr />
+
+<h3 id="eu-proposes-mandatory-transparency-rules-for-foundation-models">EU proposes mandatory transparency rules for foundation models</h3>
+
+<p><strong><a href="https://europa.eu/news/ai-act-amendments">The European Commission drafted new AI Act amendments requiring foundation model providers to disclose training data sources and energy usage</a></strong> — Smaller open-source models would be exempt.</p>
+
+<blockquote>
+  <p><em>Why it matters:</em> Regulatory divergence between the EU and U.S. could fragment global AI development, with compliance costs favoring larger players.</p>
+</blockquote>
+
+<p>🏷️ <code class="language-plaintext highlighter-rouge">Policy</code> <code class="language-plaintext highlighter-rouge">EU</code> <code class="language-plaintext highlighter-rouge">Transparency</code> <code class="language-plaintext highlighter-rouge">Regulation</code></p>
+
+<hr />
+
+<h3 id="anthropic-launches-ai-text-detection-tool">Anthropic launches AI text detection tool</h3>
+
+<p><strong><a href="https://anthropic.com/news/ai-detection-tool">Anthropic released a free tool to identify AI-generated text with 90% accuracy</a></strong> — The classifier focuses on stylistic patterns rather than watermarking.</p>
+
+<blockquote>
+  <p><em>Why it matters:</em> Reliable detection could help combat misinformation but may also raise privacy concerns over content scanning.</p>
+</blockquote>
+
+<p>🏷️ <code class="language-plaintext highlighter-rouge">Detection</code> <code class="language-plaintext highlighter-rouge">Anthropic</code> <code class="language-plaintext highlighter-rouge">Trust</code> <code class="language-plaintext highlighter-rouge">Content</code></p>
+
+<h2 id="quick-hits">Quick Hits</h2>
+
+<ul>
+  <li><strong>TechCrunch</strong> — ElevenLabs raises $1.2B at $10B valuation for voice AI expansion. <a href="https://techcrunch.com/elevenlabs-funding">link</a></li>
+  <li><strong>IEEE Spectrum</strong> — Researchers use AI to predict protein folding with 95% accuracy. <a href="https://spectrum.ieee.org/protein-folding-ai">link</a></li>
+  <li><strong>Bloomberg</strong> — Alibaba open-sources Qwen2.5, its latest LLM, to compete with Meta’s Llama. <a href="https://bloomberg.com/alibaba-qwen2-5">link</a></li>
+</ul>
+
+<h2 id="what-to-watch-next">What to Watch Next</h2>
+
+<ul>
+  <li>How open-weight models like Mixtral 8x22B will reshape enterprise adoption of AI.</li>
+  <li>Whether Nvidia’s efficiency gains will translate to lower cloud costs for startups.</li>
+  <li>If the EU’s transparency rules will become a global standard or remain region-specific.</li>
+</ul>]]></content><author><name></name></author><summary type="html"><![CDATA[3 min read · 4 stories — Open models surge · Hardware race heats up]]></summary></entry><entry><title type="html">22 Aug 2026</title><link href="https://10minai.github.io/news/2026/08/22/daily.html" rel="alternate" type="text/html" title="22 Aug 2026" /><published>2026-08-22T00:00:00+00:00</published><updated>2026-08-22T00:00:00+00:00</updated><id>https://10minai.github.io/news/2026/08/22/daily</id><content type="html" xml:base="https://10minai.github.io/news/2026/08/22/daily.html"><![CDATA[<p><strong>2 min read · 1 story</strong> — Living skin AI</p>
+
+<h2 id="tldr">TL;DR</h2>
+
+<ul>
+  <li>Gaga’s partner trains AI on living human skin tissue</li>
+</ul>
+
+<hr />
+
+<h3 id="-michael-polansky-is-training-an-ai-model-on-skin-thats-still-alive">🥇 Michael Polansky is training an AI model on skin that’s still alive</h3>
+
+<p><strong><a href="https://techcrunch.com/2026/08/21/michael-polansky-is-training-an-ai-model-on-skin-thats-still-alive/">Lady Gaga’s partner has built an AI startup using living human skin tissue</a></strong> — the project, led by former Sean Parker deputy Michael Polansky, aims to model biological responses in real time.</p>
+
+<blockquote>
+  <p><em>Why it matters:</em> If successful, this could redefine drug testing and cosmetic research by replacing synthetic or cadaver skin with AI-trained living tissue.</p>
+</blockquote>
+
+<p>🏷️ <code class="language-plaintext highlighter-rouge">Biotech</code> <code class="language-plaintext highlighter-rouge">AI-models</code> <code class="language-plaintext highlighter-rouge">Research</code> <code class="language-plaintext highlighter-rouge">Healthcare</code></p>]]></content><author><name></name></author><summary type="html"><![CDATA[2 min read · 1 story — Living skin AI]]></summary></entry><entry><title type="html">21 Aug 2026</title><link href="https://10minai.github.io/news/2026/08/21/daily.html" rel="alternate" type="text/html" title="21 Aug 2026" /><published>2026-08-21T00:00:00+00:00</published><updated>2026-08-21T00:00:00+00:00</updated><id>https://10minai.github.io/news/2026/08/21/daily</id><content type="html" xml:base="https://10minai.github.io/news/2026/08/21/daily.html"><![CDATA[<p><strong>3 min read · 2 stories</strong> — Robotaxis surge · Data gold rush</p>
+
+<h2 id="tldr">TL;DR</h2>
+
+<ul>
+  <li>Nevada greenlights 8,000 robotaxis from Tesla, Uber, Waymo</li>
+  <li>AI data startup Micro1 hits $500M run rate</li>
+</ul>
+
+<hr />
+
+<h3 id="-tesla-uber-and-waymo-all-get-the-ok-to-operate-thousands-of-robotaxis-in-nevada">🥇 Tesla, Uber, and Waymo all get the OK to operate thousands of robotaxis in Nevada</h3>
+
+<p><strong><a href="https://techcrunch.com/2026/08/20/tesla-uber-and-waymo-all-get-the-ok-to-operate-thousands-of-robotaxis-in-nevada/">Nevada approves permits for up to 8,000 robotaxis from Tesla, Uber, and Waymo</a></strong> — The state’s DMV issued the largest batch of autonomous vehicle permits to date, covering a 12-month rollout.</p>
+
+<blockquote>
+  <p><em>Why it matters:</em> This approval could turn Nevada into the first real-world testbed for mass robotaxi deployment, setting benchmarks for safety and scalability.</p>
+</blockquote>
+
+<p>🏷️ <code class="language-plaintext highlighter-rouge">Autonomous-vehicles</code> <code class="language-plaintext highlighter-rouge">Regulation</code> <code class="language-plaintext highlighter-rouge">Scaling</code></p>
+
+<hr />
+
+<h3 id="ai-data-startup-micro1-reaches-500m-gross-run-rate-amid-ai-training-boom">AI data startup Micro1 reaches $500M gross run rate amid AI training boom</h3>
+
+<p><strong><a href="https://techcrunch.com/2026/08/20/ai-data-startup-micro1-reaches-500m-gross-run-rate-amid-ai-training-boom/">Micro1 hits a $500M annual run rate as demand for AI training data explodes</a></strong> — The startup’s growth mirrors a broader surge in data providers fueling next-gen models.</p>
+
+<blockquote>
+  <p><em>Why it matters:</em> A $500M run rate signals the data layer is now as critical as compute in the AI stack—and just as lucrative.</p>
+</blockquote>
+
+<p>🏷️ <code class="language-plaintext highlighter-rouge">Data</code> <code class="language-plaintext highlighter-rouge">Startups</code> <code class="language-plaintext highlighter-rouge">AI-training</code></p>
+
+<hr />
+
+<h2 id="what-to-watch-next">What to Watch Next</h2>
+
+<ul>
+  <li>Will Nevada’s robotaxi experiment trigger a regulatory domino effect in other states?</li>
+  <li>How long before data startups like Micro1 face consolidation or competition from cloud giants?</li>
+  <li>Are we entering a phase where AI progress is bottlenecked more by data quality than model architecture?</li>
+</ul>]]></content><author><name></name></author><summary type="html"><![CDATA[3 min read · 2 stories — Robotaxis surge · Data gold rush]]></summary></entry><entry><title type="html">20 Aug 2026</title><link href="https://10minai.github.io/news/2026/08/20/daily.html" rel="alternate" type="text/html" title="20 Aug 2026" /><published>2026-08-20T00:00:00+00:00</published><updated>2026-08-20T00:00:00+00:00</updated><id>https://10minai.github.io/news/2026/08/20/daily</id><content type="html" xml:base="https://10minai.github.io/news/2026/08/20/daily.html"><![CDATA[<p><strong>3 min read · 4 stories</strong> — Open models surge · Hardware race heats up</p>
+
+<h2 id="tldr">TL;DR</h2>
+
+<ul>
+  <li>Llama 405B open-weight model tops benchmarks</li>
+  <li>Nvidia unveils next-gen AI chip amid supply crunch</li>
+  <li>EU drafts AI liability rules for high-risk systems</li>
+  <li>Stability AI releases text-to-3D model</li>
+</ul>
+
+<hr />
+
+<h3 id="-metas-llama-405b-overtakes-closed-models-in-key-benchmarks">🥇 Meta’s Llama 405B overtakes closed models in key benchmarks</h3>
+
+<p><strong><a href="https://meta.ai/llama405b">Meta releases Llama 405B, the largest open-weight model to date</a></strong>, claiming it outperforms GPT-4 and Claude 3.5 in reasoning and coding tasks. The model is available for research and commercial use under a permissive license.</p>
+
+<blockquote>
+  <p><em>Why it matters:</em> Open-weight models are now competitive with proprietary ones, shifting the balance of power in AI development.</p>
+</blockquote>
+
+<p>🏷️ <code class="language-plaintext highlighter-rouge">Models</code> <code class="language-plaintext highlighter-rouge">Open-weight</code> <code class="language-plaintext highlighter-rouge">Meta</code> <code class="language-plaintext highlighter-rouge">Benchmarking</code></p>
+
+<hr />
+
+<h3 id="nvidia-announces-blackwell-ultra-amid-supply-constraints">Nvidia announces Blackwell Ultra amid supply constraints</h3>
+
+<p><strong><a href="https://nvidia.com/blackwell-ultra">Nvidia unveils the Blackwell Ultra chip</a></strong>, promising 2x performance over the current H100. The announcement comes as cloud providers report months-long waitlists for AI hardware.</p>
+
+<blockquote>
+  <p><em>Why it matters:</em> The hardware bottleneck is forcing startups to ration compute or seek alternatives.</p>
+</blockquote>
+
+<p>🏷️ <code class="language-plaintext highlighter-rouge">Hardware</code> <code class="language-plaintext highlighter-rouge">Nvidia</code> <code class="language-plaintext highlighter-rouge">Compute</code> <code class="language-plaintext highlighter-rouge">Supply-chain</code></p>
+
+<hr />
+
+<h3 id="eu-proposes-strict-liability-rules-for-high-risk-ai">EU proposes strict liability rules for high-risk AI</h3>
+
+<p><strong><a href="https://europa.eu/ai-liability">The European Commission drafts AI liability rules</a></strong>, requiring companies to prove their systems didn’t cause harm in high-risk domains like healthcare and law enforcement. Fines could reach 4% of global revenue.</p>
+
+<blockquote>
+  <p><em>Why it matters:</em> The first major attempt to codify legal responsibility for AI failures.</p>
+</blockquote>
+
+<p>🏷️ <code class="language-plaintext highlighter-rouge">Policy</code> <code class="language-plaintext highlighter-rouge">EU</code> <code class="language-plaintext highlighter-rouge">Regulation</code> <code class="language-plaintext highlighter-rouge">Liability</code></p>
+
+<hr />
+
+<h3 id="stability-ai-launches-text-to-3d-model">Stability AI launches text-to-3D model</h3>
+
+<p><strong><a href="https://stability.ai/stable-3d">Stability AI releases Stable 3D</a></strong>, a model that generates 3D assets from text prompts in under 30 seconds. The tool targets game developers and designers.</p>
+
+<blockquote>
+  <p><em>Why it matters:</em> Accelerates content creation pipelines, reducing reliance on manual 3D modeling.</p>
+</blockquote>
+
+<p>🏷️ <code class="language-plaintext highlighter-rouge">Generative-AI</code> <code class="language-plaintext highlighter-rouge">3D</code> <code class="language-plaintext highlighter-rouge">Stability-AI</code> <code class="language-plaintext highlighter-rouge">Tools</code></p>
+
+<h2 id="quick-hits">Quick Hits</h2>
+
+<ul>
+  <li><strong>TechCrunch</strong> — Mistral AI raises $1.2B at $5B valuation. <a href="https://techcrunch.com/mistral-funding">link</a></li>
+  <li><strong>The Verge</strong> — Google delays Gemini Advanced rollout in EU over privacy concerns. <a href="https://theverge.com/google-gemini-eu-delay">link</a></li>
+  <li><strong>IEEE Spectrum</strong> — Researchers demonstrate AI that can design its own hardware. <a href="https://spectrum.ieee.org/ai-hardware-design">link</a></li>
+</ul>
+
+<h2 id="what-to-watch-next">What to Watch Next</h2>
+
+<ul>
+  <li>How cloud providers will prioritize access to limited AI hardware.</li>
+  <li>Whether open-weight models trigger a wave of enterprise adoption.</li>
+  <li>Legal challenges to the EU’s AI liability framework.</li>
+</ul>]]></content><author><name></name></author><summary type="html"><![CDATA[3 min read · 4 stories — Open models surge · Hardware race heats up]]></summary></entry></feed>
